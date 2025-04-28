@@ -95,3 +95,4 @@
 	      *   **Concepto:**  Añaden ruido gaussiano progresivamente a una imagen hasta convertirla en ruido puro. Luego, una red neuronal aprende a "desdifuminar" la imagen, eliminando gradualmente el ruido para reconstruir la imagen original.
 	      *   **Ejemplos:** Stable Diffusion, DALL-E 2, Midjourney. Capacidad para generar imágenes fotorrealistas a partir de descripciones textuales (text-
 	- ## Herramientas de inteligencia artificial generativa de imagen
+		- rativa de imagen
