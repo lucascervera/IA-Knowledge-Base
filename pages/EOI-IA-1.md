@@ -29,3 +29,4 @@
   *   **Aprendizaje No Supervisado:**  Se entrena un modelo con datos no etiquetados para descubrir patrones ocultos.  Se utiliza para agrupamiento (clustering) de imágenes, reducción de dimensionalidad y detección de anomalías.  Ejemplos: k-means, PCA, t-SNE.
   *   **Aprendizaje por Refuerzo:**  Un agente aprende a tomar decisiones en un entorno para maximizar una recompensa.  Puede utilizarse para tareas como la navegación autónoma de robots.
   *   **Transfer Learning:**  Utilizar un modelo pre-entrenado en un conjunto de datos grande (por ejemplo, ImageNet) y ajustarlo para una tarea específica con un conjunto de datos más pequeño.
+-
