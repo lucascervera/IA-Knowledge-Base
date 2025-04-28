@@ -1,4 +1,4 @@
-## Cuáles son las principales tecnologías relacionadas con inteligencia artificial y uso procesamiento modificación y generación de imagen.? s
+## Tecnologías relacionadas con inteligencia artificial y uso procesamiento modificación y generación de imagen
 - Las principales tecnologías relacionadas con Inteligencia Artificial (IA) e Imagen se pueden clasificar en las siguientes categorías:
   
   **1. Visión Artificial (Computer Vision):**
