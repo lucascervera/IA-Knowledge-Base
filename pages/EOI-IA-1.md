@@ -24,13 +24,11 @@
 	- Creación de logos
 	-
 	- ## Preparación del entorno de trabajo
-	  collapsed:: true
 		- Necesitas
-		  collapsed:: true
 			- Una cuenta de Google
-			- Una carpeta de Google Drive llamada [EOI-IA-1 Carpeta de trabajo]("https://drive.google.com/drive/folders/1Yf1SwV3SgoEuY0yDKaa9s27yMXcVh_R8)
 			- Una cuenta de [Chat GPT](https://chatgpt.com/)
 			- Una cuenta de [Leonardo.ai](https://leonardo.ai/)
+			- Una carpeta de Google Drive llamada [EOI-IA-1 Carpeta de trabajo]("https://drive.google.com/drive/folders/1Yf1SwV3SgoEuY0yDKaa9s27yMXcVh_R8)
 	- ## 1. Generación de imágenes desde texto (Text-to-Image)
 	  
 	  **Descripción**: Crear imágenes originales a partir de descripciones en lenguaje natural.
