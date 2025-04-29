@@ -39,6 +39,7 @@
 	- **12:48** [[quick capture]]:  Añade efectos especiales a tu video con IA #innovación #video #inteligenciaartificial - YouTube {{video https://www.youtube.com/watch?v=cnp9A__4Egw}}
 	- **12:49** [[quick capture]]:  Deepfakes y suplantación de identidad #innovacion #seguridad #inteligenciaartificial - YouTube {{video https://www.youtube.com/watch?v=RMUzzEg1Uhg}}
 	- **12:51** [[quick capture]]:  Texto a vídeo con inteligencia artificial - YouTube {{video https://www.youtube.com/watch?v=-TV8rwwCne0}}
+	- **12:52** [[quick capture]]:  Inteligencia artificial crea vídeos a partir de texto - YouTube {{video https://www.youtube.com/watch?v=cx4M6RQkcaI}}
 	-
 -
 - ## Tecnologías
