@@ -3,6 +3,7 @@
 	- Elección de la herramienta concreta
 		- Principio de pareto.
 		- Directorios de aplicaciones basadas en IA
+		-
 		- Para utilizar en tu trabajo
 		- Para utilizar en esta clase
 	- Preparación del entorno del trabajo
