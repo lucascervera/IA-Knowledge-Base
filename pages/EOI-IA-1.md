@@ -7,6 +7,10 @@
 	- Creación de imágenes a partir de imágenes
 	- Edición de imágenes con out paint e in painting.
 	- Creación de personajes consistentes
+	- Quitar el fondo a una imagen
+	- Crear una imagen de producto a partir de una foto de mala calidad.
+	- Aumentar la resolución de una imagen
+	- Generar un modelo 3DA partir de una descripción de texto.
 	-
 - Automatización de creación de imágenes
 - Consideraciones éticas ilegales de la generación de imágenes con IA.
