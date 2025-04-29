@@ -33,16 +33,12 @@
 	  *   **Preprocesamiento y Aumento de Datos (Data Augmentation):**
 	      *   Destacar la importancia del preprocesamiento de las imágenes (normalización, ajuste de contraste, etc.) para mejorar el rendimiento de los modelos de IA.
 	      *   Mencionar las técnicas de aumento de datos (rotación, escalado, recorte, flip, etc.) para aumentar la cantidad de datos de entrenamiento y mejorar la robustez de los modelos.
-	  *   **Consideraciones Éticas y Sesgos:**
-	      *   **Sesgos en los datos de entrenamiento:** Reconocer que los modelos de IA pueden heredar los sesgos presentes en los datos con los que se entrenan.  Por ejemplo, un modelo de reconocimiento facial entrenado principalmente con imágenes de personas de una raza específica puede tener un rendimiento deficiente en personas de otras razas.
-	      *   **Privacidad:** Abordar las implicaciones de privacidad del uso de tecnologías de reconocimiento facial y vigilancia por video.
-	      *   **Desinformación:**  Considerar los riesgos del uso de GANs y otras técnicas de generación de imágenes para crear deepfakes y propagar desinformación.
-	      *   **Responsabilidad algorithms**:  Quien es responsable cuando un algoritmo de IA basado en análisis de imágenes toma una decisión incorrecta, especialmente en aplicaciones críticas como la medicina o la conducción autónoma?
-	  *   **Hardware y Plataformas:**
-	      *   **GPUs (Unidades de Procesamiento Gráfico):** Destacar la importancia de las GPUs para el entrenamiento de
-	- ¡Excelente! Tus sugerencias son muy valiosas y aportan una gran riqueza a la descripción de las tecnologías relacionadas con IA e imagen. A continuación, incorporo tus ideas y organizo el contenido para que sea lo más completo y útil posible.
-	  
-	  **IA e Imagen: Un Panorama Amplio**
+	- *   **Consideraciones Éticas y Sesgos:**
+		- *   **Sesgos en los datos de entrenamiento:** Reconocer que los modelos de IA pueden heredar los sesgos presentes en los datos con los que se entrenan.  Por ejemplo, un modelo de reconocimiento facial entrenado principalmente con imágenes de personas de una raza específica puede tener un rendimiento deficiente en personas de otras razas.
+		      *   **Privacidad:** Abordar las implicaciones de privacidad del uso de tecnologías de reconocimiento facial y vigilancia por video.
+		      *   **Desinformación:**  Considerar los riesgos del uso de GANs y otras técnicas de generación de imágenes para crear deepfakes y propagar desinformación.
+		      *   **Responsabilidad algorithms**:  Quien es responsable cuando un algoritmo de IA basado en análisis de imágenes toma una decisión incorrecta, especialmente en aplicaciones críticas como la medicina o la conducción autónoma?
+	- **IA e Imagen: Un Panorama Amplio**
 	  
 	  Este documento explora las diversas tecnologías que convergen en la intersección de la Inteligencia Artificial (IA) y el procesamiento de imágenes, destacando tanto las técnicas fundamentales como las aplicaciones emergentes.
 	  
