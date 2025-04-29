@@ -24,7 +24,9 @@
 	- Creación de logos
 	-
 	- ## Preparación del entorno de trabajo
+	  collapsed:: true
 		- Necesitas
+		  collapsed:: true
 			- Una cuenta de Google
 			- Una carpeta de Google Drive llamada [EOI-IA-1 Carpeta de trabajo]("https://drive.google.com/drive/folders/1Yf1SwV3SgoEuY0yDKaa9s27yMXcVh_R8)
 			- Una cuenta de [Chat GPT](https://chatgpt.com/)
@@ -32,13 +34,17 @@
 	- ## 1. Generación de imágenes desde texto (Text-to-Image)
 	  
 	  **Descripción**: Crear imágenes originales a partir de descripciones en lenguaje natural.
-	- **Leonardo**: Usar el modelo Text-to-Image, ajustar parámetros (CFG, steps, sampler). Ingresar tu prompt y explorar estilos predefinidos.
+	- collapsed:: true
+	  
+	  **Leonardo**: Usar el modelo Text-to-Image, ajustar parámetros (CFG, steps, sampler). Ingresar tu prompt y explorar estilos predefinidos.
 		- [Leonardo.ai](https://leonardo.ai/)
 		- Video: [Leonardo AI: Tutorial Completo 2024] ([https://www.youtube.com/watch?v=EFBbY1QGoBg](https://www.youtube.com/watch?v=EFBbY1QGoBg)) ([youtube.com](https://www.youtube.com/watch?v=EFBbY1QGoBg&utm_source=chatgpt.com))
 	- ## 2. Transformación de imágenes (Image-to-Image)
 	  
 	  **Descripción**: Tomar una imagen de entrada y generar variaciones manteniendo el estilo o contenido.
-	- **Leonardo**: Herramienta "Image-to-Image". Carga tu foto, define nivel de transformación y agrega prompt de guía.
+	- collapsed:: true
+	  
+	  **Leonardo**: Herramienta "Image-to-Image". Carga tu foto, define nivel de transformación y agrega prompt de guía.
 		- Video: [Cómo Usar Image to Image en Leonardo AI] ([https://www.youtube.com/watch?v=yvnlofOan3U](https://www.youtube.com/watch?v=yvnlofOan3U)) ([youtube.com](https://www.youtube.com/watch?v=yvnlofOan3U&utm_source=chatgpt.com))
 	- **Replicate**: Modelo `ideogram-ai/ideogram-v2a-turbo` o `fofr/latent-consistency-model`.
 	  
