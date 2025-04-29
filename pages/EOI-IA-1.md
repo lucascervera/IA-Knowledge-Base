@@ -130,6 +130,6 @@
 			- * **Sitios web oficiales de las herramientas:** Explora las galerías de ejemplos y lee sobre las características.
 			- **Plataformas de comunidad:** Reddit (r/midjourney, r/stablediffusionai), Discord (servidores oficiales de Midjourney, Stable Diffusion, etc.).
 			- * **Sitios web de noticias tecnológicas y blogs especializados:** Suelen revisar y comparar nuevas herramientas.
-			  * **Tutoriales en YouTube:** Hay muchísimos videos explicando cómo usar estas herramientas.
+			- * **Tutoriales en YouTube:** Hay muchísimos videos explicando cómo usar estas herramientas.
 			  
 			  La IA generativa de imagen está en constante evolución, con nuevas herramientas y técnicas surgiendo rápidamente. Te animo a explorar estas opciones y experimentar para encontrar las que mejor se adapten a tus necesidades y creatividad. ¡Las posibilidades son infinitas!
