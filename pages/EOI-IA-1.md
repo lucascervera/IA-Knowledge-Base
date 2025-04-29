@@ -3,7 +3,8 @@
 	- Elección de la herramienta concreta
 		- Principio de pareto.
 		- Directorios de aplicaciones basadas en IA
-		-
+		- Herramientas propietarias versus Open Source
+		- SaaS, API o local
 		- Para utilizar en tu trabajo
 		- Para utilizar en esta clase
 	- Preparación del entorno del trabajo
