@@ -53,7 +53,7 @@
 	- **13:08** [[quick capture]]:  App para generar tu avatar super realista - YouTube {{video https://www.youtube.com/watch?v=a9OQthbAYhQ&t=18s}}
 	- **13:08** [[quick capture]]:  Avatar creado con inteligencia artificial - YouTube {{video https://www.youtube.com/watch?v=vOPX3UYZJEQ}}
 	- **13:11** [[quick capture]]:  Crea vídeos con una foto y un texto con vidu.estudio #innovación #inteligenciaartificial #vídeo - YouTube {{video https://www.youtube.com/watch?v=vw13hKt1xPU&t=9s}}
-	-
+	- **13:12** [[quick capture]]:  Imagen a texto con Inteligencia Artificial #innovacion #IA - YouTube {{video https://www.youtube.com/watch?v=Es65cvCrw6k}}
 - ## Tecnologías
 	- Tecnologías de inteligencia artificial imagen Deep Research Gemini
 		- # Inteligencia Artificial en Procesamiento, Edición y Generación de Imágenes: Fundamentos, Técnicas y Aplicaciones
