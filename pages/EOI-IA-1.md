@@ -67,17 +67,7 @@
 	  
 	  **Descripción**: Rellenar áreas faltantes o ampliar el lienzo de una imagen.
 		- (Inpainting y Outpaint
-	- **Leonardo**: Funciones Inpainting (mascarilla interna) y Outpainting (extensión de bordes).
-	- **Replicate**: Modelo `stability-ai/stable-diffusion-inpainting`:
-	  
-	  ```
-	  replicate run stability-ai/stable-diffusion-inpainting \
-	  --input image="img.png" \
-	  --input mask="mask.png" \
-	  --input prompt="completar detalles realistas"
-	  ```
-	- **Pinokio**: Herramienta de edición, seleccionar área y usar módulo "Fill".
-	- [Swap fa](https://replicate.com/p/sdwjfxza0drj60cpg6nv7z65zr)
+	- [Swap face](https://replicate.com/p/sdwjfxza0drj60cpg6nv7z65zr)
 	- ## 3. Edición de imágenes (Inpainting y Outpainting)
 	  
 	  **Descripción**: Rellenar áreas faltantes o ampliar el lienzo de una imagen.
