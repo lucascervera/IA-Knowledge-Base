@@ -1,6 +1,8 @@
 - Evolución de la inteligencia artificial aplicada a la generación de imágenes
 - Herramientas de IA imagen
-	- Elección de la herramienta concreta.
+	- Elección de la herramienta concreta
+		- Para utilizar en tu trabajo
+		- Para utilizar en esta clase
 	- Preparación del entorno del trabajo
 - Funcionalidades típicas de la inteligencia artificial para la generación de imagen
 	- Creación de imágenes a partir de pronts de texto
