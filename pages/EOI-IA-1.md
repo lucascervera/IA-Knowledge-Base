@@ -10,7 +10,7 @@
 	      *   **Estimación de pose:**  Determinar la posición y orientación de objetos o cuerpos humanos en imágenes.
 	      *   **Generación de imágenes:**  Crear imágenes sintéticas a partir de texto, ruido aleatorio u otras imágenes.  Arquitecturas populares: GANs (Redes Generativas Antagónicas), VAEs (Autoencoders Variacionales), Diffusion Models.
 	- *   **Procesamiento de imágenes tradicional (Image Processing):**  Aunque el aprendizaje profundo ha dominado muchos campos, las técnicas tradicionales de procesamiento de imágenes siguen siendo importantes para tareas de preprocesamiento y postprocesamiento, y para aplicaciones donde el deep learning no es necesario:
-	      *   **Filtrado de imágenes:**  Suavizar, realzar bordes, eliminar ruido.  Incluye filtros Gaussianos, filtros de media, filtros medianos, etc.
+	- *   **Filtrado de imágenes:**  Suavizar, realzar bordes, eliminar ruido.  Incluye filtros Gaussianos, filtros de media, filtros medianos, etc.
 	      *   **Transformaciones geométricas:**  Rotación, escalado, traslación.
 	      *   **Extracción de características (manual):**  Ejemplos:  detección de bordes (Canny, Sobel), detección de esquinas (Harris), características SIFT, SURF.  Estas características se pueden usar como entrada para algoritmos de machine learning más simples.
 	      *   **Umbralización (Thresholding):**  Convertir una imagen en escala de grises en una imagen binaria.
