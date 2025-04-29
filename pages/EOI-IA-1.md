@@ -28,6 +28,7 @@
 - Consideraciones éticas ilegales de la generación de imágenes con IA.
 	- Sesgos en la generación de imágenes con IA.
 - ## Ejemplos de cosas que se pueden hacer con inteligencia artificial en imagen y vídeo
+	- **12:33** [[quick capture]]:  Actualización de películas con IA #innovación #inteligenciaartificial #video - YouTube {{video https://www.youtube.com/watch?v=wVH1GcpcNFg}}
 	-
 -
 - ## Tecnologías
