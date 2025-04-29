@@ -2,6 +2,9 @@
 - Herramientas de IA imagen
 	- Elección de la herramienta concreta.
 	- Preparación del entorno del trabajo
+- Funcionalidades típicas de la inteligencia artificial para la generación de imagen
+	- Creación de imágenes a partir de pronts de texto
+	-
 - Automatización de creación de imágenes
 - Consideraciones éticas ilegales de la generación de imágenes con IA.
 	- Sesgos en la generación de imágenes con IA.
