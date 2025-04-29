@@ -41,8 +41,6 @@
 	- ChatGPT
 		- ![image.png](../assets/image_1745928266499_0.png)
 	- collapsed:: true
-	  
-	  **Leonardo**: Usar el modelo Text-to-Image, ajustar parámetros (CFG, steps, sampler). Ingresar tu prompt y explorar estilos predefinidos.
 		- [Leonardo.ai](https://leonardo.ai/)
 		- Video: [Leonardo AI: Tutorial Completo 2024] ([https://www.youtube.com/watch?v=EFBbY1QGoBg](https://www.youtube.com/watch?v=EFBbY1QGoBg)) ([youtube.com](https://www.youtube.com/watch?v=EFBbY1QGoBg&utm_source=chatgpt.com))
 	- ## 2. Transformación de imágenes (Image-to-Image)
