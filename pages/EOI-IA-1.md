@@ -57,7 +57,7 @@
 	  **Descripción**: Separar sujeto y fondo para montajes o transparencias.
 	-
 	- ![image.png](../assets/image_1745931374965_0.png)
-	-
+	- **14:58** [[quick capture]]:  [Explore – Replicate](https://replicate.com/explore#featured-models)
 	- ## 3. Edición de imágenes (Borrar fondo)
 	  
 	  **Descripción**: Rellenar áreas faltantes o ampliar el lienzo de una imagen.
