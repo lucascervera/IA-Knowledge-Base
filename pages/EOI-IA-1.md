@@ -31,7 +31,6 @@
 			- Una carpeta de Google Drive llamada [EOI-IA-1 Carpeta de trabajo]("https://drive.google.com/drive/folders/1Yf1SwV3SgoEuY0yDKaa9s27yMXcVh_R8)
 			- Una idea de negocio o producto
 				- Por ejemplo Beerbrella Patente: [https://patents.google.com/patent/US2...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGgtem5FZ0xZTVNzc25mbzhHbFQyT3hSSXJRZ3xBQ3Jtc0trdm9PSW5UOHVoQ2kxY0xnZ0FPSGdROEE5Z19OUzJ5MFlQUWh5Z0hSWVRtbW9obGVyY2N2QlV5SGFYS3VHcmg5UFJoMUdhU0k4U3dfSmc1ZkdPZlZxT1NFU1BLZzdWWkg4cTBKWlYtLUxHTWVtQmxnTQ&q=https%3A%2F%2Fpatents.google.com%2Fpatent%2FUS20030075208A1%2Fen&v=9SRXvZNS7qM)
-	-
 	- ## 1. Generación de imágenes desde texto (Text-to-Image)
 	  
 	  **Descripción**: Crear imágenes originales a partir de descripciones en lenguaje natural.
