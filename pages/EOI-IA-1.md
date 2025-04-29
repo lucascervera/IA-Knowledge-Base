@@ -1,9 +1,7 @@
 ## Tecnologías relacionadas con inteligencia artificial y uso procesamiento modificación y generación de imagen
 - Las principales tecnologías relacionadas con Inteligencia Artificial (IA) e Imagen se pueden clasificar en las siguientes categorías:
-  
-  **1. Visión Artificial (Computer Vision):**
-  
-  *   **Aprendizaje Profundo (Deep Learning):** Es la base de la mayoría de las técnicas modernas de visión artificial. Se utilizan Redes Neuronales Convolucionales (CNNs) para extraer características relevantes de las imágenes y realizar tareas como:
+- **1. Visión Artificial (Computer Vision):**
+- *   **Aprendizaje Profundo (Deep Learning):** Es la base de la mayoría de las técnicas modernas de visión artificial. Se utilizan Redes Neuronales Convolucionales (CNNs) para extraer características relevantes de las imágenes y realizar tareas como:
       *   **Clasificación de imágenes:** Asignar una etiqueta a una imagen completa (por ejemplo, "gato", "perro", "coche").  Arquitecturas populares: ResNet, VGGNet, Inception.
       *   **Detección de objetos:** Identificar y localizar múltiples objetos dentro de una imagen (por ejemplo, detectar todos los coches, peatones y señales de tráfico en una calle).  Arquitecturas populares: YOLO, SSD, Faster R-CNN.
       *   **Segmentación semántica:** Asignar una etiqueta a cada píxel de una imagen, dividiéndola en regiones significativas (por ejemplo, separar el cielo, la carretera, los árboles y los edificios).  Arquitecturas populares: U-Net, DeepLab.
