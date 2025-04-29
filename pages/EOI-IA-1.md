@@ -38,7 +38,8 @@
 		- ```
 		  The present invention provides a small umbrella (“Beerbrella”) which may be removably attached to a beverage container in order to shade the beverage container from the direct rays of the sun. The apparatus comprises a small umbrella approximately five to seven inches in diameter, although other appropriate sizes may be used within the spirit and scope of the present invention. Suitable advertising and/or logos may be applied to the umbrella surface for promotional purposes. The umbrella may be attached to the beverage container by any one of a number of means, including clip, strap, cup, foam insulator, or as a coaster or the like. The umbrella shaft may be provided with a pivot to allow the umbrella to be suitably angled to shield the sun or for aesthetic purposes. In one embodiment, a pivot joint and counterweight may be provided to allow the umbrella to pivot out of the way when the user drinks from the container.
 		  ```
-	- ChatGPT / Creat
+	- ChatGPT
+		- ![image.png](../assets/image_1745928266499_0.png)
 	- collapsed:: true
 	  
 	  **Leonardo**: Usar el modelo Text-to-Image, ajustar parámetros (CFG, steps, sampler). Ingresar tu prompt y explorar estilos predefinidos.
