@@ -28,12 +28,7 @@
 	  **Descripción**: Crear imágenes originales a partir de descripciones en lenguaje natural.
 	- **Leonardo**: Usar el modelo Text-to-Image, ajustar parámetros (CFG, steps, sampler). Ingresar tu prompt y explorar estilos predefinidos.
 		- Video: [Leonardo AI: Tutorial Completo 2024] ([https://www.youtube.com/watch?v=EFBbY1QGoBg](https://www.youtube.com/watch?v=EFBbY1QGoBg)) ([youtube.com](https://www.youtube.com/watch?v=EFBbY1QGoBg&utm_source=chatgpt.com))
-	-
 		- Video: [Replicate.com Beginners Tutorial] ([https://www.youtube.com/watch?v=y0_GE5ErqY8](https://www.youtube.com/watch?v=y0_GE5ErqY8)) ([youtube.com](https://www.youtube.com/watch?v=y0_GE5ErqY8&utm_source=chatgpt.com))
-	- **Pinokio**: En la interfaz, comando `/img gen prompt: tu descripción`. Ajustar parámetros en el panel lateral.
-		- Video: [Pinokio AI Tutorial básico] ([https://www.youtube.com/watch?v=gGG4dxnd_RQ](https://www.youtube.com/watch?v=gGG4dxnd_RQ)) ([youtube.com](https://www.youtube.com/watch?v=gGG4dxnd_RQ&utm_source=chatgpt.com))
-		  
-		  ---
 	- ## 2. Transformación de imágenes (Image-to-Image)
 	  
 	  **Descripción**: Tomar una imagen de entrada y generar variaciones manteniendo el estilo o contenido.
