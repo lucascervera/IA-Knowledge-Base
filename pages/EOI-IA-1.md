@@ -50,7 +50,7 @@
 	- ## 2. Transformación de imágenes (Image-to-Image)
 	  
 	  **Descripción**: Tomar una imagen de entrada y generar variaciones manteniendo el estilo o contenido.
-	-
+	- ![image.png](../assets/image_1745930103736_0.png)
 	- ## 3. Edición de imágenes (Inpainting y Outpainting)
 	  
 	  **Descripción**: Rellenar áreas faltantes o ampliar el lienzo de una imagen.
