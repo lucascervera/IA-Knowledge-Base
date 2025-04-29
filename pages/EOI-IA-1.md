@@ -1,4 +1,5 @@
--
+- Evolución de la inteligencia artificial aplicada a la generación de imágenes.
+- Automatización de creación de imágenes.
 - ## Tecnologías
 	- Tecnologías de inteligencia artificial imagen Deep Research Gemini
 		- # Inteligencia Artificial en Procesamiento, Edición y Generación de Imágenes: Fundamentos, Técnicas y Aplicaciones
