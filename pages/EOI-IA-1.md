@@ -74,6 +74,9 @@
 	  **Descripción**: Rellenar áreas faltantes o ampliar el lienzo de una imagen.
 		- (Inpainting y Outpaint
 	- [Swap face](https://replicate.com/p/sdwjfxza0drj60cpg6nv7z65zr)
+	-
+	- ## Edición de imágenes mediante texto
+		- ![image.png](../assets/image_1745934456186_0.png)
 	- ## 3. Edición de imágenes (Inpainting y Outpainting)
 	  
 	  **Descripción**: Rellenar áreas faltantes o ampliar el lienzo de una imagen.
