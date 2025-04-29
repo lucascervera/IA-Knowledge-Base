@@ -42,6 +42,7 @@
 	- **12:52** [[quick capture]]:  Inteligencia artificial crea vídeos a partir de texto - YouTube {{video https://www.youtube.com/watch?v=cx4M6RQkcaI}}
 	- **12:53** [[quick capture]]:  Inteligencia artificial para borrar cosas de vídeos - YouTube {{video https://www.youtube.com/watch?v=mKbe2MUh60o}}
 	- **12:54** [[quick capture]]:  La inteligencia artificial ángel o demonio - YouTube {{video https://www.youtube.com/watch?v=1mQWcoSRYeE}}
+	- **12:56** [[quick capture]]:  RunwayML gen 2 Crea vídeos a partir de texto #innovación #vídeo vertical subtitles - YouTube {{video https://www.youtube.com/watch?v=NfGh0_8576s}}
 	-
 -
 - ## Tecnologías
