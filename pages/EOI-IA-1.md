@@ -4,6 +4,8 @@
 	- Preparación del entorno del trabajo
 - Funcionalidades típicas de la inteligencia artificial para la generación de imagen
 	- Creación de imágenes a partir de pronts de texto
+	- Edición de imágenes con out paint e in painting.
+	- Creación de personajes consistentes
 	-
 - Automatización de creación de imágenes
 - Consideraciones éticas ilegales de la generación de imágenes con IA.
