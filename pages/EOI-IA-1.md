@@ -48,32 +48,29 @@
 	  *   **Aprendizaje Profundo (Deep Learning):**  La base de muchas de las técnicas más avanzadas en visión artificial, utilizando redes neuronales profundas para aprender patrones complejos en las imágenes.
 	  *   **Conjuntos de Datos (Datasets):** Colecciones extensas de imágenes etiquetadas, cruciales para entrenar modelos de IA.  Ejemplos: ImageNet, COCO, MNIST.
 	  *   **Herramientas y Frameworks:**  Bibliotecas de software que facilitan el desarrollo de aplicaciones de visión artificial. Ejemplos: TensorFlow, PyTorch, OpenCV, Keras.
-	  
-	  **2. Tareas Clave en el Procesamiento de Imágenes con IA**
-	  
-	  *   **Clasificación de Imágenes:** Asignar una etiqueta a una imagen completa (ej. "gato", "perro", "coche").
-	  *   **Detección de Objetos:** Identificar y localizar múltiples objetos dentro de una imagen, dibujando cuadros delimitadores alrededor de cada uno (ej. detectar personas, coches y señales de tráfico en una calle).
-	  *   **Segmentación Semántica:** Clasificar cada píxel de una imagen, asignándole una etiqueta a cada uno (ej. separar el cielo, la carretera, los edificios y los árboles en una imagen).
-	  *   **Segmentación de Instancias:**  Similar a la segmentación semántica, pero diferenciando cada instancia de un objeto (ej. identificar y separar cada coche individualmente en una imagen).
-	  *   **Reconocimiento Facial:** Identificar y verificar la identidad de una persona a partir de su rostro.
-	  *   **Restauración de Imágenes:** Mejorar la calidad de imágenes dañadas o degradadas (ej. eliminar ruido, reconstruir partes faltantes).
-	  *   **Descripción de Imágenes (Image Captioning):** Generar una descripción textual de una imagen.
-	  
-	  **3. Técnicas Avanzadas de Generación de Imágenes**
-	  
-	  *   **Redes Generativas Antagónicas (GANs):**
-	      *   **Concepto:**  Dos redes neuronales, un generador y un discriminador, compiten entre sí. El generador crea imágenes falsas, y el discriminador intenta distinguir entre las imágenes reales y las falsas. Este proceso iterativo mejora la calidad de las imágenes generadas.
-	      *   **Tipos:**
-	          *   **StyleGAN:** Genera rostros increíblemente realistas con control preciso sobre atributos como edad, género, peinado, etc.
-	          *   **CycleGAN:** Permite la traducción imagen-a-imagen sin datos de entrenamiento pareados (ej. convertir fotos de caballos en cebras, imágenes de día en imágenes de noche).
-	          *   **Deepfakes:**  Aprovecha GANs para superponer rostros de una persona sobre el cuerpo de otra en un video, con aplicaciones preocupantes en la generación de desinformación.
-	      *   **Ejemplos:** Generar rostros humanos, crear arte digital, modificar el estilo de una foto.
-	  *   **Autoencoders Variacionales (VAEs):**
-	      *   **Concepto:**  Redes que aprenden a codificar una imagen en un espacio latente de baja dimensión y luego decodificarla. Esto permite la generación de nuevas imágenes variando los puntos en el espacio latente.  Se utilizan para la generación de imágenes, la reducción de dimensionalidad y la detección de anomalías.
-	      *   **Ventajas:**  Mayor estabilidad que las GANs, pero a menudo generan imágenes menos nítidas.
-	  *   **Modelos de Difusión (Diffusion Models):**
-	      *   **Concepto:**  Añaden ruido gaussiano progresivamente a una imagen hasta convertirla en ruido puro. Luego, una red neuronal aprende a "desdifuminar" la imagen, eliminando gradualmente el ruido para reconstruir la imagen original.
-	      *   **Ejemplos:** Stable Diffusion, DALL-E 2, Midjourney. Capacidad para generar imágenes fotorrealistas a partir de descripciones textuales (text-
+	- **2. Tareas Clave en el Procesamiento de Imágenes con IA**
+		- *   **Clasificación de Imágenes:** Asignar una etiqueta a una imagen completa (ej. "gato", "perro", "coche").
+		  *   **Detección de Objetos:** Identificar y localizar múltiples objetos dentro de una imagen, dibujando cuadros delimitadores alrededor de cada uno (ej. detectar personas, coches y señales de tráfico en una calle).
+		  *   **Segmentación Semántica:** Clasificar cada píxel de una imagen, asignándole una etiqueta a cada uno (ej. separar el cielo, la carretera, los edificios y los árboles en una imagen).
+		  *   **Segmentación de Instancias:**  Similar a la segmentación semántica, pero diferenciando cada instancia de un objeto (ej. identificar y separar cada coche individualmente en una imagen).
+		  *   **Reconocimiento Facial:** Identificar y verificar la identidad de una persona a partir de su rostro.
+		  *   **Restauración de Imágenes:** Mejorar la calidad de imágenes dañadas o degradadas (ej. eliminar ruido, reconstruir partes faltantes).
+		  *   **Descripción de Imágenes (Image Captioning):** Generar una descripción textual de una imagen.
+		- **
+	- 3. Técnicas Avanzadas de Generación de Imágenes**
+		- *   **Redes Generativas Antagónicas (GANs):**
+		      *   **Concepto:**  Dos redes neuronales, un generador y un discriminador, compiten entre sí. El generador crea imágenes falsas, y el discriminador intenta distinguir entre las imágenes reales y las falsas. Este proceso iterativo mejora la calidad de las imágenes generadas.
+		      *   **Tipos:**
+		          *   **StyleGAN:** Genera rostros increíblemente realistas con control preciso sobre atributos como edad, género, peinado, etc.
+		          *   **CycleGAN:** Permite la traducción imagen-a-imagen sin datos de entrenamiento pareados (ej. convertir fotos de caballos en cebras, imágenes de día en imágenes de noche).
+		          *   **Deepfakes:**  Aprovecha GANs para superponer rostros de una persona sobre el cuerpo de otra en un video, con aplicaciones preocupantes en la generación de desinformación.
+		      *   **Ejemplos:** Generar rostros humanos, crear arte digital, modificar el estilo de una foto.
+		  *   **Autoencoders Variacionales (VAEs):**
+		      *   **Concepto:**  Redes que aprenden a codificar una imagen en un espacio latente de baja dimensión y luego decodificarla. Esto permite la generación de nuevas imágenes variando los puntos en el espacio latente.  Se utilizan para la generación de imágenes, la reducción de dimensionalidad y la detección de anomalías.
+		      *   **Ventajas:**  Mayor estabilidad que las GANs, pero a menudo generan imágenes menos nítidas.
+		  *   **Modelos de Difusión (Diffusion Models):**
+		      *   **Concepto:**  Añaden ruido gaussiano progresivamente a una imagen hasta convertirla en ruido puro. Luego, una red neuronal aprende a "desdifuminar" la imagen, eliminando gradualmente el ruido para reconstruir la imagen original.
+		      *   **Ejemplos:** Stable Diffusion, DALL-E 2, Midjourney. Capacidad para generar imágenes fotorrealistas a partir de descripciones textuales (text-
 	- ## Herramientas de inteligencia artificial generativa de imagen
 		- ¡Claro! Aquí te dejo una lista de algunas de las herramientas de inteligencia artificial (IA) generativa de imagen más populares y destacadas en la actualidad, divididas en categorías para una mejor comprensión:
 		  
