@@ -52,6 +52,12 @@
 	  **Descripción**: Tomar una imagen de entrada y generar variaciones manteniendo el estilo o contenido.
 	- **Prompt**: `Ponle un poco más de tripa`
 	- ![image.png](../assets/image_1745930103736_0.png)
+	- ## 5. Eliminación de fondo y segmentación
+	  
+	  **Descripción**: Separar sujeto y fondo para montajes o transparencias.
+	-
+	- ![image.png](../assets/image_1745931374965_0.png)
+	-
 	- ## 3. Edición de imágenes (Borrar fondo)
 	  
 	  **Descripción**: Rellenar áreas faltantes o ampliar el lienzo de una imagen.
@@ -92,9 +98,6 @@
 	- **Pinokio**: Crea un proyecto y carga referencias; el sistema memoriza rasgos.
 	  
 	  ---
-	- ## 5. Eliminación de fondo y segmentación
-	  
-	  **Descripción**: Separar sujeto y fondo para montajes o transparencias.
 	- **Leonardo**: Función "Remove Background".
 	- **Replicate**: Modelo `cudanexus/ocr-surya` para segmentación, o `weslleyes/segment-anything`.
 	- **Pinokio**: Módulo "Background Eraser".
