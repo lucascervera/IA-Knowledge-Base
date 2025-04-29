@@ -38,6 +38,7 @@
 	- **12:46** [[quick capture]]:  De imagen a modelo 3D con IA #innovacion #inteligenciaartificial #video - YouTube {{video https://www.youtube.com/watch?v=F6p6k5Vz3RE}}
 	- **12:48** [[quick capture]]:  Añade efectos especiales a tu video con IA #innovación #video #inteligenciaartificial - YouTube {{video https://www.youtube.com/watch?v=cnp9A__4Egw}}
 	- **12:49** [[quick capture]]:  Deepfakes y suplantación de identidad #innovacion #seguridad #inteligenciaartificial - YouTube {{video https://www.youtube.com/watch?v=RMUzzEg1Uhg}}
+	- **12:51** [[quick capture]]:  Texto a vídeo con inteligencia artificial - YouTube {{video https://www.youtube.com/watch?v=-TV8rwwCne0}}
 	-
 -
 - ## Tecnologías
