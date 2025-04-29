@@ -20,6 +20,7 @@
 	- Generación de texto dentro de una imagen
 	- Creación de logos
 	-
+	-
 - Automatización de creación de imágenes
 - Consideraciones éticas ilegales de la generación de imágenes con IA.
 	- Sesgos en la generación de imágenes con IA.
