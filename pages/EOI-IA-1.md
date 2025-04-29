@@ -66,6 +66,22 @@
 	- **Pinokio**: Herramienta de edición, seleccionar área y usar módulo "Fill".
 	  
 	  ---
+	-
+	- ## 3. Edición de imágenes (Inpainting y Outpainting)
+	  
+	  **Descripción**: Rellenar áreas faltantes o ampliar el lienzo de una imagen.
+	- **Leonardo**: Funciones Inpainting (mascarilla interna) y Outpainting (extensión de bordes).
+	- **Replicate**: Modelo `stability-ai/stable-diffusion-inpainting`:
+	  
+	  ```
+	  replicate run stability-ai/stable-diffusion-inpainting \
+	  --input image="img.png" \
+	  --input mask="mask.png" \
+	  --input prompt="completar detalles realistas"
+	  ```
+	- **Pinokio**: Herramienta de edición, seleccionar área y usar módulo "Fill".
+	  
+	  ---
 	- ## 4. Creación de personajes consistentes (Stateful Character)
 	  
 	  **Descripción**: Generar múltiples imágenes manteniendo atributos de un personaje.
