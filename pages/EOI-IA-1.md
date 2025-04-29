@@ -1,3 +1,6 @@
+-
+- Tecnologías (D)
+-
 - *   **Técnicas de Generación de Imagen Más Detalladas:** Profundizar en algunas de las técnicas de generación de imágenes.
 	- *   **GANs (Redes Generativas Antagónicas):** Mencionar diferentes tipos de GANs como StyleGAN (para generar rostros realistas con un control granular sobre el estilo), CycleGAN (para traducción imagen-a-imagen sin necesidad de pares de datos alineados, como convertir fotos de caballos en cebras), y Deepfakes (y las implicaciones éticas de su uso).
 	      *   **VAEs (Autoencoders Variacionales):** Enfatizar su uso para la generación2 y Stable Diffusion y su capacidad para generar imágenes fotorrealistas a partir de descripciones textuales. Su proceso iterativo de "difusión" y "desdifusión" permite un control más fino sobre el proceso generativo.
