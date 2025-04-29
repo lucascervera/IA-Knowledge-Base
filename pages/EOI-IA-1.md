@@ -23,6 +23,106 @@
 	- Generación de texto dentro de una imagen
 	- Creación de logos
 	-
+	- ## 1. Generación de imágenes desde texto (Text-to-Image)
+	  
+	  **Descripción**: Crear imágenes originales a partir de descripciones en lenguaje natural.
+	- **Leonardo**: Usar el modelo Text-to-Image, ajustar parámetros (CFG, steps, sampler). Ingresar tu prompt y explorar estilos predefinidos.
+		- Video: [Leonardo AI: Tutorial Completo 2024] ([https://www.youtube.com/watch?v=EFBbY1QGoBg](https://www.youtube.com/watch?v=EFBbY1QGoBg)) ([youtube.com](https://www.youtube.com/watch?v=EFBbY1QGoBg&utm_source=chatgpt.com))
+	- **Replicate**: Ejecución vía API:
+	  
+	  ```
+	  import Replicate from "replicate";
+	  const replicate = new Replicate({ auth: process.env.REPLICATE_API_TOKEN });
+	  const output = await replicate.run(
+	  "stability-ai/stable-diffusion-3.5-large",
+	  { input: { prompt: "un paisaje futurista al atardecer" } }
+	  );
+	  console.log(output);
+	  ```
+		- Video: [Replicate.com Beginners Tutorial] ([https://www.youtube.com/watch?v=y0_GE5ErqY8](https://www.youtube.com/watch?v=y0_GE5ErqY8)) ([youtube.com](https://www.youtube.com/watch?v=y0_GE5ErqY8&utm_source=chatgpt.com))
+	- **Pinokio**: En la interfaz, comando `/img gen prompt: tu descripción`. Ajustar parámetros en el panel lateral.
+		- Video: [Pinokio AI Tutorial básico] ([https://www.youtube.com/watch?v=gGG4dxnd_RQ](https://www.youtube.com/watch?v=gGG4dxnd_RQ)) ([youtube.com](https://www.youtube.com/watch?v=gGG4dxnd_RQ&utm_source=chatgpt.com))
+		  
+		  ---
+	- ## 2. Transformación de imágenes (Image-to-Image)
+	  
+	  **Descripción**: Tomar una imagen de entrada y generar variaciones manteniendo el estilo o contenido.
+	- **Leonardo**: Herramienta "Image-to-Image". Carga tu foto, define nivel de transformación y agrega prompt de guía.
+		- Video: [Cómo Usar Image to Image en Leonardo AI] ([https://www.youtube.com/watch?v=yvnlofOan3U](https://www.youtube.com/watch?v=yvnlofOan3U)) ([youtube.com](https://www.youtube.com/watch?v=yvnlofOan3U&utm_source=chatgpt.com))
+	- **Replicate**: Modelo `ideogram-ai/ideogram-v2a-turbo` o `fofr/latent-consistency-model`.
+	  
+	  ```
+	  replicate run ideogram-ai/ideogram-v2a-turbo \
+	  --input image="/ruta/a/tu/imagen.jpg" \
+	  --input prompt="estilo acuarela"
+	  ```
+	- **Pinokio**: `/img transform src:imagen.jpg prompt: nuevo estilo`. Ajustar intensidad con slider.
+	  
+	  ---
+	- ## 3. Edición de imágenes (Inpainting y Outpainting)
+	  
+	  **Descripción**: Rellenar áreas faltantes o ampliar el lienzo de una imagen.
+	- **Leonardo**: Funciones Inpainting (mascarilla interna) y Outpainting (extensión de bordes).
+	- **Replicate**: Modelo `stability-ai/stable-diffusion-inpainting`:
+	  
+	  ```
+	  replicate run stability-ai/stable-diffusion-inpainting \
+	  --input image="img.png" \
+	  --input mask="mask.png" \
+	  --input prompt="completar detalles realistas"
+	  ```
+	- **Pinokio**: Herramienta de edición, seleccionar área y usar módulo "Fill".
+	  
+	  ---
+	- ## 4. Creación de personajes consistentes (Stateful Character)
+	  
+	  **Descripción**: Generar múltiples imágenes manteniendo atributos de un personaje.
+	- **Leonardo**: "Character Consistency" con presets de memorias. Sube varias imágenes de referencia.
+	- **Replicate**: Fine-tune rápido usando `stability-ai/stable-diffusion-custom-pipeline`.
+	- **Pinokio**: Crea un proyecto y carga referencias; el sistema memoriza rasgos.
+	  
+	  ---
+	- ## 5. Eliminación de fondo y segmentación
+	  
+	  **Descripción**: Separar sujeto y fondo para montajes o transparencias.
+	- **Leonardo**: Función "Remove Background".
+	- **Replicate**: Modelo `cudanexus/ocr-surya` para segmentación, o `weslleyes/segment-anything`.
+	- **Pinokio**: Módulo "Background Eraser".
+	  
+	  ---
+	- ## 6. Mejora de resolución y restauración
+	  
+	  **Descripción**: Aumentar nitidez y tamaño de imágenes, restaurar calidad.
+	- **Leonardo**: Opción "Super Resolution".
+	- **Replicate**: Modelos `xinntao/gfpgan` o `nvidia/srgan`
+	- **Pinokio**: Herramienta "Upscale" con escalas 2x, 4x.
+	  
+	  ---
+	- ## 7. Modelado 3D a partir de texto o imagen
+	  
+	  **Descripción**: Generar mallas y entornos 3D.
+	- **Leonardo**: Próximamente integrado, en fase beta.
+	- **Replicate**: Modelo `jd7h/zero123plusplus` para generar vistas múltiples.
+	- **Pinokio**: Plugin "3D Builder" que exporta OBJ/GLTF.
+	  
+	  ---
+	- ## 8. Inserción de texto y diseño de gráficos
+	  
+	  **Descripción**: Añadir tipografías, logos y gráficos vectoriales.
+	- **Leonardo**: "Text Overlay" con ajustes de fuente.
+	- **Replicate**: `recraft-ai/recraft-v3-svg` para SVG.
+	- **Pinokio**: Herramienta "Logo Maker".
+	  
+	  ---
+	- ## Recursos adicionales
+	- **Leonardo AI**: [https://www.leonardo.ai/](https://www.leonardo.ai/)
+	- **Replicate**: [https://www.replicate.com/](https://www.replicate.com/)
+	- **Pinokio**: [https://pinokio.computer/](https://pinokio.computer/)
+	  
+	  Cada sección muestra cómo aprovechar las distintas plataformas para lograr tareas clave en generación y edición de imágenes con IA. Puedes combinar herramientas según necesidades: Leonardo para ajustes rápidos y estilo, Replicate para integración programática y modelos especializados, y Pinokio para flujos de trabajo locales y unificados.
+	  
+	  <!--EndFragment-->
+	-
 	-
 - Automatización de creación de imágenes
 - Consideraciones éticas ilegales de la generación de imágenes con IA.
