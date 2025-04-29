@@ -40,15 +40,13 @@
 				  ```
 			- ChatGPT
 				- ![image.png](../assets/image_1745928266499_0.png){:height 174, :width 555}
-			- {:height 1040, :width 688}
 			- [Invención de Beerbrella](https://chatgpt.com/share/6810c2c6-fe8c-800c-9ba1-682b71e568e3)
-			  collapsed:: true
 				- [Leonardo.ai](https://leonardo.ai/)
 				- Video: [Leonardo AI: Tutorial Completo 2024] ([https://www.youtube.com/watch?v=EFBbY1QGoBg](https://www.youtube.com/watch?v=EFBbY1QGoBg)) ([youtube.com](https://www.youtube.com/watch?v=EFBbY1QGoBg&utm_source=chatgpt.com))
 			- ![ChatGPT Image 29 abr 2025, 14_14_46.png](../assets/ChatGPT_Image_29_abr_2025,_14_14_46_1745929664533_0.png)
 		- Foto de persona
-			- **14:25** [[quick capture]]:  [Bebedor de cerveza español](https://chatgpt.com/share/6810c535-4f48-800c-8e5f-9d233a6fa74d)
-				- ![ChatGPT Image 29 abr 2025, 14_23_18.png](../assets/ChatGPT_Image_29_abr_2025,_14_23_18_1745929593215_0.png)
+			- [Bebedor de cerveza español](https://chatgpt.com/share/6810c535-4f48-800c-8e5f-9d233a6fa74d)
+				- ![ChatGPT Image 29 abr 2025, 14_24_49.png](../assets/ChatGPT_Image_29_abr_2025,_14_24_49_1745929737774_0.png)
 	- ## 2. Transformación de imágenes (Image-to-Image)
 	  
 	  **Descripción**: Tomar una imagen de entrada y generar variaciones manteniendo el estilo o contenido.
