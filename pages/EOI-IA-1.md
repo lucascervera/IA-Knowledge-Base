@@ -13,6 +13,8 @@
 	- Crear una imagen de producto a partir de una foto de mala calidad.
 	- Aumentar la resolución de una imagen
 	- Generar un modelo 3D a partir de una descripción de texto
+	- Generación de texto dentro de una imagen
+	- Creación de logos
 	-
 - Automatización de creación de imágenes
 - Consideraciones éticas ilegales de la generación de imágenes con IA.
