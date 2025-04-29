@@ -40,7 +40,8 @@
 		  ```
 	- ChatGPT
 		- ![image.png](../assets/image_1745928266499_0.png)
-	- collapsed:: true
+	- **14:16** [[quick capture]]:  [Invención de Beerbrella](https://chatgpt.com/share/6810c2c6-fe8c-800c-9ba1-682b71e568e3)
+	  collapsed:: true
 		- [Leonardo.ai](https://leonardo.ai/)
 		- Video: [Leonardo AI: Tutorial Completo 2024] ([https://www.youtube.com/watch?v=EFBbY1QGoBg](https://www.youtube.com/watch?v=EFBbY1QGoBg)) ([youtube.com](https://www.youtube.com/watch?v=EFBbY1QGoBg&utm_source=chatgpt.com))
 	- ## 2. Transformación de imágenes (Image-to-Image)
