@@ -1,5 +1,6 @@
 -
-- Tecnologías (D)
+- ## Tecnologías (Deep Research)
+	- Tecnologías de inteligencia artificial imagen Deep Research Gem
 -
 - *   **Técnicas de Generación de Imagen Más Detalladas:** Profundizar en algunas de las técnicas de generación de imágenes.
 	- *   **GANs (Redes Generativas Antagónicas):** Mencionar diferentes tipos de GANs como StyleGAN (para generar rostros realistas con un control granular sobre el estilo), CycleGAN (para traducción imagen-a-imagen sin necesidad de pares de datos alineados, como convertir fotos de caballos en cebras), y Deepfakes (y las implicaciones éticas de su uso).
