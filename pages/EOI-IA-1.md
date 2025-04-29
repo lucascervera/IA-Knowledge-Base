@@ -1,5 +1,7 @@
 - Evolución de la inteligencia artificial aplicada a la generación de imágenes
--
+- Herramientas de IA imagen
+	- Elección de la herramienta concreta.
+	- Preparación del entorno del trabajo
 - Automatización de creación de imágenes
 - Consideraciones éticas ilegales de la generación de imágenes con IA.
 	- Sesgos en la generación de imágenes con IA.
