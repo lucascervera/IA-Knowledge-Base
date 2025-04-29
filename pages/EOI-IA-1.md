@@ -23,6 +23,7 @@
 	- Generación de texto dentro de una imagen
 	- Creación de logos
 	-
+	- Preparación.
 	- ## 1. Generación de imágenes desde texto (Text-to-Image)
 	  
 	  **Descripción**: Crear imágenes originales a partir de descripciones en lenguaje natural.
