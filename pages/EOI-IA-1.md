@@ -33,6 +33,49 @@
 		- En un escenario hipotético de rodaje en 2024, escenas icónicas del cine como la de "Casablanca" serían capturadas en selfies para Instagram. La tecnología actual podría recrear videos de alta calidad a partir de una simple foto y un texto con instrucciones. Otras películas como "Con la muerte en los talones" y "Cantando bajo la lluvia" se adaptarían al uso de drones y al cambio climático, respectivamente.
 	- **12:37** [[quick capture]]:  Inteligencia Artificial y robótica - YouTube {{video https://www.youtube.com/watch?v=mFAMwTxULhw}}
 	- **12:42** [[quick capture]]:  Texto a impresión 3D con inteligencia artificial - YouTube {{video https://www.youtube.com/watch?v=5HW13lm2RMQ}}
+	- **12:43** [[quick capture]]: Transcript
+	  
+	   Follow along using the transcript. 
+	  
+	  Show transcript
+	  
+	  [![](https://yt3.ggpht.com/bLKGSjffCcjUkve4V11dyNF4gQ_zTWFaBLZ7rENHzpSlIC499RU7S4tW9Lv204vi0IxGje1iVA=s88-c-k-c0x00ffffff-no-rj)
+	  
+	  ### innteresante
+	  
+	  17.9K subscribers
+	  
+	  
+	  
+	  ](/@innteresante)
+	  
+	  [
+	  
+	  Videos
+	  
+	  ](/channel/UCH9IGXMM8bH0SZ3JxN7s5rA/videos)
+	  
+	  [
+	  
+	  About
+	  
+	  ](/channel/UCH9IGXMM8bH0SZ3JxN7s5rA/about)
+	  
+	  [
+	  
+	  Videos
+	  
+	  ](/channel/UCH9IGXMM8bH0SZ3JxN7s5rA/videos)[
+	  
+	  About
+	  
+	  ](/channel/UCH9IGXMM8bH0SZ3JxN7s5rA/about)
+	  
+	  #### License
+	  
+	  [Creative Commons Attribution license (reuse allowed)](https://www.youtube.com/t/creative_commons)
+	  
+	  Show less Inteligencia Artificial para traducir vídeos - YouTube {{video https://www.youtube.com/watch?v=nPEUs9ifZzY}}
 -
 - ## Tecnologías
 	- Tecnologías de inteligencia artificial imagen Deep Research Gemini
