@@ -121,19 +121,17 @@
 		  * **ControlNet:** Una extensión para modelos de difusión que permite ejercer un mayor control sobre la estructura, pose o composición de las imágenes generadas.
 		  * **Dreambooth:** Una técnica para entrenar modelos de difusión en conjuntos de datos pequeños (por ejemplo, tus propias fotos) para generar imágenes de un sujeto o estilo específico.
 		  * **LoRA (Low-Rank Adaptation):** Un método más eficiente para entrenar modelos en datos específicos, permitiendo crear estilos o sujetos personalizados sin necesidad de un entrenamiento completo.
-		  
-		  **Aspectos a Considerar al Elegir una Herramienta:**
-		  
-		  * **Facilidad de Uso:** ¿Qué conceptos?
-		  * **Costo:** ¿Es gratuita, de pago por uso o con suscripción?
-		  * **Comunidad y Recursos:** ¿Hay una comunidad activa donde puedas encontrar ayuda y tutoriales?
-		  * **Control:** ¿Qué tan granular es el control que tienes sobre el proceso de generación?
-		  
-		  **Dónde Encontrar Más Información y Probar:**
-		  
-		  * **Sitios web oficiales de las herramientas:** Explora las galerías de ejemplos y lee sobre las características.
-		  * **Plataformas de comunidad:** Reddit (r/midjourney, r/stablediffusionai), Discord (servidores oficiales de Midjourney, Stable Diffusion, etc.).
-		  * **Sitios web de noticias tecnológicas y blogs especializados:** Suelen revisar y comparar nuevas herramientas.
-		  * **Tutoriales en YouTube:** Hay muchísimos videos explicando cómo usar estas herramientas.
-		  
-		  La IA generativa de imagen está en constante evolución, con nuevas herramientas y técnicas surgiendo rápidamente. Te animo a explorar estas opciones y experimentar para encontrar las que mejor se adapten a tus necesidades y creatividad. ¡Las posibilidades son infinitas!
+			- ## Aspectos a Considerar al Elegir una Herramienta
+			- * **Facilidad de Uso:** ¿Qué conceptos?
+			  * **Costo:** ¿Es gratuita, de pago por uso o con suscripción?
+			  * **Comunidad y Recursos:** ¿Hay una comunidad activa donde puedas encontrar ayuda y tutoriales?
+			  * **Control:** ¿Qué tan granular es el control que tienes sobre el proceso de generación?
+			  
+			  **Dónde Encontrar Más Información y Probar:**
+			  
+			  * **Sitios web oficiales de las herramientas:** Explora las galerías de ejemplos y lee sobre las características.
+			  * **Plataformas de comunidad:** Reddit (r/midjourney, r/stablediffusionai), Discord (servidores oficiales de Midjourney, Stable Diffusion, etc.).
+			  * **Sitios web de noticias tecnológicas y blogs especializados:** Suelen revisar y comparar nuevas herramientas.
+			  * **Tutoriales en YouTube:** Hay muchísimos videos explicando cómo usar estas herramientas.
+			  
+			  La IA generativa de imagen está en constante evolución, con nuevas herramientas y técnicas surgiendo rápidamente. Te animo a explorar estas opciones y experimentar para encontrar las que mejor se adapten a tus necesidades y creatividad. ¡Las posibilidades son infinitas!
