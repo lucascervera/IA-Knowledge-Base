@@ -61,7 +61,7 @@ public:: true
 	  
 	  **Descripción**: A partir de una imagen de referencia de una persona, sustituye su cara con la imagen de otra cara.
 		- [Prediction cdingram/face-swap – Replicate](https://replicate.com/p/sdwjfxza0drj60cpg6nv7z65zr)
-		- ![replicate-prediction-sdwjfxza0drj60cpg6nv7z65zr.jpg](../assets/replicate-prediction-sdwjfxza0drj60cpg6nv7z65zr_1745933183958_0.jpg)
+		- ![replicate-prediction-sdwjfxza0drj60cpg6nv7z65zr.jpg](../assets/replicate-prediction-sdwjfxza0drj60cpg6nv7z65zr_1745933183958_0.jpg){:height 527, :width 346}
 	-
 - ## Edición de imágenes (Upscaling)
 	- **Descripción**: Mejora la calidad de una imagen ampliando sus dimensiones y refinando los detalles.
