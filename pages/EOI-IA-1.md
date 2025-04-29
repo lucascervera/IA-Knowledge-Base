@@ -84,14 +84,13 @@
 		- **Edición y Manipulación de Imágenes con IA:**
 			- Estas herramientas utilizan la IA para modificar, mejorar o completar imágenes existentes.
 			- * **Generative Fill (Adobe Photoshop):** Una característica integrada en Photoshop que permite eliminar objetos, añadir elementos o completar áreas de forma generativa basándose en el contenido circundante o una descripción.
-			  * **Clipdrop (Stability AI):** Ofrece una variedad de herramientas con IA, incluyendo eliminación de fondo, superresolución, iluminación y limpieza de fotos.
-			  * **RunwayML:** Una plataforma potente para edición de video e imagen con IA, incluyendo herramientas de generación de video a partir de texto y edición de video asistida por IA.
-			  
-			  **Otras Herramientas y Enfoques:**
-			  
-			  * **ControlNet:** Una extensión para modelos de difusión que permite ejercer un mayor control sobre la estructura, pose o composición de las imágenes generadas.
-			  * **Dreambooth:** Una técnica para entrenar modelos de difusión en conjuntos de datos pequeños (por ejemplo, tus propias fotos) para generar imágenes de un sujeto o estilo específico.
-			  * **LoRA (Low-Rank Adaptation):** Un método más eficiente para entrenar modelos en datos específicos, permitiendo crear estilos o sujetos personalizados sin necesidad de un entrenamiento completo.
+			- Clipdrop (Stability AI):** Ofrece una variedad de herramientas con IA, incluyendo eliminación de fondo, superresolución, iluminación y limpieza de fotos.
+			- RunwayML:** Una plataforma potente para edición de video e imagen con IA, incluyendo herramientas de generación de video a partir de texto y edición de video asistida por IA.
+		- **Otras Herramientas y Enfoques:**
+		  
+		  * **ControlNet:** Una extensión para modelos de difusión que permite ejercer un mayor control sobre la estructura, pose o composición de las imágenes generadas.
+		  * **Dreambooth:** Una técnica para entrenar modelos de difusión en conjuntos de datos pequeños (por ejemplo, tus propias fotos) para generar imágenes de un sujeto o estilo específico.
+		  * **LoRA (Low-Rank Adaptation):** Un método más eficiente para entrenar modelos en datos específicos, permitiendo crear estilos o sujetos personalizados sin necesidad de un entrenamiento completo.
 		- ## Aspectos a Considerar al Elegir una Herramienta
 			- * **Facilidad de Uso:** ¿Qué conceptos?
 			- * **Costo:** ¿Es gratuita, de pago por uso o con suscripción?
