@@ -61,6 +61,11 @@
 	- ## 3. Edición de imágenes (Borrar fondo)
 	  
 	  **Descripción**: Rellenar áreas faltantes o ampliar el lienzo de una imagen.
+	- https://replicate.com/p/sdwjfxza0drj60cpg6nv7z65zr
+	- ---
+	- ## 3. Edición de imágenes (Borrar fondo)
+	  
+	  **Descripción**: Rellenar áreas faltantes o ampliar el lienzo de una imagen.
 		- (Inpainting y Outpaint
 	- **Leonardo**: Funciones Inpainting (mascarilla interna) y Outpainting (extensión de bordes).
 	- **Replicate**: Modelo `stability-ai/stable-diffusion-inpainting`:
@@ -72,9 +77,7 @@
 	  --input prompt="completar detalles realistas"
 	  ```
 	- **Pinokio**: Herramienta de edición, seleccionar área y usar módulo "Fill".
-	  
-	  ---
-	-
+	- https://replicate.com/p/sdwjfxza0drj60cpg6nv7z65zr
 	- ## 3. Edición de imágenes (Inpainting y Outpainting)
 	  
 	  **Descripción**: Rellenar áreas faltantes o ampliar el lienzo de una imagen.
