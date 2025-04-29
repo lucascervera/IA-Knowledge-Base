@@ -34,7 +34,7 @@
 	- **12:37** [[quick capture]]:  Inteligencia Artificial y robótica - YouTube {{video https://www.youtube.com/watch?v=mFAMwTxULhw}}
 	- **12:42** [[quick capture]]:  Texto a impresión 3D con inteligencia artificial - YouTube {{video https://www.youtube.com/watch?v=5HW13lm2RMQ}}
 	- Inteligencia Artificial para traducir vídeos - YouTube {{video https://www.youtube.com/watch?v=nPEUs9ifZzY}}
--
+	- **12:45** [[quick capture]]:  Inteligencia artificial para detectar cáncer #innovacion #ia - YouTube {{video https://www.youtube.com/watch?v=mbghc4c_QrY}}
 - ## Tecnologías
 	- Tecnologías de inteligencia artificial imagen Deep Research Gemini
 		- # Inteligencia Artificial en Procesamiento, Edición y Generación de Imágenes: Fundamentos, Técnicas y Aplicaciones
