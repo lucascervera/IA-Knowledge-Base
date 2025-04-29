@@ -50,26 +50,8 @@
 	- **13:03** [[quick capture]]:  Crea canciones con inteligencia artificial #innovación #inteligenciaartificial #música - YouTube {{video https://www.youtube.com/watch?v=Dk_Eg_zCkuA}}
 	- **13:04** [[quick capture]]:  Clona estilos musicales con IA (suno) #innovación #música #inteligenciaartificial - YouTube {{video https://www.youtube.com/watch?v=-dlEgstx6qY}}
 	- **13:05** [[quick capture]]:  De ecografía 3D a rostro con IA #innovacion #inteligenciaartificial #medicina - YouTube {{video https://www.youtube.com/watch?v=xrWTWHbNmEk&t=13s}}
-	- ](/channel/UCH9IGXMM8bH0SZ3JxN7s5rA/videos)
-	  
-	  [
-	  
-	  About
-	  
-	  ](/channel/UCH9IGXMM8bH0SZ3JxN7s5rA/about)
-	  
-	  [
-	  
-	  Videos
-	  
-	  ](/channel/UCH9IGXMM8bH0SZ3JxN7s5rA/videos)[
-	  
-	  About
-	  
-	  ](/channel/UCH9IGXMM8bH0SZ3JxN7s5rA/about)
-	- #### License
-	  
-	  [Creative Commons Attribution license (reuse allowed)](https://www.youtube.com/t/creative_commons)
+	- **13:08** [[quick capture]]:  App para generar tu avatar super realista - YouTube {{video https://www.youtube.com/watch?v=a9OQthbAYhQ&t=18s}}
+	- **13:08** [[quick capture]]:  Avatar creado con inteligencia artificial - YouTube {{video https://www.youtube.com/watch?v=vOPX3UYZJEQ}}
 - ## Tecnologías
 	- Tecnologías de inteligencia artificial imagen Deep Research Gemini
 		- # Inteligencia Artificial en Procesamiento, Edición y Generación de Imágenes: Fundamentos, Técnicas y Aplicaciones
