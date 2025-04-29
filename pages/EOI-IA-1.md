@@ -45,6 +45,8 @@
 	- **12:56** [[quick capture]]:  RunwayML gen 2 Crea vídeos a partir de texto #innovación #vídeo vertical subtitles - YouTube {{video https://www.youtube.com/watch?v=NfGh0_8576s}}
 	- **12:58** [[quick capture]]:  Leonardo ai crea tu foto de prom #innovacion #ia #text2image - YouTube {{video https://www.youtube.com/watch?v=3qZQH8uf8uY}}
 		- #LORA
+	- **13:00** [[quick capture]]:  Crea un personaje con Dall e 3 #innovacion #inteligenciaartificial - YouTube {{video https://www.youtube.com/watch?v=G4AeRTs3HDc}}
+	-
 	-
 -
 - ## Tecnologías
