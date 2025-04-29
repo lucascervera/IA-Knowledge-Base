@@ -25,7 +25,7 @@
 	-
 	- ## Preparación del entorno de trabajo
 		- Necesitas una cuenta de Google
-		- Una carpeta de Google Drive llamada.
+		- Una carpeta de Google Drive llamada [EOI-IA-1 ]("https://drive.google.com/drive/folders/1Yf1SwV3SgoEuY0yDKaa9s27yMXcVh_R8)
 	- ## 1. Generación de imágenes desde texto (Text-to-Image)
 	  
 	  **Descripción**: Crear imágenes originales a partir de descripciones en lenguaje natural.
