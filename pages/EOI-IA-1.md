@@ -76,6 +76,7 @@
 	- [Swap face](https://replicate.com/p/sdwjfxza0drj60cpg6nv7z65zr)
 	-
 	- ## Edición de imágenes mediante texto
+		- **15:49** [[quick capture]]:  [Cerveza personalizada playa fiesta](https://chatgpt.com/c/6810d739-dc88-800c-8f9d-149264d8b0b3)
 		- ![image.png](../assets/image_1745934456186_0.png)
 	- ## 3. Edición de imágenes (Inpainting y Outpainting)
 	  
