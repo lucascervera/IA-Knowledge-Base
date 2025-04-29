@@ -1,4 +1,6 @@
-## Evolución de la inteligencia artificial aplicada a la generación de  imágenes
+public:: true
+
+- ## Evolución de la inteligencia artificial aplicada a la generación de  imágenes
 - ## Herramientas de IA imagen
 	- Elección de la herramienta concreta
 		- Principio de pareto.
