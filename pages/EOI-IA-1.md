@@ -7,6 +7,9 @@
 		- SaaS, API o local
 		- Para utilizar en tu trabajo
 		- Para utilizar en esta clase
+			- Leonardo
+			- Replicate
+			- Pi
 	- Preparación del entorno del trabajo
 - Funcionalidades de la inteligencia artificial para la generación de imagen
 	- Creación de imágenes a partir de pronts de texto
