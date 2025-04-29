@@ -75,19 +75,15 @@
 	- ## Herramientas de inteligencia artificial generativa de imagen
 		- **Generación de Imagen a partir de Texto (Text-to-Image):**
 			- Estas son quizás las herramientas más conocidas. Permiten crear imágenes sorprendentes simplemente escribiendo una descripción textual (prompt).
-			  
-			  * **DALL-E 2 (OpenAI):** Una de las pioneras y más potentes. Conocida por su creatividad y capacidad para generar imágenes diversas y con estilos variados. Requiere una cuenta y ofrece créditos gratuitos al inicio.
-			  * **Midjourney:** Especialmente popular en comunidades creativas por su estética a menudo artística y onírica. Funciona a través de un servidor de Discord y requiere suscripción para un uso extendido.
-			  * **Stable Diffusion (Stability AI):** Un modelo de código abierto que ha impulsado una gran cantidad de herramientas y aplicaciones. Es altamente personalizable y se puede ejecutar localmente o a través de servicios en la nube.
-			  * **Dream by WOMBO:** Una aplicación móvil fácil de usar que permite generar imágenes a partir de texto con diferentes estilos artísticos. Muy accesible para principiantes.
+			- * **DALL-E 2 (OpenAI):** Una de las pioneras y más potentes. Conocida por su creatividad y capacidad para generar imágenes diversas y con estilos variados. Requiere una cuenta y ofrece créditos gratuitos al inicio.
+			- * **Midjourney:** Especialmente popular en comunidades creativas por su estética a menudo artística y onírica. Funciona a través de un servidor de Discord y requiere suscripción para un uso extendido.
+			- * **Stable Diffusion (Stability AI):** Un modelo de código abierto que ha impulsado una gran cantidad de herramientas y aplicaciones. Es altamente personalizable y se puede ejecutar localmente o a través de servicios en la nube.
+			- * **Dream by WOMBO:** Una aplicación móvil fácil de usar que permite generar imágenes a partir de texto con diferentes estilos artísticos. Muy accesible para principiantes.
 			  * **NightCafe Creator:** Una plataforma web que ofrece varios modelos de IA, incluyendo Stable Diffusion y DALL-E 2, con opciones de personalización y comunidad.
 			  * **Lex modelos de IA, incluyendo Stable Diffusion, con opciones para editar y refinar imágenes.
-			  
-			  **Edición y Manipulación de Imágenes con IA:**
-			  
-			  Estas herramientas utilizan la IA para modificar, mejorar o completar imágenes existentes.
-			  
-			  * **Generative Fill (Adobe Photoshop):** Una característica integrada en Photoshop que permite eliminar objetos, añadir elementos o completar áreas de forma generativa basándose en el contenido circundante o una descripción.
+		- **Edición y Manipulación de Imágenes con IA:**
+			- Estas herramientas utilizan la IA para modificar, mejorar o completar imágenes existentes.
+			- * **Generative Fill (Adobe Photoshop):** Una característica integrada en Photoshop que permite eliminar objetos, añadir elementos o completar áreas de forma generativa basándose en el contenido circundante o una descripción.
 			  * **Clipdrop (Stability AI):** Ofrece una variedad de herramientas con IA, incluyendo eliminación de fondo, superresolución, iluminación y limpieza de fotos.
 			  * **RunwayML:** Una plataforma potente para edición de video e imagen con IA, incluyendo herramientas de generación de video a partir de texto y edición de video asistida por IA.
 			  
