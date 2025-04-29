@@ -77,7 +77,7 @@
 	  --input prompt="completar detalles realistas"
 	  ```
 	- **Pinokio**: Herramienta de edición, seleccionar área y usar módulo "Fill".
-	- https://replicate.com/p/sdwjfxza0drj60cpg6nv7z65zr
+	- [Swap fa](https://replicate.com/p/sdwjfxza0drj60cpg6nv7z65zr)
 	- ## 3. Edición de imágenes (Inpainting y Outpainting)
 	  
 	  **Descripción**: Rellenar áreas faltantes o ampliar el lienzo de una imagen.
