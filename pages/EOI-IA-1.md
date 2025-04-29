@@ -30,10 +30,12 @@
 			- Una cuenta de [Leonardo.ai](https://leonardo.ai/)
 			- Una carpeta de Google Drive llamada [EOI-IA-1 Carpeta de trabajo]("https://drive.google.com/drive/folders/1Yf1SwV3SgoEuY0yDKaa9s27yMXcVh_R8)
 			- Una idea de negocio o producto
-				- Por ejemplo Beerbrella Patente: [https://patents.google.com/patent/US2...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGgtem5FZ0xZTVNzc25mbzhHbFQyT3hSSXJRZ3xBQ3Jtc0trdm9PSW5UOHVoQ2kxY0xnZ0FPSGdROEE5Z19OUzJ5MFlQUWh5Z0hSWVRtbW9obGVyY2N2QlV5SGFYS3VHcmg5UFJoMUdhU0k4U3dfSmc1ZkdPZlZxT1NFU1BLZzdWWkg4cTBKWlYtLUxHTWVtQmxnTQ&q=https%3A%2F%2Fpatents.google.com%2Fpatent%2FUS20030075208A1%2Fen&v=9SRXvZNS7qM)
+				- Beerbrella Patente: [https://patents.google.com/patent/US2...](https://patents.google.com/patent/US6637447B2/en)
 	- ## 1. Generación de imágenes desde texto (Text-to-Image)
 	  
 	  **Descripción**: Crear imágenes originales a partir de descripciones en lenguaje natural.
+	- P
+	- Chat
 	- collapsed:: true
 	  
 	  **Leonardo**: Usar el modelo Text-to-Image, ajustar parámetros (CFG, steps, sampler). Ingresar tu prompt y explorar estilos predefinidos.
