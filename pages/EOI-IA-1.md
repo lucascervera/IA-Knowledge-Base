@@ -50,20 +50,7 @@
 	- ## 2. Transformación de imágenes (Image-to-Image)
 	  
 	  **Descripción**: Tomar una imagen de entrada y generar variaciones manteniendo el estilo o contenido.
-	- collapsed:: true
-	  
-	  **Leonardo**: Herramienta "Image-to-Image". Carga tu foto, define nivel de transformación y agrega prompt de guía.
-		- Video: [Cómo Usar Image to Image en Leonardo AI] ([https://www.youtube.com/watch?v=yvnlofOan3U](https://www.youtube.com/watch?v=yvnlofOan3U)) ([youtube.com](https://www.youtube.com/watch?v=yvnlofOan3U&utm_source=chatgpt.com))
-	- **Replicate**: Modelo `ideogram-ai/ideogram-v2a-turbo` o `fofr/latent-consistency-model`.
-	  
-	  ```
-	  replicate run ideogram-ai/ideogram-v2a-turbo \
-	  --input image="/ruta/a/tu/imagen.jpg" \
-	  --input prompt="estilo acuarela"
-	  ```
-	- **Pinokio**: `/img transform src:imagen.jpg prompt: nuevo estilo`. Ajustar intensidad con slider.
-	  
-	  ---
+	-
 	- ## 3. Edición de imágenes (Inpainting y Outpainting)
 	  
 	  **Descripción**: Rellenar áreas faltantes o ampliar el lienzo de una imagen.
