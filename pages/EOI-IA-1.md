@@ -28,17 +28,7 @@
 	  **Descripción**: Crear imágenes originales a partir de descripciones en lenguaje natural.
 	- **Leonardo**: Usar el modelo Text-to-Image, ajustar parámetros (CFG, steps, sampler). Ingresar tu prompt y explorar estilos predefinidos.
 		- Video: [Leonardo AI: Tutorial Completo 2024] ([https://www.youtube.com/watch?v=EFBbY1QGoBg](https://www.youtube.com/watch?v=EFBbY1QGoBg)) ([youtube.com](https://www.youtube.com/watch?v=EFBbY1QGoBg&utm_source=chatgpt.com))
-	- **Replicate**: Ejecución vía API:
-	  
-	  ```
-	  import Replicate from "replicate";
-	  const replicate = new Replicate({ auth: process.env.REPLICATE_API_TOKEN });
-	  const output = await replicate.run(
-	  "stability-ai/stable-diffusion-3.5-large",
-	  { input: { prompt: "un paisaje futurista al atardecer" } }
-	  );
-	  console.log(output);
-	  ```
+	-
 		- Video: [Replicate.com Beginners Tutorial] ([https://www.youtube.com/watch?v=y0_GE5ErqY8](https://www.youtube.com/watch?v=y0_GE5ErqY8)) ([youtube.com](https://www.youtube.com/watch?v=y0_GE5ErqY8&utm_source=chatgpt.com))
 	- **Pinokio**: En la interfaz, comando `/img gen prompt: tu descripción`. Ajustar parámetros en el panel lateral.
 		- Video: [Pinokio AI Tutorial básico] ([https://www.youtube.com/watch?v=gGG4dxnd_RQ](https://www.youtube.com/watch?v=gGG4dxnd_RQ)) ([youtube.com](https://www.youtube.com/watch?v=gGG4dxnd_RQ&utm_source=chatgpt.com))
