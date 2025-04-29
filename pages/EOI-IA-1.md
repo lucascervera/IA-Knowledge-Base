@@ -30,6 +30,7 @@
 - ## Ejemplos de cosas que se pueden hacer con inteligencia artificial en imagen y vídeo
 	-
 		- https://www.youtube.com/watch?v=wVH1GcpcNFg
+		-
 - ## Tecnologías
 	- Tecnologías de inteligencia artificial imagen Deep Research Gemini
 		- # Inteligencia Artificial en Procesamiento, Edición y Generación de Imágenes: Fundamentos, Técnicas y Aplicaciones
