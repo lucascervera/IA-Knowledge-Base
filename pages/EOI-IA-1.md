@@ -48,6 +48,7 @@
 	- **13:00** [[quick capture]]:  Crea un personaje con Dall e 3 #innovacion #inteligenciaartificial - YouTube {{video https://www.youtube.com/watch?v=G4AeRTs3HDc}}
 	- **13:02** [[quick capture]]:  IA mezcla foto y vídeo #innovación #inteligenciaartificial - YouTube {{video https://www.youtube.com/watch?v=M60rKxEcvnw}}
 	- **13:03** [[quick capture]]:  Crea canciones con inteligencia artificial #innovación #inteligenciaartificial #música - YouTube {{video https://www.youtube.com/watch?v=Dk_Eg_zCkuA}}
+	- **13:04** [[quick capture]]:  Clona estilos musicales con IA (suno) #innovación #música #inteligenciaartificial - YouTube {{video https://www.youtube.com/watch?v=-dlEgstx6qY}}
 -
 - ## Tecnologías
 	- Tecnologías de inteligencia artificial imagen Deep Research Gemini
