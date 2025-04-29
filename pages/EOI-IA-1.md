@@ -52,9 +52,10 @@
 	  **Descripción**: Tomar una imagen de entrada y generar variaciones manteniendo el estilo o contenido.
 	- **Prompt**: `Ponle un poco más de tripa`
 	- ![image.png](../assets/image_1745930103736_0.png)
-	- ## 3. Edición de imágenes (Inpainting y Outpainting)
+	- ## 3. Edición de imágenes (Borrar fondo)
 	  
 	  **Descripción**: Rellenar áreas faltantes o ampliar el lienzo de una imagen.
+		- (Inpainting y Outpaint
 	- **Leonardo**: Funciones Inpainting (mascarilla interna) y Outpainting (extensión de bordes).
 	- **Replicate**: Modelo `stability-ai/stable-diffusion-inpainting`:
 	  
