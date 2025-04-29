@@ -25,7 +25,9 @@
 	-
 	- ## Preparación del entorno de trabajo
 		- Necesitas una cuenta de Google
-		- Una carpeta de Google Drive llamada [EOI-IA-1 ]("https://drive.google.com/drive/folders/1Yf1SwV3SgoEuY0yDKaa9s27yMXcVh_R8)
+		- Una carpeta de Google Drive llamada [EOI-IA-1 Carpeta de trabajo]("https://drive.google.com/drive/folders/1Yf1SwV3SgoEuY0yDKaa9s27yMXcVh_R8)
+		- Una cuenta de chat GPT
+		  Una cuenta de [Leonardo.ai](https://leonardo.ai/)
 	- ## 1. Generación de imágenes desde texto (Text-to-Image)
 	  
 	  **Descripción**: Crear imágenes originales a partir de descripciones en lenguaje natural.
