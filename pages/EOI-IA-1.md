@@ -62,12 +62,13 @@
 	  
 	  **Descripción**: A partir de una imagen de referencia de una persona, sustituye su cara con la imagen de otra cara.
 		- **15:25** [[quick capture]]:  [Prediction cdingram/face-swap – Replicate](https://replicate.com/p/sdwjfxza0drj60cpg6nv7z65zr)
-	- ---
+	- ![replicate-prediction-sdwjfxza0drj60cpg6nv7z65zr.jpg](../assets/replicate-prediction-sdwjfxza0drj60cpg6nv7z65zr_1745933183958_0.jpg)
 	-
 	- ## 3. Edición de imágenes (Upscaling)
 	  
 	  **Descripción**: Mejora la calidad de una imagen ampliando sus dimensiones y refinando los detalles.
 		- **15:25** [[quick capture]]:  [Prediction fermatresearch/high-resolution-controlnet-tile – Replicate](https://replicate.com/p/60wfkgat8srma0cpg6ra98byeg)
+		- ![replicate-prediction-60wfkgat8srma0cpg6ra98byeg.jpg](../assets/replicate-prediction-60wfkgat8srma0cpg6ra98byeg_1745933210710_0.jpg)
 	- ## 3. Edición de imágenes (Borrar fondo)
 	  
 	  **Descripción**: Rellenar áreas faltantes o ampliar el lienzo de una imagen.
