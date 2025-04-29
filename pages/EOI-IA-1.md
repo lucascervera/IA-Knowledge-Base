@@ -58,9 +58,9 @@
 	-
 	- ![image.png](../assets/image_1745931374965_0.png)
 	- **14:58** [[quick capture]]:  [Explore – Replicate](https://replicate.com/explore#featured-models)
-	- ## 3. Edición de imágenes (Borrar fondo)
+	- ## 3. Edición de imágenes (Sustituir cara)
 	  
-	  **Descripción**: Rellenar áreas faltantes o ampliar el lienzo de una imagen.
+	  **Descripción**: A partir de una imagen de referencia de una persona, sustituye su cara con la imagen de otra cara.
 	- https://replicate.com/p/sdwjfxza0drj60cpg6nv7z65zr
 	- ---
 	- ## 3. Edición de imágenes (Borrar fondo)
