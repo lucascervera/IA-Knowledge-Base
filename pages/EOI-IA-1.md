@@ -1,7 +1,9 @@
 public:: true
 
 - ## Evolución de la inteligencia artificial aplicada a la generación de  imágenes
+- IA imagen
 - ## Herramientas de IA imagen
+  collapsed:: true
 	- Elección de la herramienta concreta
 		- Principio de pareto.
 		- Directorios de aplicaciones basadas en IA
@@ -14,6 +16,7 @@ public:: true
 			- Leonardo
 			- Pinokio
 - ## Funcionalidades de la inteligencia artificial para la generación de imagen
+  collapsed:: true
 	- Creación de imágenes a partir de promts de texto
 	- Creación de imágenes a partir de imágenes
 	- Edición de imágenes con out paint e in painting.
@@ -26,6 +29,7 @@ public:: true
 	- Creación de logos
 	- ...
 - ## Preparación del entorno de trabajo
+  collapsed:: true
 	- Necesitas
 		- Una cuenta de Google
 		- Una cuenta de [Chat GPT](https://chatgpt.com/)
