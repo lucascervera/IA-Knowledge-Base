@@ -34,6 +34,7 @@ public:: true
 		- Una idea de negocio o producto
 			- Beerbrella Patente: [https://patents.google.com/patent/US2...](https://patents.google.com/patent/US6637447B2/en)
 - ## Generación de imágenes desde texto (Text-to-Image)
+  collapsed:: true
 	- **Descripción**: Crear imágenes originales a partir de descripciones en lenguaje natural.
 	- ### Foto de producto.
 		- Prompt:
@@ -48,6 +49,7 @@ public:: true
 		- [Bebedor de cerveza español](https://chatgpt.com/share/6810c535-4f48-800c-8e5f-9d233a6fa74d)
 			- ![ChatGPT Image 29 abr 2025, 14_24_49.png](../assets/ChatGPT_Image_29_abr_2025,_14_24_49_1745929737774_0.png)
 - ## Transformación de imágenes (Image-to-Image)
+  collapsed:: true
 	- **Descripción**: Tomar una imagen de entrada y generar variaciones manteniendo el estilo o contenido.
 	- **Prompt**: `Ponle un poco más de tripa`
 	- ![image.png](../assets/image_1745930103736_0.png)
@@ -64,6 +66,7 @@ public:: true
 		- ![replicate-prediction-sdwjfxza0drj60cpg6nv7z65zr.jpg](../assets/replicate-prediction-sdwjfxza0drj60cpg6nv7z65zr_1745933183958_0.jpg){:height 527, :width 346}
 	-
 - ## Edición de imágenes (Upscaling)
+  collapsed:: true
 	- **Descripción**: Mejora la calidad de una imagen ampliando sus dimensiones y refinando los detalles.
 	- [Prediction fermatresearch/high-resolution-controlnet-tile – Replicate](https://replicate.com/p/60wfkgat8srma0cpg6ra98byeg)
 	- ![replicate-prediction-60wfkgat8srma0cpg6ra98byeg.jpg](../assets/replicate-prediction-60wfkgat8srma0cpg6ra98byeg_1745933210710_0.jpg)
