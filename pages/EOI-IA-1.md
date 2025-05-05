@@ -74,10 +74,11 @@ public:: true
 		- [Cerveza personalizada playa fiesta](https://chatgpt.com/c/6810d739-dc88-800c-8f9d-149264d8b0b3)
 		- ![image.png](../assets/image_1745934456186_0.png)
 - ## Modelado 3D a partir de texto o imagen
-  
-  **Descripción**: Generar mallas y entornos 3D.
+  collapsed:: true
+	- **Descripción**: Generar mallas y entornos 3D.
 	- https://lumalabs.ai/genie?view=create
-- ## Recursos adicionales
+- ## Herramientas I
+	-
 	- **Leonardo AI**: [https://www.leonardo.ai/](https://www.leonardo.ai/)
 	- **Replicate**: [https://www.replicate.com/](https://www.replicate.com/)
 	- **Pinokio**: [https://pinokio.computer/](https://pinokio.computer/)
