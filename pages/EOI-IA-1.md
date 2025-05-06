@@ -11,7 +11,6 @@ public:: false
 		- Una idea de negocio o producto
 			- Beerbrella Patente: [https://patents.google.com/patent/US2...](https://patents.google.com/patent/US6637447B2/en)
 - ## Herramientas de IA imagen
-  collapsed:: true
 	- Elección de la herramienta concreta
 		- Principio de pareto.
 		- Directorios de aplicaciones basadas en IA
@@ -19,10 +18,10 @@ public:: false
 		- Funcionalidad, SaaS, API o local
 		- Para utilizar en tu trabajo
 		- Para utilizar en esta clase
-			- ChatGPT
-			- Replicate
-			- Leonardo
-			- Pinokio
+		- **Leonardo AI**: [https://www.leonardo.ai/](https://www.leonardo.ai/)
+		- **Replicate**: [https://www.replicate.com/](https://www.replicate.com/)
+		- **Pinokio**: [https://pinokio.computer/](https://pinokio.computer/)
+- ## Herramientas IA / imagen
 - ## Funcionalidades de la inteligencia artificial para la generación de imagen
   collapsed:: true
 	- Creación de imágenes a partir de promts de texto
@@ -317,60 +316,6 @@ public:: false
 	- ## Crear canción a partir de música.
 	  collapsed:: true
 		- **16:30** [[quick capture]]:  [Prediction minimax/music-01 – Replicate](https://replicate.com/p/v3vgpgmz3srme0cpmr09kyc6bc)
-	- ## Crear video de avatar parlante
-	  collapsed:: true
-		- ![image.png](../assets/image_1746542065988_0.png)
-		- https://replicate.com/cjwbw/sadtalker?prediction=mtxn23h8fhrj40cpmr0r9j5h20
-- la generación de imagen
-- ## Generación de imágenes desde texto (Text-to-Image)
-  collapsed:: true
-	- **Descripción**: Crear imágenes originales a partir de descripciones en lenguaje natural.
-	- ### Foto de producto.
-		- Prompt:
-			- ```
-			  The present invention provides a small umbrella (“Beerbrella”) which may be removably attached to a beverage container in order to shade the beverage container from the direct rays of the sun. The apparatus comprises a small umbrella approximately five to seven inches in diameter, although other appropriate sizes may be used within the spirit and scope of the present invention. Suitable advertising and/or logos may be applied to the umbrella surface for promotional purposes. The umbrella may be attached to the beverage container by any one of a number of means, including clip, strap, cup, foam insulator, or as a coaster or the like. The umbrella shaft may be provided with a pivot to allow the umbrella to be suitably angled to shield the sun or for aesthetic purposes. In one embodiment, a pivot joint and counterweight may be provided to allow the umbrella to pivot out of the way when the user drinks from the container.
-			  ```
-		- ChatGPT
-			- ![image.png](../assets/image_1745928266499_0.png){:height 174, :width 555}
-		- [Invención de Beerbrella](https://chatgpt.com/share/6810c2c6-fe8c-800c-9ba1-682b71e568e3)
-			- ![ChatGPT Image 29 abr 2025, 14_14_46.png](../assets/ChatGPT_Image_29_abr_2025,_14_14_46_1745929664533_0.png)
-	- ### Foto de persona
-		- [Bebedor de cerveza español](https://chatgpt.com/share/6810c535-4f48-800c-8e5f-9d233a6fa74d)
-			- ![ChatGPT Image 29 abr 2025, 14_24_49.png](../assets/ChatGPT_Image_29_abr_2025,_14_24_49_1745929737774_0.png)
-- ## Transformación de imágenes (Image-to-Image)
-  collapsed:: true
-	- **Descripción**: Tomar una imagen de entrada y generar variaciones manteniendo el estilo o contenido.
-	- **Prompt**: `Ponle un poco más de tripa`
-	- ![image.png](../assets/image_1745930103736_0.png)
-	- ## Eliminación de fondo y segmentación
-	  
-	  **Descripción**: Separar sujeto y fondo para montajes o transparencias.
-	-
-	- ![image.png](../assets/image_1745931374965_0.png)
-	- [Explore – Replicate](https://replicate.com/explore#featured-models)
-	- ## 3. Edición de imágenes (Sustituir cara)
-	  
-	  **Descripción**: A partir de una imagen de referencia de una persona, sustituye su cara con la imagen de otra cara.
-		- [Prediction cdingram/face-swap – Replicate](https://replicate.com/p/sdwjfxza0drj60cpg6nv7z65zr)
-		- ![replicate-prediction-sdwjfxza0drj60cpg6nv7z65zr.jpg](../assets/replicate-prediction-sdwjfxza0drj60cpg6nv7z65zr_1745933183958_0.jpg){:height 527, :width 346}
-	-
-- ## Edición de imágenes (Upscaling)
-  collapsed:: true
-	- **Descripción**: Mejora la calidad de una imagen ampliando sus dimensiones y refinando los detalles.
-	- [Prediction fermatresearch/high-resolution-controlnet-tile – Replicate](https://replicate.com/p/60wfkgat8srma0cpg6ra98byeg)
-	- ![replicate-prediction-60wfkgat8srma0cpg6ra98byeg.jpg](../assets/replicate-prediction-60wfkgat8srma0cpg6ra98byeg_1745933210710_0.jpg)
-	- ## Edición de imágenes mediante texto
-		- [Cerveza personalizada playa fiesta](https://chatgpt.com/c/6810d739-dc88-800c-8f9d-149264d8b0b3)
-		- ![image.png](../assets/image_1745934456186_0.png)
-- ## Modelado 3D a partir de texto o imagen
-  collapsed:: true
-	- **Descripción**: Generar mallas y entornos 3D.
-	- https://lumalabs.ai/genie?view=create
-- ## Herramientas IA / imagen
-  collapsed:: true
-	- **Leonardo AI**: [https://www.leonardo.ai/](https://www.leonardo.ai/)
-	- **Replicate**: [https://www.replicate.com/](https://www.replicate.com/)
-	- **Pinokio**: [https://pinokio.computer/](https://pinokio.computer/)
 - ## Automatización de creación de imágenes
   collapsed:: true
 	- Consideraciones éticas ilegales de la generación de imágenes con IA.
