@@ -256,6 +256,8 @@ public:: false
 		- **14:17** [[quick capture]]:  [minimax/voice-cloning – Run with an API on Replicate](https://replicate.com/minimax/voice-cloning)
 		- voice_id: R8_XZHESM8J
 		- **14:20** [[quick capture]]:  [minimax/speech-02-turbo – Run with an API on Replicate](https://replicate.com/minimax/speech-02-turbo?prediction=b22xgy0jqhrme0cpmp5940crkm)
+	- ## Cambiar el fondo de una imagen
+		-
 - ## Preparación del entorno de trabajo
   collapsed:: true
 	- Necesitas
