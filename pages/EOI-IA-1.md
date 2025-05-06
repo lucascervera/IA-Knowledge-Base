@@ -27,8 +27,7 @@ public:: true
 	- Generación de texto dentro de una imagen
 	- Creación de logos
 	- ...
-	- 🎨 Creación de imágenes a partir de prompts de texto  
-	  collapsed:: true
+	- 🎨 Creación de imágenes a partir de prompts de texto
 		- Permite generar ilustraciones o fotografías sintéticas a partir de descripciones en lenguaje natural.
 		- Inputs: Prompt de texto (descripción detallada)
 		- Outputs: Imagen digital (JPEG, PNG)
