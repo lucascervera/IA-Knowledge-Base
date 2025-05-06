@@ -275,6 +275,7 @@ public:: false
 	- ## Identifica objetos en una imagen
 		- ![replicate-prediction-k4qt3g86j9rmc0cpmptb4y2dtm.png](../assets/replicate-prediction-k4qt3g86j9rmc0cpmptb4y2dtm_1746536858417_0.png)
 		- **15:07** [[quick capture]]:  [adirik/grounding-dino – Run with an API on Replicate](https://replicate.com/adirik/grounding-dino?prediction=k4qt3g86j9rmc0cpmptb4y2dtm)
+	- ## Generación de ilustraciones
 	-
 - ## Preparación del entorno de trabajo
 	- Necesitas
