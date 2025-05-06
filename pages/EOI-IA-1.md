@@ -281,8 +281,8 @@ public:: false
 	- ## Crear una ilustración del personaje
 		- ![replicate-prediction-qw9brgga75rma0cpmq88ge2x9m.png](../assets/replicate-prediction-qw9brgga75rma0cpmq88ge2x9m_1746538682994_0.png)
 		- **15:38** [[quick capture]]:  [Prediction roblester/editorial-cartoon – Replicate](https://replicate.com/p/qw9brgga75rma0cpmq88ge2x9m)
-	- ##
-	-
+	- ## Crear un objeto 3D a partir de una imagen.
+		-
 - ## Preparación del entorno de trabajo
 	- Necesitas
 		- Una cuenta de Google
