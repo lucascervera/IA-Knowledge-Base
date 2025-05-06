@@ -293,7 +293,7 @@ public:: false
 	- ## Crear música de fondo
 		- Música medieval española con mandolina
 		- **16:13** [[quick capture]]:  [Prediction meta/musicgen – Replicate](https://replicate.com/p/8gj087thr1rj40cpmqramq3wwr)
-	-
+	- ## Crear canción a partir de música.
 		-
 - ## Preparación del entorno de trabajo
 	- Necesitas
