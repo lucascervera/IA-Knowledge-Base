@@ -1,5 +1,6 @@
 public:: false
 
+- # Inteligencia artificial imagen y vídeo.
 - ## Evolución de la inteligencia artificial aplicada a la generación de  imágenes
 - ## Preparación del entorno de trabajo
   collapsed:: true
