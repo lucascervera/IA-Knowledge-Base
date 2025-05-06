@@ -264,6 +264,8 @@ public:: false
 				- https://replicate.delivery/xezq/UHCl3UGbh1qFIhMDT56GQzfRoeCSeFWLMdCZfOPIi3cXwsnSB/f86fb2ee-2a75-11f0-b7bd-967147130beb.png
 		- ## Ampliar una imagen
 			- **14:46** [[quick capture]]:  [Prediction fermatresearch/magic-image-refiner – Replicate](https://replicate.com/p/czp02tmgx1rme0cpmpfawz56pr)
+		- ## Mejorar una imagen
+			- Elimina el borde negro que hay alrededor del personaje para que el personaje quede integrado con el fondo
 - ## Preparación del entorno de trabajo
   collapsed:: true
 	- Necesitas
