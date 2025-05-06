@@ -269,7 +269,8 @@ public:: false
 			- ![ChatGPT Image 6 may 2025, 14_57_08.png](../assets/ChatGPT_Image_6_may_2025,_14_57_08_1746536276518_0.png)
 	- ## Describir una imagen contexto
 		- The image features a man wearing a medieval helmet and a brown shirt, standing in a hallway. He is smiling and appears to be posing for the picture. The setting suggests that the man is dressed in a historical costume, possibly representing a knight or a character from a medieval period.
-		-
+		- **15:01** [[quick capture]]:  [Prediction lucataco/moondream2 – Replicate](https://replicate.com/p/m62wnc78xdrme0cpmppt01xtww)
+	- ## Añade partes a una imagen out painting
 - ## Preparación del entorno de trabajo
 	- Necesitas
 		- Una cuenta de Google
