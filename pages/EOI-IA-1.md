@@ -1,7 +1,6 @@
 public:: false
 
 - ## Evolución de la inteligencia artificial aplicada a la generación de  imágenes
-- IA imagen
 - ## Preparación del entorno de trabajo
   collapsed:: true
 	- Necesitas
@@ -255,7 +254,6 @@ public:: false
 		- Herramientas: [Vectorizer (Replicate)](https://replicate.com/blakeembrey/vectorizer), [Illustrator Image Trace](https://www.adobe.com/products/illustrator.html)
 		- enes
 - ## Ejemplos de funcionalidades
-  collapsed:: true
 	- ## Edición de imágenes con texto
 	  collapsed:: true
 		- ![lucas.png](../assets/lucas_1746534173278_0.png)
@@ -300,11 +298,11 @@ public:: false
 	  collapsed:: true
 		- ![replicate-prediction-qw9brgga75rma0cpmq88ge2x9m.png](../assets/replicate-prediction-qw9brgga75rma0cpmq88ge2x9m_1746538682994_0.png)
 		- **15:38** [[quick capture]]:  [Prediction roblester/editorial-cartoon – Replicate](https://replicate.com/p/qw9brgga75rma0cpmq88ge2x9m)
-	- ## Crear un objeto 3D a partir de una imagen.
+	- ## Crear un objeto 3D a partir de una imagen
 	  collapsed:: true
 		- ![image.png](../assets/image_1746538928879_0.png)
 		- **15:42** [[quick capture]]:  [Prediction firtoz/trellis – Replicate](https://replicate.com/p/vsp1ay5ckhrj00cpmq9a4xs178)
-	- ##  Generar un vídeo a partir de una imagen.
+	- ##  Generar un vídeo a partir de una imagen
 	  collapsed:: true
 		- ![image.png](../assets/image_1746539556121_0.png)
 		- **15:52** [[quick capture]]:  [Prediction kwaivgi/kling-v2.0 – Replicate](https://replicate.com/p/grvgemnyv5rm80cpmqc87ph2sc)
@@ -313,11 +311,14 @@ public:: false
 		- ![image.png](../assets/image_1746539661009_0.png)
 		- **15:55** [[quick capture]]:  [Replicate playground - Compare models, rapidly prototype, and tweak and refine results.](https://replicate.com/playground/)
 	- ## Crear música de fondo
+	  collapsed:: true
 		- Música medieval alegre española con mandolina
 		- **16:29** [[quick capture]]:  [Prediction meta/musicgen – Replicate](https://replicate.com/p/n36ar9b1asrj20cpmqyvps4tx0)
 	- ## Crear canción a partir de música.
+	  collapsed:: true
 		- **16:30** [[quick capture]]:  [Prediction minimax/music-01 – Replicate](https://replicate.com/p/v3vgpgmz3srme0cpmr09kyc6bc)
 	- ## Crear video de avatar parlante
+	  collapsed:: true
 		- ![image.png](../assets/image_1746542065988_0.png)
 		- https://replicate.com/cjwbw/sadtalker?prediction=mtxn23h8fhrj40cpmr0r9j5h20
 - la generación de imagen
