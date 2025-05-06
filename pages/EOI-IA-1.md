@@ -283,7 +283,7 @@ public:: false
 		- **15:38** [[quick capture]]:  [Prediction roblester/editorial-cartoon – Replicate](https://replicate.com/p/qw9brgga75rma0cpmq88ge2x9m)
 	- ## Crear un objeto 3D a partir de una imagen.
 		- ![image.png](../assets/image_1746538928879_0.png)
-		-
+		- **15:42** [[quick capture]]:  [Prediction firtoz/trellis – Replicate](https://replicate.com/p/vsp1ay5ckhrj00cpmq9a4xs178)
 - ## Preparación del entorno de trabajo
 	- Necesitas
 		- Una cuenta de Google
