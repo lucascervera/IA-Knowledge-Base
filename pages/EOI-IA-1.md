@@ -246,7 +246,6 @@ public:: false
 		- enes
 - ## Ejemplos de funcionalidades
 	- ## Edición de imágenes con texto
-	  collapsed:: true
 		- **14:04** [[quick capture]]:  [Prediction zsxkib/step1x-edit – Replicate](https://replicate.com/p/t93vck6ethrj60cpmnvsszeb6r)
 		- ![image.png](../assets/image_1746533115060_0.png)
 	- ## Texto a voz
@@ -255,6 +254,7 @@ public:: false
 		- ![Voz Lucas.wav](../assets/Voz_Lucas_1746533625745_0.wav)
 		- **14:17** [[quick capture]]:  [minimax/voice-cloning – Run with an API on Replicate](https://replicate.com/minimax/voice-cloning)
 		- voice_id: R8_XZHESM8J
+		- **14:20** [[quick capture]]:  [minimax/speech-02-turbo – Run with an API on Replicate](https://replicate.com/minimax/speech-02-turbo?prediction=b22xgy0jqhrme0cpmp5940crkm)
 - ## Preparación del entorno de trabajo
   collapsed:: true
 	- Necesitas
