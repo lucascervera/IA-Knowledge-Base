@@ -27,7 +27,7 @@ public:: false
 	- Generación de texto dentro de una imagen
 	- Creación de logos
 	- ...
-	- 🎨 Creación de imágenes a partir de prompts de texto  
+	- ## 🎨 Creación de imágenes a partir de prompts de texto
 	  collapsed:: true
 		- Permite generar ilustraciones o fotografías sintéticas a partir de descripciones en lenguaje natural.
 		- Inputs: Prompt de texto (descripción detallada)
@@ -37,7 +37,7 @@ public:: false
 		  1. Redactar prompt claro y detallado.  
 		  2. Enviar a la API o interfaz.  
 		  3. Revisar resultados y ajustar prompt si es necesario.
-	- 🖼️ Creación de imágenes a partir de imágenes  
+	- ## 🖼️ Creación de imágenes a partir de imágenes
 	  collapsed:: true
 		- Transforma o extiende una imagen existente para generar variaciones o completar zonas faltantes.
 		- Inputs: Imagen base
@@ -47,13 +47,13 @@ public:: false
 		  1. Subir o seleccionar la imagen original.  
 		  2. Definir parámetros de transformación (fuerza, estilo).  
 		  3. Ejecutar y revisar; iterar ajustes.
-	- ✂️ Quitar el fondo a una imagen  
+	- ## ✂️ Quitar el fondo a una imagen
 	  collapsed:: true
 		- Elimina automáticamente el fondo dejando el sujeto principal en primer plano.
 		- Inputs: Imagen con sujeto y fondo
 		- Outputs: PNG con fondo transparente
 		- Herramientas: [Remove bg (Replicate)](https://replicate.com/rmccue/automatically-remove-background), [remove.bg](https://www.remove.bg/)
-	- 🧩 Edición de imágenes con outpainting e inpainting  
+	- ## 🧩 Edición de imágenes con outpainting e inpainting
 	  collapsed:: true
 		- Rellena zonas faltantes (outpaint) o corrige imperfecciones (inpaint) manteniendo coherencia visual.
 		- Inputs: Imagen con área señalada para rellenar
@@ -63,32 +63,30 @@ public:: false
 		  1. Marcar área a rellenar o corregir.  
 		  2. Ejecutar algoritmo de in/outpainting.  
 		  3. Ajustar máscara y repetir si es necesario.
-	- 🔍 Aumentar la resolución de una imagen  
-	  collapsed:: true
+	- ## 🔍 Aumentar la resolución de una imagen
 		- Escala una imagen a mayor tamaño manteniendo detalle y reduciendo ruido.
 		- Inputs: Imagen de baja resolución
 		- Outputs: Imagen de resolución superior
 		- Herramientas: [ESRGAN (Replicate)](https://replicate.com/xinntao/esrgan), [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)
-	- ✒️ Generación de texto dentro de una imagen  
+	- ## ✒️ Generación de texto dentro de una imagen
 	  collapsed:: true
 		- Incorpora automáticamente rótulos, subtítulos o marcas de agua en imágenes.
 		- Inputs: Imagen base + texto a insertar
 		- Outputs: Imagen con texto integrado
 		- Herramientas: [Stable Diffusion (Replicate)](https://replicate.com/stability-ai/stable-diffusion), [Canva Text-to-Image](https://www.canva.com/features/text-to-image/)
-	- 📸 Crear una imagen de producto a partir de una foto de mala calidad  
+	- ## 📸 Crear una imagen de producto a partir de una foto de mala calidad
 	  collapsed:: true
 		- Mejora color, nitidez y elimina artefactos para obtener una imagen de catálogo.
 		- Inputs: Foto de baja resolución o mal iluminada
 		- Outputs: Imagen optimizada de alta calidad
 		- Herramientas: [Real-ESRGAN (Replicate)](https://replicate.com/xinntao/real-esrgan), [Topaz Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)
-	- 🏷️ Creación de logos  
+	- ## 🏷️ Creación de logos
 	  collapsed:: true
 		- Diseña logotipos vectoriales o raster basados en brief de marca.
 		- Inputs: Descripción de marca, colores y estilo preferido
 		- Outputs: Archivo de logo (.svg, .png)
 		- Herramientas: [Stable Diffusion (Replicate)](https://replicate.com/stability-ai/stable-diffusion), [Looka](https://looka.com/)
-	- 🖌️ Conversión de una foto a un estilo artístico (style transfer)  
-	  collapsed:: true
+	- ## 🖌️ Conversión de una foto a un estilo artístico (style transfer)
 		- Aplica la apariencia de un pintor famoso o estilo gráfico a una imagen.
 		- Inputs: Imagen original + imagen de estilo
 		- Outputs: Imagen con nuevo estilo aplicado
@@ -161,7 +159,7 @@ public:: false
 		  1. Analizar zonas a reparar.  
 		  2. Ejecutar algoritmo de restauración.  
 		  3. Pulir detalles manualmente.
-	- 🌟 Simulación de efectos fotográficos (profundidad de campo, desenfoque, etc.)  
+	- ## 🌟 Simulación de efectos fotográficos (profundidad de campo, desenfoque, etc.)
 	  collapsed:: true
 		- Añade bokeh, viñeteado o desenfoque selectivo para mejorar el aspecto.
 		- Inputs: Imagen original + parámetros de efecto
