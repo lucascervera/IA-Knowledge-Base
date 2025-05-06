@@ -246,8 +246,9 @@ public:: false
 		- enes
 - ## Ejemplos de funcionalidades
 	- ## Edición de imágenes con texto
-		-
-		-
+	  collapsed:: true
+		- **14:04** [[quick capture]]:  [Prediction zsxkib/step1x-edit – Replicate](https://replicate.com/p/t93vck6ethrj60cpmnvsszeb6r)
+		- ![image.png](../assets/image_1746533115060_0.png)
 - ## Preparación del entorno de trabajo
   collapsed:: true
 	- Necesitas
