@@ -265,7 +265,9 @@ public:: false
 		- ## Ampliar una imagen
 			- **14:46** [[quick capture]]:  [Prediction fermatresearch/magic-image-refiner – Replicate](https://replicate.com/p/czp02tmgx1rme0cpmpfawz56pr)
 		- ## Mejorar una imagen
-			- Elimina el borde negro que hay alrededor del personaje para que el personaje quede integrado con el fondo
+			- Elimina el borde negro que hay alrededor del personaje para que el personaje quede integrado con el fondo. Ponle un casco medieval.
+			-
+				- https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-057c-620a-b38f-6c7a08b85deb/raw?se=2025-05-06T13%3A54%3A17Z&sp=r&sv=2024-08-04&sr=b&scid=12d4b079-6653-5d42-afb0-2965de8d1e03&skoid=cdb71e28-0a5b-4faa-8cf5-de6084d65b8f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-06T07%3A04%3A04Z&ske=2025-05-07T07%3A04%3A04Z&sks=b&skv=2024-08-04&sig=HXy2Wnw2VKLYOxqdgIWWH7f%2B42NrDnuQEQXjJVgagzk%3D
 - ## Preparación del entorno de trabajo
   collapsed:: true
 	- Necesitas
