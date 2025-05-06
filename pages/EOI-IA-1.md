@@ -103,6 +103,18 @@ public:: true
 		  1. Subir imagen de contenido y de estilo.  
 		  2. Ejecutar transferencia de estilo.  
 		  3. Ajustar intensidad del efecto.
+	- 🤖 Generación de imágenes hiperrealistas de personas que no existen  
+	  collapsed:: true
+		- Crea retratos fotográficos de rostros ficticios con alta fidelidad.
+		- Inputs: Parámetros demográficos (edad, sexo, etnia)
+		- Outputs: Imagen de rostro (PNG/JPEG)
+		- Herramientas: [StyleGAN2 (Replicate)](https://replicate.com/NVlabs/stylegan2), [ThisPersonDoesNotExist](https://thispersondoesnotexist.com/)
+	- 🕵️ Reconocimiento facial y generación de rostros a partir de descripciones  
+	  collapsed:: true
+		- Detecta rostros en fotos y puede generar retratos basados en texto.
+		- Inputs: Foto de grupo o descripción textual
+		- Outputs: Coordenadas de rostros / retrato generado
+		- Herramientas: [Face Recognition (Replicate)](https://replicate.com/ageitgey/face_recognition), [Generated Photos](https://generated.photos/)
 	- 👤 Creación de personajes consistentes  
 	  collapsed:: true
 		- Genera múltiples ilustraciones del mismo personaje manteniendo rasgos y estilo uniforme.
@@ -129,7 +141,8 @@ public:: true
 		  1. Seleccionar pares de imágenes.  
 		  2. Ajustar número de fotogramas intermedios.  
 		  3. Generar y exportar vídeo.
-	- 🌈 Colorización automática de fotos en blanco y negro
+	- 🌈 Colorización automática de fotos en blanco y negro  
+	  collapsed:: true
 		- Añade colores a imágenes monocromas preservando naturalidad y texturas.
 		- Inputs: Fotografía B/N
 		- Outputs: Fotografía a color
@@ -138,7 +151,8 @@ public:: true
 		  1. Subir foto en blanco y negro.  
 		  2. Ejecutar modelo de colorización.  
 		  3. Retocar tonos si es necesario.
-	- 🛠️ Restauración de imágenes dañadas o antiguas
+	- 🛠️ Restauración de imágenes dañadas o antiguas  
+	  collapsed:: true
 		- Elimina arañazos, manchas y recupera zonas perdidas en fotografías históricas.
 		- Inputs: Imagen escaneada dañada
 		- Outputs: Imagen restaurada
@@ -147,7 +161,8 @@ public:: true
 		  1. Analizar zonas a reparar.  
 		  2. Ejecutar algoritmo de restauración.  
 		  3. Pulir detalles manualmente.
-	- 🔎 Detección de objetos dentro de imágenes
+	- 🔎 Detección de objetos dentro de imágenes  
+	  collapsed:: true
 		- Identifica y localiza automáticamente elementos (personas, coches, señales).
 		- Inputs: Imagen o vídeo
 		- Outputs: Bounding boxes con etiquetas y puntuaciones
@@ -156,36 +171,30 @@ public:: true
 		  1. Cargar imagen en el detector.  
 		  2. Evaluar resultados y revisar etiquetas.  
 		  3. Exportar datos en JSON o CSV.
-	- 🏷️ Clasificación de imágenes por contenido (etiquetado automático)
+	- 🏷️ Clasificación de imágenes por contenido (etiquetado automático)  
+	  collapsed:: true
 		- Asigna categorías o tags a cada imagen según su contenido.
 		- Inputs: Lote de imágenes
 		- Outputs: Lista de etiquetas por imagen
 		- Herramientas: [Image Classification (Replicate)](https://replicate.com/google/vit-base-patch16-224), [Google Vision](https://cloud.google.com/vision)
-	- 🖼️ Segmentación semántica (identificación de cada píxel por categoría)
+	- 🖼️ Segmentación semántica (identificación de cada píxel por categoría)  
+	  collapsed:: true
 		- Crea máscaras detalladas para cada objeto o región en la imagen.
 		- Inputs: Imagen
 		- Outputs: Mapas de segmentación
 		- Herramientas: [U^2-Net (Replicate)](https://replicate.com/xuebinqin/U-2-Net), [DeepLab](https://github.com/tensorflow/models/tree/master/research/deeplab)
-	- 🏥 Generación de imágenes a partir de datos médicos (radiografías, resonancias, etc.)
+	- 🏥 Generación de imágenes a partir de datos médicos (radiografías, resonancias, etc.)  
+	  collapsed:: true
 		- Sintetiza vistas médicas para entrenamiento o aumento de datos clínicos.
 		- Inputs: Parámetros clínicos o imágenes de baja calidad
 		- Outputs: Imágenes médicas generadas o mejoradas
 		- Herramientas: [MedGaAN (Replicate)](https://replicate.com/jsyoon0823/medgan), [NVIDIA Clara](https://developer.nvidia.com/clara-medical-imaging)
-	- 🌄 Creación de fondos generativos para uso en videojuegos o diseño
+	- 🌄 Creación de fondos generativos para uso en videojuegos o diseño  
+	  collapsed:: true
 		- Produce paisajes, nubes o texturas repetibles para escenarios 2D/3D.
 		- Inputs: Parámetros de estilo y paleta de colores
 		- Outputs: Texturas o tilesets
 		- Herramientas: [GauGAN (Replicate)](https://replicate.com/nvjr/gaugan2), [Artbreeder](https://www.artbreeder.com/)
-	- 🤖 Generación de imágenes hiperrealistas de personas que no existen
-		- Crea retratos fotográficos de rostros ficticios con alta fidelidad.
-		- Inputs: Parámetros demográficos (edad, sexo, etnia)
-		- Outputs: Imagen de rostro (PNG/JPEG)
-		- Herramientas: [StyleGAN2 (Replicate)](https://replicate.com/NVlabs/stylegan2), [ThisPersonDoesNotExist](https://thispersondoesnotexist.com/)
-	- 🕵️ Reconocimiento facial y generación de rostros a partir de descripciones
-		- Detecta rostros en fotos y puede generar retratos basados en texto.
-		- Inputs: Foto de grupo o descripción textual
-		- Outputs: Coordenadas de rostros / retrato generado
-		- Herramientas: [Face Recognition (Replicate)](https://replicate.com/ageitgey/face_recognition), [Generated Photos](https://generated.photos/)
 	- 🎨 Creación de texturas y patrones para diseño gráfico o 3D
 		- Genera estampados, mosaicos y mapas de desplazamiento para superficies.
 		- Inputs: Ejemplos de patrón o prompt textual
