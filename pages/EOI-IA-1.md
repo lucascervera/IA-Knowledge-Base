@@ -1,4 +1,4 @@
-public:: true
+public:: false
 
 - ## Evolución de la inteligencia artificial aplicada a la generación de  imágenes
 - IA imagen
