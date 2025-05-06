@@ -249,7 +249,8 @@ public:: false
 	  collapsed:: true
 		- **14:04** [[quick capture]]:  [Prediction zsxkib/step1x-edit – Replicate](https://replicate.com/p/t93vck6ethrj60cpmnvsszeb6r)
 		- ![image.png](../assets/image_1746533115060_0.png)
-	-
+	- ## Texto a voz
+		- **14:10** [[quick capture]]:  [minimax/speech-02-hd – Run with an API on Replicate](https://replicate.com/minimax/speech-02-hd?prediction=s113dards9rm80cpmnztd4xxzr)
 - ## Preparación del entorno de trabajo
   collapsed:: true
 	- Necesitas
