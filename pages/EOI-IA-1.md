@@ -100,6 +100,7 @@ public:: false
 		- Outputs: Imagen con texto integrado
 		- Herramientas: [Stable Diffusion (Replicate)](https://replicate.com/stability-ai/stable-diffusion), [Canva Text-to-Image](https://www.canva.com/features/text-to-image/)
 	- ## 📸 Crear una imagen de producto a partir de una foto de mala calidad
+	  collapsed:: true
 		- Mejora color, nitidez y elimina artefactos para obtener una imagen de catálogo.
 		- Inputs: Foto de baja resolución o mal iluminada
 		- Outputs: Imagen optimizada de alta calidad
