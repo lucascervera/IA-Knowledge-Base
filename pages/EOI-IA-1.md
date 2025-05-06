@@ -251,7 +251,9 @@ public:: false
 		- ![image.png](../assets/image_1746533115060_0.png)
 	- ## Texto a voz
 		- **14:10** [[quick capture]]:  [minimax/speech-02-hd – Run with an API on Replicate](https://replicate.com/minimax/speech-02-hd?prediction=s113dards9rm80cpmnztd4xxzr)
-	-
+	- ## Clonación de voz
+		- ![Voz Lucas.wav](../assets/Voz_Lucas_1746533625745_0.wav)
+		-
 - ## Preparación del entorno de trabajo
   collapsed:: true
 	- Necesitas
