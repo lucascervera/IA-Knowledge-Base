@@ -279,7 +279,6 @@ public:: false
 	- ## Texto a voz
 	  collapsed:: true
 	- [minimax/speech-02-hd – Run with an API on Replicate](https://replicate.com/minimax/speech-02-hd?prediction=s113dards9rm80cpmnztd4xxzr)
-		- https://replicate.com/minimax/speech-02-hd?prediction=s113dards9rm80cpmnztd4xxzr
 	- ## Clonación de voz
 	  collapsed:: true
 		- ![Voz Lucas.wav](../assets/Voz_Lucas_1746533625745_0.wav)
@@ -291,6 +290,7 @@ public:: false
 		- ![replicate-prediction-y4sda3ehexrj60cpmp7b9rxfng.webp](../assets/replicate-prediction-y4sda3ehexrj60cpmp7b9rxfng_1746535054243_0.webp)
 			- https://replicate.delivery/pbxt/MxfDCQmfpdpyKzmX1ueHbomnly3ELFN2H0t7hFjEL94Z3Nr5/replicate-prediction-y4sda3ehexrj60cpmp7b9rxfng.webp
 	- [wolverinn/realistic-background – Run with an API on Replicate](https://replicate.com/wolverinn/realistic-background?prediction=65r4bxkgenrma0cpmp98erw4wg)
+	  collapsed:: true
 	    ![f86fb2ee-2a75-11f0-b7bd-967147130beb.png](../assets/f86fb2ee-2a75-11f0-b7bd-967147130beb_1746535101434_0.png)
 		- https://replicate.delivery/xezq/UHCl3UGbh1qFIhMDT56GQzfRoeCSeFWLMdCZfOPIi3cXwsnSB/f86fb2ee-2a75-11f0-b7bd-967147130beb.png
 		- ## Ampliar una imagen
