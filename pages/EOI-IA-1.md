@@ -279,8 +279,9 @@ public:: false
 		- Un escudo medieval con una cabra dentro y con el texto "Don Mendo Salazar y Bernáldez de Montiel" en letras medievales.
 		- **15:26** [[quick capture]]:  [Prediction recraft-ai/recraft-v3-svg – Replicate](https://replicate.com/p/a89abqkc55rm80cpmq2t1r1qpc)
 	- ## Crear una ilustración del personaje
-		-
-	-
+		- ![replicate-prediction-qw9brgga75rma0cpmq88ge2x9m.png](../assets/replicate-prediction-qw9brgga75rma0cpmq88ge2x9m_1746538682994_0.png)
+		- **15:38** [[quick capture]]:  [Prediction roblester/editorial-cartoon – Replicate](https://replicate.com/p/qw9brgga75rma0cpmq88ge2x9m)
+	- ##
 	-
 - ## Preparación del entorno de trabajo
 	- Necesitas
