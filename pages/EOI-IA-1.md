@@ -243,6 +243,7 @@ public:: false
 		- Inputs: Imagen raster (logo, ilustración)
 		- Outputs: Archivo .svg o .ai
 		- Herramientas: [Vectorizer (Replicate)](https://replicate.com/blakeembrey/vectorizer), [Illustrator Image Trace](https://www.adobe.com/products/illustrator.html)
+		- enes
 - ## Preparación del entorno de trabajo
   collapsed:: true
 	- Necesitas
