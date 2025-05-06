@@ -16,7 +16,6 @@ public:: true
 			- Leonardo
 			- Pinokio
 - ## Funcionalidades de la inteligencia artificial para la generación de imagen
-  collapsed:: true
 	- Creación de imágenes a partir de promts de texto
 	- Creación de imágenes a partir de imágenes
 	- Edición de imágenes con out paint e in painting.
