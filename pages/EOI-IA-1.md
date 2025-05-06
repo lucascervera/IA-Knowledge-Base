@@ -271,6 +271,8 @@ public:: false
 		- The image features a man wearing a medieval helmet and a brown shirt, standing in a hallway. He is smiling and appears to be posing for the picture. The setting suggests that the man is dressed in a historical costume, possibly representing a knight or a character from a medieval period.
 		- **15:01** [[quick capture]]:  [Prediction lucataco/moondream2 – Replicate](https://replicate.com/p/m62wnc78xdrme0cpmppt01xtww)
 	- ## Añade partes a una imagen (outpainting)
+		- **15:06** [[quick capture]]:  [Prediction emaph/outpaint-controlnet-union – Replicate](https://replicate.com/p/hv2wjb1mf5rmc0cpmpsaq2rxhr)
+	- ## Identifica objetos en una imagen
 		-
 - ## Preparación del entorno de trabajo
 	- Necesitas
