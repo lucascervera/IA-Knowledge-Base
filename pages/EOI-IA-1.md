@@ -47,7 +47,8 @@ public:: true
 		  1. Subir o seleccionar la imagen original.  
 		  2. Definir parámetros de transformación (fuerza, estilo).  
 		  3. Ejecutar y revisar; iterar ajustes.
-	- ✂️ Quitar el fondo a una imagen
+	- ✂️ Quitar el fondo a una imagen  
+	  collapsed:: true
 		- Elimina automáticamente el fondo dejando el sujeto principal en primer plano.
 		- Inputs: Imagen con sujeto y fondo
 		- Outputs: PNG con fondo transparente
@@ -68,8 +69,7 @@ public:: true
 		- Inputs: Imagen de baja resolución
 		- Outputs: Imagen de resolución superior
 		- Herramientas: [ESRGAN (Replicate)](https://replicate.com/xinntao/esrgan), [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)
-	- ✒️ Generación de texto dentro de una imagen  
-	  collapsed:: true
+	- ✒️ Generación de texto dentro de una imagen
 		- Incorpora automáticamente rótulos, subtítulos o marcas de agua en imágenes.
 		- Inputs: Imagen base + texto a insertar
 		- Outputs: Imagen con texto integrado
