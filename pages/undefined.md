@@ -1,2 +1,3 @@
 - **11:53** [[quick capture]]:  Actualización de películas con IA #innovación #inteligenciaartificial #video - YouTube {{video https://www.youtube.com/watch?v=wVH1GcpcNFg}}
 - **13:07** [[quick capture]]:  App para generar tu avatar super realista - YouTube {{video https://www.youtube.com/watch?v=a9OQthbAYhQ&t=18s}}
+- **14:25** [[quick capture]]:  [zsxkib/step1x-edit:12b5a5a6 – Run with an API on Replicate](https://replicate.com/zsxkib/step1x-edit/versions/12b5a5a61e3419f792eb56cfc16eed046252740ebf5d470228f9b4cf2c861610?prediction=y4sda3ehexrj60cpmp7b9rxfng)
