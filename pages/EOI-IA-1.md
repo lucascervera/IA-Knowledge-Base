@@ -52,6 +52,7 @@ public:: false
 	- Crea vídeos con una foto y un texto con vidu.estudio #innovación #inteligenciaartificial #vídeo - YouTube {{video https://www.youtube.com/watch?v=vw13hKt1xPU&t=9s}}
 	- Imagen a texto con Inteligencia Artificial #innovacion #IA - YouTube {{video https://www.youtube.com/watch?v=Es65cvCrw6k}}
 - ## Funcionalidades de la inteligencia artificial para la generación de imagen
+  collapsed:: true
 	- ## 🎨 Creación de imágenes a partir de prompts de texto
 	  collapsed:: true
 		- Permite generar ilustraciones o fotografías sintéticas a partir de descripciones en lenguaje natural.
@@ -270,6 +271,7 @@ public:: false
 		- Herramientas: [Vectorizer (Replicate)](https://replicate.com/blakeembrey/vectorizer), [Illustrator Image Trace](https://www.adobe.com/products/illustrator.html)
 		- enes
 - ## Ejemplos de funcionalidades
+  collapsed:: true
 	- ## Edición de imágenes con texto
 	  collapsed:: true
 		- ![lucas.png](../assets/lucas_1746534173278_0.png)
