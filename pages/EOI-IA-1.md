@@ -276,6 +276,10 @@ public:: false
 		- ![replicate-prediction-k4qt3g86j9rmc0cpmptb4y2dtm.png](../assets/replicate-prediction-k4qt3g86j9rmc0cpmptb4y2dtm_1746536858417_0.png)
 		- **15:07** [[quick capture]]:  [adirik/grounding-dino – Run with an API on Replicate](https://replicate.com/adirik/grounding-dino?prediction=k4qt3g86j9rmc0cpmptb4y2dtm)
 	- ## Generación de ilustraciones
+		- Un escudo medieval con una cabra dentro y con el texto "Don Mendo Salazar y Bernáldez de Montiel" en letras medievales con fondo transparente.
+		- ![replicate-prediction-nfmvz03yanrme0cpmpx8e90g0m.png](../assets/replicate-prediction-nfmvz03yanrme0cpmpx8e90g0m_1746537235282_0.png)
+		- **15:14** [[quick capture]]:  [Prediction ideogram-ai/ideogram-v2a-turbo – Replicate](https://replicate.com/p/nfmvz03yanrme0cpmpx8e90g0m)
+	-
 	-
 - ## Preparación del entorno de trabajo
 	- Necesitas
