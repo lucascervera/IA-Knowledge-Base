@@ -87,6 +87,7 @@ public:: false
 		- Outputs: Archivo de logo (.svg, .png)
 		- Herramientas: [Stable Diffusion (Replicate)](https://replicate.com/stability-ai/stable-diffusion), [Looka](https://looka.com/)
 	- ## 🖌️ Conversión de una foto a un estilo artístico (style transfer)
+	  collapsed:: true
 		- Aplica la apariencia de un pintor famoso o estilo gráfico a una imagen.
 		- Inputs: Imagen original + imagen de estilo
 		- Outputs: Imagen con nuevo estilo aplicado
@@ -95,25 +96,25 @@ public:: false
 		  1. Subir imagen de contenido y de estilo.  
 		  2. Ejecutar transferencia de estilo.  
 		  3. Ajustar intensidad del efecto.
-	- 🤖 Generación de imágenes hiperrealistas de personas que no existen  
+	- ## 🤖 Generación de imágenes hiperrealistas de personas que no existen
 	  collapsed:: true
 		- Crea retratos fotográficos de rostros ficticios con alta fidelidad.
 		- Inputs: Parámetros demográficos (edad, sexo, etnia)
 		- Outputs: Imagen de rostro (PNG/JPEG)
 		- Herramientas: [StyleGAN2 (Replicate)](https://replicate.com/NVlabs/stylegan2), [ThisPersonDoesNotExist](https://thispersondoesnotexist.com/)
-	- 🕵️ Reconocimiento facial y generación de rostros a partir de descripciones  
+	- ## 🕵️ Reconocimiento facial y generación de rostros a partir de descripciones
 	  collapsed:: true
 		- Detecta rostros en fotos y puede generar retratos basados en texto.
 		- Inputs: Foto de grupo o descripción textual
 		- Outputs: Coordenadas de rostros / retrato generado
 		- Herramientas: [Face Recognition (Replicate)](https://replicate.com/ageitgey/face_recognition), [Generated Photos](https://generated.photos/)
-	- 👤 Creación de personajes consistentes  
+	- ## 👤 Creación de personajes consistentes
 	  collapsed:: true
 		- Genera múltiples ilustraciones del mismo personaje manteniendo rasgos y estilo uniforme.
 		- Inputs: Descripción del personaje y ejemplos de referencia
 		- Outputs: Serie de imágenes del mismo personaje
 		- Herramientas: [Stable Diffusion (Replicate)](https://replicate.com/stability-ai/stable-diffusion), [Character.ai](https://beta.character.ai/)
-	- 🎞️ Animación de retratos (p.ej. hacer que una foto hable o sonría)  
+	- ## 🎞️ Animación de retratos (p.ej. hacer que una foto hable o sonría)
 	  collapsed:: true
 		- Genera un vídeo corto animando expresiones faciales basadas en audio o guión.
 		- Inputs: Retrato estático + audio o guión de voz
@@ -123,13 +124,13 @@ public:: false
 		  1. Subir retrato y audio.  
 		  2. Ajustar parámetros de sincronización labial.  
 		  3. Descargar vídeo generado.
-	- 📚 Creación de cómics o novelas gráficas a partir de guiones  
+	- ## 📚 Creación de cómics o novelas gráficas a partir de guiones
 	  collapsed:: true
 		- Genera viñetas con personajes, diálogos y ambientación según un guión.
 		- Inputs: Guión por escenas (texto)
 		- Outputs: Páginas de cómic (PNG/PDF)
 		- Herramientas: [ComicGen (Replicate)](https://replicate.com/rodrigoberriel/comicgen), [ComicGen](https://www.comicgen.io/)
-	- 🔄 Interpolación entre imágenes para crear transiciones fluidas (morphing)  
+	- ## 🔄 Interpolación entre imágenes para crear transiciones fluidas (morphing)
 	  collapsed:: true
 		- Crea cuadros intermedios para fundir dos imágenes en un clip animado.
 		- Inputs: Imagen A, Imagen B
@@ -139,7 +140,7 @@ public:: false
 		  1. Seleccionar pares de imágenes.  
 		  2. Ajustar número de fotogramas intermedios.  
 		  3. Generar y exportar vídeo.
-	- 🌈 Colorización automática de fotos en blanco y negro  
+	- ## 🌈 Colorización automática de fotos en blanco y negro
 	  collapsed:: true
 		- Añade colores a imágenes monocromas preservando naturalidad y texturas.
 		- Inputs: Fotografía B/N
@@ -149,7 +150,7 @@ public:: false
 		  1. Subir foto en blanco y negro.  
 		  2. Ejecutar modelo de colorización.  
 		  3. Retocar tonos si es necesario.
-	- 🛠️ Restauración de imágenes dañadas o antiguas  
+	- ## 🛠️ Restauración de imágenes dañadas o antiguas
 	  collapsed:: true
 		- Elimina arañazos, manchas y recupera zonas perdidas en fotografías históricas.
 		- Inputs: Imagen escaneada dañada
@@ -165,7 +166,7 @@ public:: false
 		- Inputs: Imagen original + parámetros de efecto
 		- Outputs: Imagen con efecto fotográfico aplicado
 		- Herramientas: [Bokeh (Replicate)](https://replicate.com/l0tbucket/bokeh), [Luminar AI](https://skylum.com/luminar-ai)
-	- 🔎 Detección de objetos dentro de imágenes  
+	- ## 🔎 Detección de objetos dentro de imágenes
 	  collapsed:: true
 		- Identifica y localiza automáticamente elementos (personas, coches, señales).
 		- Inputs: Imagen o vídeo
@@ -175,67 +176,67 @@ public:: false
 		  1. Cargar imagen en el detector.  
 		  2. Evaluar resultados y revisar etiquetas.  
 		  3. Exportar datos en JSON o CSV.
-	- ✏️ Conversión de bocetos o dibujos en imágenes realistas  
+	- ## ✏️ Conversión de bocetos o dibujos en imágenes realistas
 	  collapsed:: true
 		- Transforma líneas y contornos en ilustraciones acabadas.
 		- Inputs: Boceto escaneado o digital
 		- Outputs: Imagen coloreada y sombreada
 		- Herramientas: [Sketch Transformer (Replicate)](https://replicate.com/foamliu/sketch-transformer), [Adobe Fresco](https://www.adobe.com/products/fresco.html)
-	- 👗 Diseño de ropa o moda virtual sobre modelos  
+	- ## 👗 Diseño de ropa o moda virtual sobre modelos
 	  collapsed:: true
 		- Superpone diseños de prendas en maniquíes o fotografías de modelos.
 		- Inputs: Fotografía de modelo + diseño de prenda
 		- Outputs: Imagen de modelo vistiendo la prenda
 		- Herramientas: [Virtual Try-On (Replicate)](https://replicate.com/akai-org/virtual-try-on), [Clo3D](https://www.clo3d.com/)
-	- 🏷️ Clasificación de imágenes por contenido (etiquetado automático)  
+	- ## 🏷️ Clasificación de imágenes por contenido (etiquetado automático)
 	  collapsed:: true
 		- Asigna categorías o tags a cada imagen según su contenido.
 		- Inputs: Lote de imágenes
 		- Outputs: Lista de etiquetas por imagen
 		- Herramientas: [Image Classification (Replicate)](https://replicate.com/google/vit-base-patch16-224), [Google Vision](https://cloud.google.com/vision)
-	- 🖼️ Segmentación semántica (identificación de cada píxel por categoría)  
+	- ## 🖼️ Segmentación semántica (identificación de cada píxel por categoría)
 	  collapsed:: true
 		- Crea máscaras detalladas para cada objeto o región en la imagen.
 		- Inputs: Imagen
 		- Outputs: Mapas de segmentación
 		- Herramientas: [U^2-Net (Replicate)](https://replicate.com/xuebinqin/U-2-Net), [DeepLab](https://github.com/tensorflow/models/tree/master/research/deeplab)
-	- 🏥 Generación de imágenes a partir de datos médicos (radiografías, resonancias, etc.)  
+	- ## 🏥 Generación de imágenes a partir de datos médicos (radiografías, resonancias, etc.)
 	  collapsed:: true
 		- Sintetiza vistas médicas para entrenamiento o aumento de datos clínicos.
 		- Inputs: Parámetros clínicos o imágenes de baja calidad
 		- Outputs: Imágenes médicas generadas o mejoradas
 		- Herramientas: [MedGaAN (Replicate)](https://replicate.com/jsyoon0823/medgan), [NVIDIA Clara](https://developer.nvidia.com/clara-medical-imaging)
-	- 🌄 Creación de fondos generativos para uso en videojuegos o diseño  
+	- ## 🌄 Creación de fondos generativos para uso en videojuegos o diseño
 	  collapsed:: true
 		- Produce paisajes, nubes o texturas repetibles para escenarios 2D/3D.
 		- Inputs: Parámetros de estilo y paleta de colores
 		- Outputs: Texturas o tilesets
 		- Herramientas: [GauGAN (Replicate)](https://replicate.com/nvjr/gaugan2), [Artbreeder](https://www.artbreeder.com/)
-	- 🏗️ Generar un modelo 3D a partir de una descripción de texto  
+	- ## 🏗️ Generar un modelo 3D a partir de una descripción de texto
 	  collapsed:: true
 		- Crea geometría 3D básica (mesh) basándose en instrucciones textuales.
 		- Inputs: Prompt de texto con detalles de forma y medidas
 		- Outputs: Archivo 3D (.obj, .fbx)
 		- Herramientas: [Point-E (Replicate)](https://replicate.com/openai/point-e), [OpenAI Point-E](https://github.com/openai/point-e)
-	- 🎨 Creación de texturas y patrones para diseño gráfico o 3D  
+	- ## 🎨 Creación de texturas y patrones para diseño gráfico o 3D
 	  collapsed:: true
 		- Genera estampados, mosaicos y mapas de desplazamiento para superficies.
 		- Inputs: Ejemplos de patrón o prompt textual
 		- Outputs: Textura seamless (PNG)
 		- Herramientas: [Deep Texture (Replicate)](https://replicate.com/fcakyon/deep-texture), [Substance 3D Alchemist](https://www.adobe.com/products/substance3d-alchemist.html)
-	- 🏞️ Reconstrucción de escenas en 3D a partir de fotos 2D  
+	- ## 🏞️ Reconstrucción de escenas en 3D a partir de fotos 2D
 	  collapsed:: true
 		- Genera modelo volumétrico o malla 3D de un entorno real.
 		- Inputs: Serie de fotografías desde distintos ángulos
 		- Outputs: Modelo 3D texturizado
 		- Herramientas: [COLMAP (Replicate)](https://replicate.com/colmap/colmap), [Agisoft Metashape](https://www.agisoft.com/)
-	- 🖥️ Composición automática de imágenes con múltiples elementos coherentes  
+	- ## 🖥️ Composición automática de imágenes con múltiples elementos coherentes
 	  collapsed:: true
 		- Ensambla varios activos (personajes, fondos, objetos) en una sola escena equilibrada.
 		- Inputs: Lista de elementos y prompt de composición
 		- Outputs: Imagen compuesta final
 		- Herramientas: [Gen-2 (Replicate)](https://replicate.com/runwayml/stable-diffusion-v1-5), [RunwayML Gen-2](https://runwayml.com/)
-	- 📐 Vectorización automática de imágenes  
+	- ## 📐 Vectorización automática de imágenes
 	  collapsed:: true
 		- Convierte imágenes raster (píxeles) en trazados vectoriales escalables.
 		- Inputs: Imagen raster (logo, ilustración)
