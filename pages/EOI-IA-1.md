@@ -10,7 +10,8 @@ public:: false
 		- Una carpeta de Google Drive llamada [EOI-IA-1 Carpeta de trabajo]("https://drive.google.com/drive/folders/1Yf1SwV3SgoEuY0yDKaa9s27yMXcVh_R8)
 		- Una idea de negocio o producto
 			- Beerbrella Patente: [https://patents.google.com/patent/US2...](https://patents.google.com/patent/US6637447B2/en)
-- ## Herramientas de IA imagen
+- ## Herramientas de IA imagen + vídeo
+  collapsed:: true
 	- Elección de la herramienta concreta
 		- Principio de pareto.
 		- Directorios de aplicaciones basadas en IA
@@ -18,10 +19,37 @@ public:: false
 		- Funcionalidad, SaaS, API o local
 		- Para utilizar en tu trabajo
 		- Para utilizar en esta clase
-		- **Leonardo AI**: [https://www.leonardo.ai/](https://www.leonardo.ai/)
-		- **Replicate**: [https://www.replicate.com/](https://www.replicate.com/)
-		- **Pinokio**: [https://pinokio.computer/](https://pinokio.computer/)
-- ## Herramientas IA / imagen
+			- **Leonardo AI**: [https://www.leonardo.ai/](https://www.leonardo.ai/)
+			- **Replicate**: [https://www.replicate.com/](https://www.replicate.com/)
+			- **Pinokio**: [https://pinokio.computer/](https://pinokio.computer/)
+- ## Casos de uso inteligencia artificial para imagen y vídeo
+  collapsed:: true
+	- **12:33** [[quick capture]]:  Actualización de películas con IA #innovación #inteligenciaartificial #video - YouTube {{video https://www.youtube.com/watch?v=wVH1GcpcNFg}}
+		- @misc{ai_2024, title={Luma Dream Machine}, url={[https://lumalabs.ai/dream-machine](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdQN2JwbTlYcllaY2tlU0hlVHY2TjI3LWlxQXxBQ3Jtc0traERQcmRZVl9fWDJyampYcThaYWNsM1VabE5NY2p6RUVjZFVkZVRYN1F2SnlpclEySkhyT2ZKWEJWYnJFM1VjcWpuRUhWeC1UaTJhUTM1Y1RQd0hSX2htWVVobGNyU1VKWHN5cjdpT25KdHg0bXZjYw&q=https%3A%2F%2Flumalabs.ai%2Fdream-machine&v=wVH1GcpcNFg)}, journal={Luma Dream Machine}, author={AI, Luma}, year={2024} }
+		- En un escenario hipotético de rodaje en 2024, escenas icónicas del cine como la de "Casablanca" serían capturadas en selfies para Instagram. La tecnología actual podría recrear videos de alta calidad a partir de una simple foto y un texto con instrucciones. Otras películas como "Con la muerte en los talones" y "Cantando bajo la lluvia" se adaptarían al uso de drones y al cambio climático, respectivamente.
+	- **12:37** [[quick capture]]:  Inteligencia Artificial y robótica - YouTube {{video https://www.youtube.com/watch?v=mFAMwTxULhw}}
+	- **12:42** [[quick capture]]:  Texto a impresión 3D con inteligencia artificial - YouTube {{video https://www.youtube.com/watch?v=5HW13lm2RMQ}}
+	- Inteligencia Artificial para traducir vídeos - YouTube {{video https://www.youtube.com/watch?v=nPEUs9ifZzY}}
+	- **12:45** [[quick capture]]:  Inteligencia artificial para detectar cáncer #innovacion #ia - YouTube {{video https://www.youtube.com/watch?v=mbghc4c_QrY}}
+	- **12:46** [[quick capture]]:  De imagen a modelo 3D con IA #innovacion #inteligenciaartificial #video - YouTube {{video https://www.youtube.com/watch?v=F6p6k5Vz3RE}}
+	- **12:48** [[quick capture]]:  Añade efectos especiales a tu video con IA #innovación #video #inteligenciaartificial - YouTube {{video https://www.youtube.com/watch?v=cnp9A__4Egw}}
+	- **12:49** [[quick capture]]:  Deepfakes y suplantación de identidad #innovacion #seguridad #inteligenciaartificial - YouTube {{video https://www.youtube.com/watch?v=RMUzzEg1Uhg}}
+	- **12:51** [[quick capture]]:  Texto a vídeo con inteligencia artificial - YouTube {{video https://www.youtube.com/watch?v=-TV8rwwCne0}}
+	- **12:52** [[quick capture]]:  Inteligencia artificial crea vídeos a partir de texto - YouTube {{video https://www.youtube.com/watch?v=cx4M6RQkcaI}}
+	- **12:53** [[quick capture]]:  Inteligencia artificial para borrar cosas de vídeos - YouTube {{video https://www.youtube.com/watch?v=mKbe2MUh60o}}
+	- **12:54** [[quick capture]]:  La inteligencia artificial ángel o demonio - YouTube {{video https://www.youtube.com/watch?v=1mQWcoSRYeE}}
+	- **12:56** [[quick capture]]:  RunwayML gen 2 Crea vídeos a partir de texto #innovación #vídeo vertical subtitles - YouTube {{video https://www.youtube.com/watch?v=NfGh0_8576s}}
+	- **12:58** [[quick capture]]:  Leonardo ai crea tu foto de prom #innovacion #ia #text2image - YouTube {{video https://www.youtube.com/watch?v=3qZQH8uf8uY}}
+		- #LORA
+	- **13:00** [[quick capture]]:  Crea un personaje con Dall e 3 #innovacion #inteligenciaartificial - YouTube {{video https://www.youtube.com/watch?v=G4AeRTs3HDc}}
+	- **13:02** [[quick capture]]:  IA mezcla foto y vídeo #innovación #inteligenciaartificial - YouTube {{video https://www.youtube.com/watch?v=M60rKxEcvnw}}
+	- **13:03** [[quick capture]]:  Crea canciones con inteligencia artificial #innovación #inteligenciaartificial #música - YouTube {{video https://www.youtube.com/watch?v=Dk_Eg_zCkuA}}
+	- **13:04** [[quick capture]]:  Clona estilos musicales con IA (suno) #innovación #música #inteligenciaartificial - YouTube {{video https://www.youtube.com/watch?v=-dlEgstx6qY}}
+	- **13:05** [[quick capture]]:  De ecografía 3D a rostro con IA #innovacion #inteligenciaartificial #medicina - YouTube {{video https://www.youtube.com/watch?v=xrWTWHbNmEk&t=13s}}
+	- **13:08** [[quick capture]]:  App para generar tu avatar super realista - YouTube {{video https://www.youtube.com/watch?v=a9OQthbAYhQ&t=18s}}
+	- **13:08** [[quick capture]]:  Avatar creado con inteligencia artificial - YouTube {{video https://www.youtube.com/watch?v=vOPX3UYZJEQ}}
+	- **13:11** [[quick capture]]:  Crea vídeos con una foto y un texto con vidu.estudio #innovación #inteligenciaartificial #vídeo - YouTube {{video https://www.youtube.com/watch?v=vw13hKt1xPU&t=9s}}
+	- **13:12** [[quick capture]]:  Imagen a texto con Inteligencia Artificial #innovacion #IA - YouTube {{video https://www.youtube.com/watch?v=Es65cvCrw6k}}
 - ## Funcionalidades de la inteligencia artificial para la generación de imagen
   collapsed:: true
 	- Creación de imágenes a partir de promts de texto
@@ -253,6 +281,7 @@ public:: false
 		- Herramientas: [Vectorizer (Replicate)](https://replicate.com/blakeembrey/vectorizer), [Illustrator Image Trace](https://www.adobe.com/products/illustrator.html)
 		- enes
 - ## Ejemplos de funcionalidades
+  collapsed:: true
 	- ## Edición de imágenes con texto
 	  collapsed:: true
 		- ![lucas.png](../assets/lucas_1746534173278_0.png)
@@ -320,32 +349,3 @@ public:: false
   collapsed:: true
 	- Consideraciones éticas ilegales de la generación de imágenes con IA.
 	- Sesgos en la generación de imágenes con IA.
-- ## Casos de uso inteligencia artificial para imagen y vídeo
-  collapsed:: true
-	- **12:33** [[quick capture]]:  Actualización de películas con IA #innovación #inteligenciaartificial #video - YouTube {{video https://www.youtube.com/watch?v=wVH1GcpcNFg}}
-		- @misc{ai_2024, title={Luma Dream Machine}, url={[https://lumalabs.ai/dream-machine](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdQN2JwbTlYcllaY2tlU0hlVHY2TjI3LWlxQXxBQ3Jtc0traERQcmRZVl9fWDJyampYcThaYWNsM1VabE5NY2p6RUVjZFVkZVRYN1F2SnlpclEySkhyT2ZKWEJWYnJFM1VjcWpuRUhWeC1UaTJhUTM1Y1RQd0hSX2htWVVobGNyU1VKWHN5cjdpT25KdHg0bXZjYw&q=https%3A%2F%2Flumalabs.ai%2Fdream-machine&v=wVH1GcpcNFg)}, journal={Luma Dream Machine}, author={AI, Luma}, year={2024} }
-		- En un escenario hipotético de rodaje en 2024, escenas icónicas del cine como la de "Casablanca" serían capturadas en selfies para Instagram. La tecnología actual podría recrear videos de alta calidad a partir de una simple foto y un texto con instrucciones. Otras películas como "Con la muerte en los talones" y "Cantando bajo la lluvia" se adaptarían al uso de drones y al cambio climático, respectivamente.
-	- **12:37** [[quick capture]]:  Inteligencia Artificial y robótica - YouTube {{video https://www.youtube.com/watch?v=mFAMwTxULhw}}
-	- **12:42** [[quick capture]]:  Texto a impresión 3D con inteligencia artificial - YouTube {{video https://www.youtube.com/watch?v=5HW13lm2RMQ}}
-	- Inteligencia Artificial para traducir vídeos - YouTube {{video https://www.youtube.com/watch?v=nPEUs9ifZzY}}
-	- **12:45** [[quick capture]]:  Inteligencia artificial para detectar cáncer #innovacion #ia - YouTube {{video https://www.youtube.com/watch?v=mbghc4c_QrY}}
-	- **12:46** [[quick capture]]:  De imagen a modelo 3D con IA #innovacion #inteligenciaartificial #video - YouTube {{video https://www.youtube.com/watch?v=F6p6k5Vz3RE}}
-	- **12:48** [[quick capture]]:  Añade efectos especiales a tu video con IA #innovación #video #inteligenciaartificial - YouTube {{video https://www.youtube.com/watch?v=cnp9A__4Egw}}
-	- **12:49** [[quick capture]]:  Deepfakes y suplantación de identidad #innovacion #seguridad #inteligenciaartificial - YouTube {{video https://www.youtube.com/watch?v=RMUzzEg1Uhg}}
-	- **12:51** [[quick capture]]:  Texto a vídeo con inteligencia artificial - YouTube {{video https://www.youtube.com/watch?v=-TV8rwwCne0}}
-	- **12:52** [[quick capture]]:  Inteligencia artificial crea vídeos a partir de texto - YouTube {{video https://www.youtube.com/watch?v=cx4M6RQkcaI}}
-	- **12:53** [[quick capture]]:  Inteligencia artificial para borrar cosas de vídeos - YouTube {{video https://www.youtube.com/watch?v=mKbe2MUh60o}}
-	- **12:54** [[quick capture]]:  La inteligencia artificial ángel o demonio - YouTube {{video https://www.youtube.com/watch?v=1mQWcoSRYeE}}
-	- **12:56** [[quick capture]]:  RunwayML gen 2 Crea vídeos a partir de texto #innovación #vídeo vertical subtitles - YouTube {{video https://www.youtube.com/watch?v=NfGh0_8576s}}
-	- **12:58** [[quick capture]]:  Leonardo ai crea tu foto de prom #innovacion #ia #text2image - YouTube {{video https://www.youtube.com/watch?v=3qZQH8uf8uY}}
-		- #LORA
-	- **13:00** [[quick capture]]:  Crea un personaje con Dall e 3 #innovacion #inteligenciaartificial - YouTube {{video https://www.youtube.com/watch?v=G4AeRTs3HDc}}
-	- **13:02** [[quick capture]]:  IA mezcla foto y vídeo #innovación #inteligenciaartificial - YouTube {{video https://www.youtube.com/watch?v=M60rKxEcvnw}}
-	- **13:03** [[quick capture]]:  Crea canciones con inteligencia artificial #innovación #inteligenciaartificial #música - YouTube {{video https://www.youtube.com/watch?v=Dk_Eg_zCkuA}}
-	- **13:04** [[quick capture]]:  Clona estilos musicales con IA (suno) #innovación #música #inteligenciaartificial - YouTube {{video https://www.youtube.com/watch?v=-dlEgstx6qY}}
-	- **13:05** [[quick capture]]:  De ecografía 3D a rostro con IA #innovacion #inteligenciaartificial #medicina - YouTube {{video https://www.youtube.com/watch?v=xrWTWHbNmEk&t=13s}}
-	- **13:08** [[quick capture]]:  App para generar tu avatar super realista - YouTube {{video https://www.youtube.com/watch?v=a9OQthbAYhQ&t=18s}}
-	- **13:08** [[quick capture]]:  Avatar creado con inteligencia artificial - YouTube {{video https://www.youtube.com/watch?v=vOPX3UYZJEQ}}
-	- **13:11** [[quick capture]]:  Crea vídeos con una foto y un texto con vidu.estudio #innovación #inteligenciaartificial #vídeo - YouTube {{video https://www.youtube.com/watch?v=vw13hKt1xPU&t=9s}}
-	- **13:12** [[quick capture]]:  Imagen a texto con Inteligencia Artificial #innovacion #IA - YouTube {{video https://www.youtube.com/watch?v=Es65cvCrw6k}}
--
