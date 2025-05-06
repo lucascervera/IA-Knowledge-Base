@@ -81,12 +81,6 @@ public:: true
 		- Inputs: Foto de baja resolución o mal iluminada
 		- Outputs: Imagen optimizada de alta calidad
 		- Herramientas: [Real-ESRGAN (Replicate)](https://replicate.com/xinntao/real-esrgan), [Topaz Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)
-	- 🏗️ Generar un modelo 3D a partir de una descripción de texto  
-	  collapsed:: true
-		- Crea geometría 3D básica (mesh) basándose en instrucciones textuales.
-		- Inputs: Prompt de texto con detalles de forma y medidas
-		- Outputs: Archivo 3D (.obj, .fbx)
-		- Herramientas: [Point-E (Replicate)](https://replicate.com/openai/point-e), [OpenAI Point-E](https://github.com/openai/point-e)
 	- 🏷️ Creación de logos  
 	  collapsed:: true
 		- Diseña logotipos vectoriales o raster basados en brief de marca.
@@ -171,6 +165,18 @@ public:: true
 		  1. Cargar imagen en el detector.  
 		  2. Evaluar resultados y revisar etiquetas.  
 		  3. Exportar datos en JSON o CSV.
+	- ✏️ Conversión de bocetos o dibujos en imágenes realistas  
+	  collapsed:: true
+		- Transforma líneas y contornos en ilustraciones acabadas.
+		- Inputs: Boceto escaneado o digital
+		- Outputs: Imagen coloreada y sombreada
+		- Herramientas: [Sketch Transformer (Replicate)](https://replicate.com/foamliu/sketch-transformer), [Adobe Fresco](https://www.adobe.com/products/fresco.html)
+	- 👗 Diseño de ropa o moda virtual sobre modelos  
+	  collapsed:: true
+		- Superpone diseños de prendas en maniquíes o fotografías de modelos.
+		- Inputs: Fotografía de modelo + diseño de prenda
+		- Outputs: Imagen de modelo vistiendo la prenda
+		- Herramientas: [Virtual Try-On (Replicate)](https://replicate.com/akai-org/virtual-try-on), [Clo3D](https://www.clo3d.com/)
 	- 🏷️ Clasificación de imágenes por contenido (etiquetado automático)  
 	  collapsed:: true
 		- Asigna categorías o tags a cada imagen según su contenido.
@@ -195,27 +201,26 @@ public:: true
 		- Inputs: Parámetros de estilo y paleta de colores
 		- Outputs: Texturas o tilesets
 		- Herramientas: [GauGAN (Replicate)](https://replicate.com/nvjr/gaugan2), [Artbreeder](https://www.artbreeder.com/)
-	- 🎨 Creación de texturas y patrones para diseño gráfico o 3D
+	- 🏗️ Generar un modelo 3D a partir de una descripción de texto  
+	  collapsed:: true
+		- Crea geometría 3D básica (mesh) basándose en instrucciones textuales.
+		- Inputs: Prompt de texto con detalles de forma y medidas
+		- Outputs: Archivo 3D (.obj, .fbx)
+		- Herramientas: [Point-E (Replicate)](https://replicate.com/openai/point-e), [OpenAI Point-E](https://github.com/openai/point-e)
+	- 🎨 Creación de texturas y patrones para diseño gráfico o 3D  
+	  collapsed:: true
 		- Genera estampados, mosaicos y mapas de desplazamiento para superficies.
 		- Inputs: Ejemplos de patrón o prompt textual
 		- Outputs: Textura seamless (PNG)
 		- Herramientas: [Deep Texture (Replicate)](https://replicate.com/fcakyon/deep-texture), [Substance 3D Alchemist](https://www.adobe.com/products/substance3d-alchemist.html)
-	- 👗 Diseño de ropa o moda virtual sobre modelos
-		- Superpone diseños de prendas en maniquíes o fotografías de modelos.
-		- Inputs: Fotografía de modelo + diseño de prenda
-		- Outputs: Imagen de modelo vistiendo la prenda
-		- Herramientas: [Virtual Try-On (Replicate)](https://replicate.com/akai-org/virtual-try-on), [Clo3D](https://www.clo3d.com/)
-	- 🏞️ Reconstrucción de escenas en 3D a partir de fotos 2D
+	- 🏞️ Reconstrucción de escenas en 3D a partir de fotos 2D  
+	  collapsed:: true
 		- Genera modelo volumétrico o malla 3D de un entorno real.
 		- Inputs: Serie de fotografías desde distintos ángulos
 		- Outputs: Modelo 3D texturizado
 		- Herramientas: [COLMAP (Replicate)](https://replicate.com/colmap/colmap), [Agisoft Metashape](https://www.agisoft.com/)
-	- ✏️ Conversión de bocetos o dibujos en imágenes realistas
-		- Transforma líneas y contornos en ilustraciones acabadas.
-		- Inputs: Boceto escaneado o digital
-		- Outputs: Imagen coloreada y sombreada
-		- Herramientas: [Sketch Transformer (Replicate)](https://replicate.com/foamliu/sketch-transformer), [Adobe Fresco](https://www.adobe.com/products/fresco.html)
-	- 📚 Creación de cómics o novelas gráficas a partir de guiones
+	- 📚 Creación de cómics o novelas gráficas a partir de guiones  
+	  collapsed:: true
 		- Genera viñetas con personajes, diálogos y ambientación según un guión.
 		- Inputs: Guión por escenas (texto)
 		- Outputs: Páginas de cómic (PNG/PDF)
