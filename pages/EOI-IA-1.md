@@ -254,7 +254,6 @@ public:: false
 	  collapsed:: true
 		- **14:10** [[quick capture]]:  [minimax/speech-02-hd – Run with an API on Replicate](https://replicate.com/minimax/speech-02-hd?prediction=s113dards9rm80cpmnztd4xxzr)
 	- ## Clonación de voz
-	  collapsed:: true
 		- ![Voz Lucas.wav](../assets/Voz_Lucas_1746533625745_0.wav)
 		- **14:17** [[quick capture]]:  [minimax/voice-cloning – Run with an API on Replicate](https://replicate.com/minimax/voice-cloning)
 		- voice_id: R8_XZHESM8J
