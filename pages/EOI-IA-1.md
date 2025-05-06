@@ -246,6 +246,7 @@ public:: false
 		- enes
 - ## Ejemplos de funcionalidades
 	- ## Edición de imágenes con texto
+		- ![lucas.png](../assets/lucas_1746534173278_0.png)
 		- **14:04** [[quick capture]]:  [Prediction zsxkib/step1x-edit – Replicate](https://replicate.com/p/t93vck6ethrj60cpmnvsszeb6r)
 		- ![image.png](../assets/image_1746533115060_0.png)
 	- ## Texto a voz
