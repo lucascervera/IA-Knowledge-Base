@@ -69,34 +69,32 @@ public:: true
 		- Inputs: Imagen de baja resolución
 		- Outputs: Imagen de resolución superior
 		- Herramientas: [ESRGAN (Replicate)](https://replicate.com/xinntao/esrgan), [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)
-	- 👤 Creación de personajes consistentes  
+	- ✒️ Generación de texto dentro de una imagen  
 	  collapsed:: true
-		- Genera múltiples ilustraciones del mismo personaje manteniendo rasgos y estilo uniforme.
-		- Inputs: Descripción del personaje y ejemplos de referencia
-		- Outputs: Serie de imágenes del mismo personaje
-		- Herramientas: [Stable Diffusion (Replicate)](https://replicate.com/stability-ai/stable-diffusion), [Character.ai](https://beta.character.ai/)
+		- Incorpora automáticamente rótulos, subtítulos o marcas de agua en imágenes.
+		- Inputs: Imagen base + texto a insertar
+		- Outputs: Imagen con texto integrado
+		- Herramientas: [Stable Diffusion (Replicate)](https://replicate.com/stability-ai/stable-diffusion), [Canva Text-to-Image](https://www.canva.com/features/text-to-image/)
 	- 📸 Crear una imagen de producto a partir de una foto de mala calidad  
 	  collapsed:: true
 		- Mejora color, nitidez y elimina artefactos para obtener una imagen de catálogo.
 		- Inputs: Foto de baja resolución o mal iluminada
 		- Outputs: Imagen optimizada de alta calidad
 		- Herramientas: [Real-ESRGAN (Replicate)](https://replicate.com/xinntao/real-esrgan), [Topaz Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)
-	- 🏗️ Generar un modelo 3D a partir de una descripción de texto
+	- 🏗️ Generar un modelo 3D a partir de una descripción de texto  
+	  collapsed:: true
 		- Crea geometría 3D básica (mesh) basándose en instrucciones textuales.
 		- Inputs: Prompt de texto con detalles de forma y medidas
 		- Outputs: Archivo 3D (.obj, .fbx)
 		- Herramientas: [Point-E (Replicate)](https://replicate.com/openai/point-e), [OpenAI Point-E](https://github.com/openai/point-e)
-	- ✒️ Generación de texto dentro de una imagen
-		- Incorpora automáticamente rótulos, subtítulos o marcas de agua en imágenes.
-		- Inputs: Imagen base + texto a insertar
-		- Outputs: Imagen con texto integrado
-		- Herramientas: [Stable Diffusion (Replicate)](https://replicate.com/stability-ai/stable-diffusion), [Canva Text-to-Image](https://www.canva.com/features/text-to-image/)
-	- 🏷️ Creación de logos
+	- 🏷️ Creación de logos  
+	  collapsed:: true
 		- Diseña logotipos vectoriales o raster basados en brief de marca.
 		- Inputs: Descripción de marca, colores y estilo preferido
 		- Outputs: Archivo de logo (.svg, .png)
 		- Herramientas: [Stable Diffusion (Replicate)](https://replicate.com/stability-ai/stable-diffusion), [Looka](https://looka.com/)
-	- 🖌️ Conversión de una foto a un estilo artístico (style transfer)
+	- 🖌️ Conversión de una foto a un estilo artístico (style transfer)  
+	  collapsed:: true
 		- Aplica la apariencia de un pintor famoso o estilo gráfico a una imagen.
 		- Inputs: Imagen original + imagen de estilo
 		- Outputs: Imagen con nuevo estilo aplicado
@@ -105,7 +103,14 @@ public:: true
 		  1. Subir imagen de contenido y de estilo.  
 		  2. Ejecutar transferencia de estilo.  
 		  3. Ajustar intensidad del efecto.
-	- 🎞️ Animación de retratos (p.ej. hacer que una foto hable o sonría)
+	- 👤 Creación de personajes consistentes  
+	  collapsed:: true
+		- Genera múltiples ilustraciones del mismo personaje manteniendo rasgos y estilo uniforme.
+		- Inputs: Descripción del personaje y ejemplos de referencia
+		- Outputs: Serie de imágenes del mismo personaje
+		- Herramientas: [Stable Diffusion (Replicate)](https://replicate.com/stability-ai/stable-diffusion), [Character.ai](https://beta.character.ai/)
+	- 🎞️ Animación de retratos (p.ej. hacer que una foto hable o sonría)  
+	  collapsed:: true
 		- Genera un vídeo corto animando expresiones faciales basadas en audio o guión.
 		- Inputs: Retrato estático + audio o guión de voz
 		- Outputs: Clip animado (MP4)
@@ -114,7 +119,8 @@ public:: true
 		  1. Subir retrato y audio.  
 		  2. Ajustar parámetros de sincronización labial.  
 		  3. Descargar vídeo generado.
-	- 🔄 Interpolación entre imágenes para crear transiciones fluidas (morphing)
+	- 🔄 Interpolación entre imágenes para crear transiciones fluidas (morphing)  
+	  collapsed:: true
 		- Crea cuadros intermedios para fundir dos imágenes en un clip animado.
 		- Inputs: Imagen A, Imagen B
 		- Outputs: Secuencia de imágenes o vídeo de transición
