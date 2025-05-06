@@ -16,7 +16,6 @@ public:: false
 			- Leonardo
 			- Pinokio
 - ## Funcionalidades de la inteligencia artificial para la generación de imagen
-  collapsed:: true
 	- Creación de imágenes a partir de promts de texto
 	- Creación de imágenes a partir de imágenes
 	- Edición de imágenes con out paint e in painting.
@@ -49,7 +48,6 @@ public:: false
 		  2. Definir parámetros de transformación (fuerza, estilo).  
 		  3. Ejecutar y revisar; iterar ajustes.
 	- ## ✂️ Quitar el fondo a una imagen
-	  collapsed:: true
 		- Elimina automáticamente el fondo dejando el sujeto principal en primer plano.
 		- Inputs: Imagen con sujeto y fondo
 		- Outputs: PNG con fondo transparente
