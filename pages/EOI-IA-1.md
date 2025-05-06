@@ -64,6 +64,7 @@ public:: false
 		  2. Ejecutar algoritmo de in/outpainting.  
 		  3. Ajustar máscara y repetir si es necesario.
 	- ## 🔍 Aumentar la resolución de una imagen
+	  collapsed:: true
 		- Escala una imagen a mayor tamaño manteniendo detalle y reduciendo ruido.
 		- Inputs: Imagen de baja resolución
 		- Outputs: Imagen de resolución superior
