@@ -81,17 +81,18 @@ public:: true
 		- Inputs: Foto de baja resolución o mal iluminada
 		- Outputs: Imagen optimizada de alta calidad
 		- Herramientas: [Real-ESRGAN (Replicate)](https://replicate.com/xinntao/real-esrgan), [Topaz Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)
-	- 🏷️ Creación de logos
+	- 🏷️ Creación de logos  
+	  collapsed:: true
 		- Diseña logotipos vectoriales o raster basados en brief de marca.
 		- Inputs: Descripción de marca, colores y estilo preferido
 		- Outputs: Archivo de logo (.svg, .png)
 		- Herramientas: [Stable Diffusion (Replicate)](https://replicate.com/stability-ai/stable-diffusion), [Looka](https://looka.com/)
-	- 🖌️ Conversión de una foto a un estilo artístico (style transfer)  
-	  collapsed:: true
+	- 🖌️ Conversión de una foto a un estilo artístico (style transfer)
 		- Aplica la apariencia de un pintor famoso o estilo gráfico a una imagen.
 		- Inputs: Imagen original + imagen de estilo
 		- Outputs: Imagen con nuevo estilo aplicado
 		- Herramientas: [Fast Neural Style Transfer (Replicate)](https://replicate.com/jcjohnson/neural-style), [DeepArt](https://deepart.io/)
+			- https://replicate.com/jcjohnson/neural-style
 		- Pasos:  
 		  1. Subir imagen de contenido y de estilo.  
 		  2. Ejecutar transferencia de estilo.  
