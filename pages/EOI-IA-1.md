@@ -308,6 +308,8 @@ public:: false
 	- ## Crear canción a partir de música.
 		- **16:30** [[quick capture]]:  [Prediction minimax/music-01 – Replicate](https://replicate.com/p/v3vgpgmz3srme0cpmr09kyc6bc)
 	- ## Crear video de avatar parlante
+		- ![image.png](../assets/image_1746542065988_0.png)
+		- https://replicate.com/cjwbw/sadtalker?prediction=mtxn23h8fhrj40cpmr0r9j5h20
 - ## Preparación del entorno de trabajo
 	- Necesitas
 		- Una cuenta de Google
