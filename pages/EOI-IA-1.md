@@ -31,7 +31,7 @@ public:: true
 		- Permite generar ilustraciones o fotografías sintéticas a partir de descripciones en lenguaje natural.
 		- Inputs: Prompt de texto (descripción detallada)
 		- Outputs: Imagen digital (JPEG, PNG)
-		- Herramientas: [DALL·E](https://openai.com/product/dall-e), [Midjourney](https://www.midjourney.com/), [Stable Diffusion](https://stability.ai/)
+		- Herramientas: [Stable Diffusion (Replicate)](https://replicate.com/stability-ai/stable-diffusion), [DALL·E](https://openai.com/product/dall-e), [Midjourney](https://www.midjourney.com/)
 		- Pasos:  
 		  1. Redactar prompt claro y detallado.  
 		  2. Enviar a la API o interfaz.  
@@ -40,7 +40,7 @@ public:: true
 		- Transforma o extiende una imagen existente para generar variaciones o completar zonas faltantes.
 		- Inputs: Imagen base
 		- Outputs: Imagen transformada
-		- Herramientas: [Stable Diffusion img2img](https://stability.ai/), [Photoshop Generative Fill](https://www.adobe.com/products/photoshop.html)
+		- Herramientas: [Stable Diffusion img2img (Replicate)](https://replicate.com/stability-ai/stable-diffusion-img2img), [Stable Diffusion img2img](https://stability.ai/)
 		- Pasos:  
 		  1. Subir o seleccionar la imagen original.  
 		  2. Definir parámetros de transformación (fuerza, estilo).  
@@ -49,7 +49,7 @@ public:: true
 		- Rellena zonas faltantes (outpaint) o corrige imperfecciones (inpaint) manteniendo coherencia visual.
 		- Inputs: Imagen con área señalada para rellenar
 		- Outputs: Imagen completa sin defectos
-		- Herramientas: [Photoshop Generative Fill](https://www.adobe.com/products/photoshop.html), [Stable Diffusion Inpainting](https://stability.ai/)
+		- Herramientas: [Stable Diffusion Inpainting (Replicate)](https://replicate.com/stability-ai/stable-diffusion-inpainting), [Photoshop Generative Fill](https://www.adobe.com/products/photoshop.html)
 		- Pasos:  
 		  1. Marcar área a rellenar o corregir.  
 		  2. Ejecutar algoritmo de in/outpainting.  
@@ -58,65 +58,37 @@ public:: true
 		- Genera múltiples ilustraciones del mismo personaje manteniendo rasgos y estilo uniforme.
 		- Inputs: Descripción del personaje y ejemplos de referencia
 		- Outputs: Serie de imágenes del mismo personaje
-		- Herramientas: [Character.ai](https://beta.character.ai/), Midjourney + prompt anchoring
-		- Pasos:  
-		  1. Definir y refinar prompt “anchoring” (rasgos clave).  
-		  2. Generar lote de imágenes.  
-		  3. Seleccionar y ajustar el prompt para consistencia.
+		- Herramientas: [Stable Diffusion (Replicate)](https://replicate.com/stability-ai/stable-diffusion), [Character.ai](https://beta.character.ai/)
 	- ✂️ Quitar el fondo a una imagen
 		- Elimina automáticamente el fondo dejando el sujeto principal en primer plano.
 		- Inputs: Imagen con sujeto y fondo
 		- Outputs: PNG con fondo transparente
-		- Herramientas: [remove.bg](https://www.remove.bg/), [Photoshop Select Subject](https://www.adobe.com/products/photoshop.html)
-		- Pasos:  
-		  1. Subir imagen.  
-		  2. Aplicar detección de sujeto.  
-		  3. Descargar recorte en PNG.
+		- Herramientas: [Remove bg (Replicate)](https://replicate.com/rmccue/automatically-remove-background), [remove.bg](https://www.remove.bg/)
 	- 📸 Crear una imagen de producto a partir de una foto de mala calidad
 		- Mejora color, nitidez y elimina artefactos para obtener una imagen de catálogo.
 		- Inputs: Foto de baja resolución o mal iluminada
 		- Outputs: Imagen optimizada de alta calidad
-		- Herramientas: [Topaz Gigapixel AI](https://www.topazlabs.com/gigapixel-ai), [Adobe Enhance](https://www.adobe.com/products/photoshop.html)
-		- Pasos:  
-		  1. Subir foto original.  
-		  2. Aplicar mejoras automáticas (super‑res, balance de color).  
-		  3. Ajustar manualmente si es necesario.
+		- Herramientas: [Real-ESRGAN (Replicate)](https://replicate.com/xinntao/real-esrgan), [Topaz Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)
 	- 🔍 Aumentar la resolución de una imagen
 		- Escala una imagen a mayor tamaño manteniendo detalle y reduciendo ruido.
 		- Inputs: Imagen de baja resolución
 		- Outputs: Imagen de resolución superior
-		- Herramientas: [ESRGAN](https://github.com/xinntao/ESRGAN), [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)
-		- Pasos:  
-		  1. Seleccionar factor de escala (2×, 4×).  
-		  2. Ejecutar modelo de super‑resolución.  
-		  3. Revisar y recortar bordes si conviene.
+		- Herramientas: [ESRGAN (Replicate)](https://replicate.com/xinntao/esrgan), [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)
 	- 🏗️ Generar un modelo 3D a partir de una descripción de texto
 		- Crea geometría 3D básica (mesh) basándose en instrucciones textuales.
 		- Inputs: Prompt de texto con detalles de forma y medidas
-		- Outputs: Archivo 3D (.obj, .fbx)
-		- Herramientas: [OpenAI Point‑E](https://github.com/openai/point-e), [NVIDIA Instant NeRF](https://developer.nvidia.com/instant-nerf)
-		- Pasos:  
-		  1. Redactar prompt con dimensiones y estilo.  
-		  2. Pasar a la API de modelado.  
-		  3. Descargar y revisar en visor 3D; refinar si hace falta.
+		- Outputs: Archivo 3D (.obj, .fbx)
+		- Herramientas: [Point-E (Replicate)](https://replicate.com/openai/point-e), [OpenAI Point-E](https://github.com/openai/point-e)
 	- ✒️ Generación de texto dentro de una imagen
 		- Incorpora automáticamente rótulos, subtítulos o marcas de agua en imágenes.
 		- Inputs: Imagen base + texto a insertar
 		- Outputs: Imagen con texto integrado
-		- Herramientas: [Canva Text‑to‑Image](https://www.canva.com/features/text-to-image/), [Photoshop Generative Type](https://www.adobe.com/products/photoshop.html)
-		- Pasos:  
-		  1. Especificar posición y estilo del texto.  
-		  2. Ejecutar generación.  
-		  3. Ajustar tamaño y tipografía.
+		- Herramientas: [Stable Diffusion (Replicate)](https://replicate.com/stability-ai/stable-diffusion), [Canva Text-to-Image](https://www.canva.com/features/text-to-image/)
 	- 🏷️ Creación de logos
 		- Diseña logotipos vectoriales o raster basados en brief de marca.
 		- Inputs: Descripción de marca, colores y estilo preferido
-		- Outputs: Archivo de logo (.svg, .png)
-		- Herramientas: [Looka](https://looka.com/), [Tailor Brands](https://www.tailorbrands.com/)
-		- Pasos:  
-		  1. Proporcionar brief y ejemplos de inspiración.  
-		  2. Generar varias propuestas.  
-		  3. Seleccionar y afinar tipografía/colores.
+		- Outputs: Archivo de logo (.svg, .png)
+		- Herramientas: [Stable Diffusion (Replicate)](https://replicate.com/stability-ai/stable-diffusion), [Looka](https://looka.com/)
 	- 🖌️ Conversión de una foto a un estilo artístico (style transfer)
 		- Aplica la apariencia de un pintor famoso o estilo gráfico a una imagen.
 		- Inputs: Imagen original + imagen de estilo
