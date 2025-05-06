@@ -285,7 +285,8 @@ public:: false
 		- ![image.png](../assets/image_1746538928879_0.png)
 		- **15:42** [[quick capture]]:  [Prediction firtoz/trellis – Replicate](https://replicate.com/p/vsp1ay5ckhrj00cpmq9a4xs178)
 	- ##  Generar un vídeo a partir de una imagen.
-		-
+		- ![image.png](../assets/image_1746539556121_0.png)
+		- **15:52** [[quick capture]]:  [Prediction kwaivgi/kling-v2.0 – Replicate](https://replicate.com/p/grvgemnyv5rm80cpmqc87ph2sc)
 - ## Preparación del entorno de trabajo
 	- Necesitas
 		- Una cuenta de Google
