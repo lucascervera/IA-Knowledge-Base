@@ -27,7 +27,8 @@ public:: true
 	- Generación de texto dentro de una imagen
 	- Creación de logos
 	- ...
-	- 🎨 Creación de imágenes a partir de prompts de texto
+	- 🎨 Creación de imágenes a partir de prompts de texto  
+	  collapsed:: true
 		- Permite generar ilustraciones o fotografías sintéticas a partir de descripciones en lenguaje natural.
 		- Inputs: Prompt de texto (descripción detallada)
 		- Outputs: Imagen digital (JPEG, PNG)
@@ -36,7 +37,8 @@ public:: true
 		  1. Redactar prompt claro y detallado.  
 		  2. Enviar a la API o interfaz.  
 		  3. Revisar resultados y ajustar prompt si es necesario.
-	- 🖼️ Creación de imágenes a partir de imágenes
+	- 🖼️ Creación de imágenes a partir de imágenes  
+	  collapsed:: true
 		- Transforma o extiende una imagen existente para generar variaciones o completar zonas faltantes.
 		- Inputs: Imagen base
 		- Outputs: Imagen transformada
@@ -45,7 +47,14 @@ public:: true
 		  1. Subir o seleccionar la imagen original.  
 		  2. Definir parámetros de transformación (fuerza, estilo).  
 		  3. Ejecutar y revisar; iterar ajustes.
-	- 🧩 Edición de imágenes con outpainting e inpainting
+	- ✂️ Quitar el fondo a una imagen  
+	  collapsed:: true
+		- Elimina automáticamente el fondo dejando el sujeto principal en primer plano.
+		- Inputs: Imagen con sujeto y fondo
+		- Outputs: PNG con fondo transparente
+		- Herramientas: [Remove bg (Replicate)](https://replicate.com/rmccue/automatically-remove-background), [remove.bg](https://www.remove.bg/)
+	- 🧩 Edición de imágenes con outpainting e inpainting  
+	  collapsed:: true
 		- Rellena zonas faltantes (outpaint) o corrige imperfecciones (inpaint) manteniendo coherencia visual.
 		- Inputs: Imagen con área señalada para rellenar
 		- Outputs: Imagen completa sin defectos
@@ -54,26 +63,24 @@ public:: true
 		  1. Marcar área a rellenar o corregir.  
 		  2. Ejecutar algoritmo de in/outpainting.  
 		  3. Ajustar máscara y repetir si es necesario.
-	- 👤 Creación de personajes consistentes
-		- Genera múltiples ilustraciones del mismo personaje manteniendo rasgos y estilo uniforme.
-		- Inputs: Descripción del personaje y ejemplos de referencia
-		- Outputs: Serie de imágenes del mismo personaje
-		- Herramientas: [Stable Diffusion (Replicate)](https://replicate.com/stability-ai/stable-diffusion), [Character.ai](https://beta.character.ai/)
-	- ✂️ Quitar el fondo a una imagen
-		- Elimina automáticamente el fondo dejando el sujeto principal en primer plano.
-		- Inputs: Imagen con sujeto y fondo
-		- Outputs: PNG con fondo transparente
-		- Herramientas: [Remove bg (Replicate)](https://replicate.com/rmccue/automatically-remove-background), [remove.bg](https://www.remove.bg/)
-	- 📸 Crear una imagen de producto a partir de una foto de mala calidad
-		- Mejora color, nitidez y elimina artefactos para obtener una imagen de catálogo.
-		- Inputs: Foto de baja resolución o mal iluminada
-		- Outputs: Imagen optimizada de alta calidad
-		- Herramientas: [Real-ESRGAN (Replicate)](https://replicate.com/xinntao/real-esrgan), [Topaz Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)
-	- 🔍 Aumentar la resolución de una imagen
+	- 🔍 Aumentar la resolución de una imagen  
+	  collapsed:: true
 		- Escala una imagen a mayor tamaño manteniendo detalle y reduciendo ruido.
 		- Inputs: Imagen de baja resolución
 		- Outputs: Imagen de resolución superior
 		- Herramientas: [ESRGAN (Replicate)](https://replicate.com/xinntao/esrgan), [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)
+	- 👤 Creación de personajes consistentes  
+	  collapsed:: true
+		- Genera múltiples ilustraciones del mismo personaje manteniendo rasgos y estilo uniforme.
+		- Inputs: Descripción del personaje y ejemplos de referencia
+		- Outputs: Serie de imágenes del mismo personaje
+		- Herramientas: [Stable Diffusion (Replicate)](https://replicate.com/stability-ai/stable-diffusion), [Character.ai](https://beta.character.ai/)
+	- 📸 Crear una imagen de producto a partir de una foto de mala calidad  
+	  collapsed:: true
+		- Mejora color, nitidez y elimina artefactos para obtener una imagen de catálogo.
+		- Inputs: Foto de baja resolución o mal iluminada
+		- Outputs: Imagen optimizada de alta calidad
+		- Herramientas: [Real-ESRGAN (Replicate)](https://replicate.com/xinntao/real-esrgan), [Topaz Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)
 	- 🏗️ Generar un modelo 3D a partir de una descripción de texto
 		- Crea geometría 3D básica (mesh) basándose en instrucciones textuales.
 		- Inputs: Prompt de texto con detalles de forma y medidas
