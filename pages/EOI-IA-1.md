@@ -63,13 +63,13 @@ public:: true
 		  1. Marcar área a rellenar o corregir.  
 		  2. Ejecutar algoritmo de in/outpainting.  
 		  3. Ajustar máscara y repetir si es necesario.
-	- 🔍 Aumentar la resolución de una imagen  
-	  collapsed:: true
+	- 🔍 Aumentar la resolución de una imagen
 		- Escala una imagen a mayor tamaño manteniendo detalle y reduciendo ruido.
 		- Inputs: Imagen de baja resolución
 		- Outputs: Imagen de resolución superior
 		- Herramientas: [ESRGAN (Replicate)](https://replicate.com/xinntao/esrgan), [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)
-	- ✒️ Generación de texto dentro de una imagen
+	- ✒️ Generación de texto dentro de una imagen  
+	  collapsed:: true
 		- Incorpora automáticamente rótulos, subtítulos o marcas de agua en imágenes.
 		- Inputs: Imagen base + texto a insertar
 		- Outputs: Imagen con texto integrado
@@ -80,8 +80,7 @@ public:: true
 		- Inputs: Foto de baja resolución o mal iluminada
 		- Outputs: Imagen optimizada de alta calidad
 		- Herramientas: [Real-ESRGAN (Replicate)](https://replicate.com/xinntao/real-esrgan), [Topaz Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)
-	- 🏷️ Creación de logos  
-	  collapsed:: true
+	- 🏷️ Creación de logos
 		- Diseña logotipos vectoriales o raster basados en brief de marca.
 		- Inputs: Descripción de marca, colores y estilo preferido
 		- Outputs: Archivo de logo (.svg, .png)
