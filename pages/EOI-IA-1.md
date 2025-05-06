@@ -125,6 +125,12 @@ public:: true
 		  1. Subir retrato y audio.  
 		  2. Ajustar parámetros de sincronización labial.  
 		  3. Descargar vídeo generado.
+	- 📚 Creación de cómics o novelas gráficas a partir de guiones  
+	  collapsed:: true
+		- Genera viñetas con personajes, diálogos y ambientación según un guión.
+		- Inputs: Guión por escenas (texto)
+		- Outputs: Páginas de cómic (PNG/PDF)
+		- Herramientas: [ComicGen (Replicate)](https://replicate.com/rodrigoberriel/comicgen), [ComicGen](https://www.comicgen.io/)
 	- 🔄 Interpolación entre imágenes para crear transiciones fluidas (morphing)  
 	  collapsed:: true
 		- Crea cuadros intermedios para fundir dos imágenes en un clip animado.
@@ -155,6 +161,12 @@ public:: true
 		  1. Analizar zonas a reparar.  
 		  2. Ejecutar algoritmo de restauración.  
 		  3. Pulir detalles manualmente.
+	- 🌟 Simulación de efectos fotográficos (profundidad de campo, desenfoque, etc.)  
+	  collapsed:: true
+		- Añade bokeh, viñeteado o desenfoque selectivo para mejorar el aspecto.
+		- Inputs: Imagen original + parámetros de efecto
+		- Outputs: Imagen con efecto fotográfico aplicado
+		- Herramientas: [Bokeh (Replicate)](https://replicate.com/l0tbucket/bokeh), [Luminar AI](https://skylum.com/luminar-ai)
 	- 🔎 Detección de objetos dentro de imágenes  
 	  collapsed:: true
 		- Identifica y localiza automáticamente elementos (personas, coches, señales).
@@ -219,27 +231,18 @@ public:: true
 		- Inputs: Serie de fotografías desde distintos ángulos
 		- Outputs: Modelo 3D texturizado
 		- Herramientas: [COLMAP (Replicate)](https://replicate.com/colmap/colmap), [Agisoft Metashape](https://www.agisoft.com/)
-	- 📚 Creación de cómics o novelas gráficas a partir de guiones  
+	- 🖥️ Composición automática de imágenes con múltiples elementos coherentes  
 	  collapsed:: true
-		- Genera viñetas con personajes, diálogos y ambientación según un guión.
-		- Inputs: Guión por escenas (texto)
-		- Outputs: Páginas de cómic (PNG/PDF)
-		- Herramientas: [ComicGen (Replicate)](https://replicate.com/rodrigoberriel/comicgen), [ComicGen](https://www.comicgen.io/)
-	- 🖥️ Composición automática de imágenes con múltiples elementos coherentes
 		- Ensambla varios activos (personajes, fondos, objetos) en una sola escena equilibrada.
 		- Inputs: Lista de elementos y prompt de composición
 		- Outputs: Imagen compuesta final
 		- Herramientas: [Gen-2 (Replicate)](https://replicate.com/runwayml/stable-diffusion-v1-5), [RunwayML Gen-2](https://runwayml.com/)
-	- 📐 Vectorización automática de imágenes
+	- 📐 Vectorización automática de imágenes  
+	  collapsed:: true
 		- Convierte imágenes raster (píxeles) en trazados vectoriales escalables.
 		- Inputs: Imagen raster (logo, ilustración)
 		- Outputs: Archivo .svg o .ai
 		- Herramientas: [Vectorizer (Replicate)](https://replicate.com/blakeembrey/vectorizer), [Illustrator Image Trace](https://www.adobe.com/products/illustrator.html)
-	- 🌟 Simulación de efectos fotográficos (profundidad de campo, desenfoque, etc.)
-		- Añade bokeh, viñeteado o desenfoque selectivo para mejorar el aspecto.
-		- Inputs: Imagen original + parámetros de efecto
-		- Outputs: Imagen con efecto fotográfico aplicado
-		- Herramientas: [Bokeh (Replicate)](https://replicate.com/l0tbucket/bokeh), [Luminar AI](https://skylum.com/luminar-ai)
 - ## Preparación del entorno de trabajo
   collapsed:: true
 	- Necesitas
