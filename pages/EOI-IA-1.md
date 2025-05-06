@@ -2,6 +2,15 @@ public:: false
 
 - ## Evolución de la inteligencia artificial aplicada a la generación de  imágenes
 - IA imagen
+- ## Preparación del entorno de trabajo
+  collapsed:: true
+	- Necesitas
+		- Una cuenta de Google
+		- Una cuenta de [Chat GPT](https://chatgpt.com/)
+		- Una cuenta de [Leonardo.ai](https://leonardo.ai/)
+		- Una carpeta de Google Drive llamada [EOI-IA-1 Carpeta de trabajo]("https://drive.google.com/drive/folders/1Yf1SwV3SgoEuY0yDKaa9s27yMXcVh_R8)
+		- Una idea de negocio o producto
+			- Beerbrella Patente: [https://patents.google.com/patent/US2...](https://patents.google.com/patent/US6637447B2/en)
 - ## Herramientas de IA imagen
   collapsed:: true
 	- Elección de la herramienta concreta
@@ -246,6 +255,7 @@ public:: false
 		- Herramientas: [Vectorizer (Replicate)](https://replicate.com/blakeembrey/vectorizer), [Illustrator Image Trace](https://www.adobe.com/products/illustrator.html)
 		- enes
 - ## Ejemplos de funcionalidades
+  collapsed:: true
 	- ## Edición de imágenes con texto
 	  collapsed:: true
 		- ![lucas.png](../assets/lucas_1746534173278_0.png)
@@ -310,14 +320,7 @@ public:: false
 	- ## Crear video de avatar parlante
 		- ![image.png](../assets/image_1746542065988_0.png)
 		- https://replicate.com/cjwbw/sadtalker?prediction=mtxn23h8fhrj40cpmr0r9j5h20
-- ## Preparación del entorno de trabajo
-	- Necesitas
-		- Una cuenta de Google
-		- Una cuenta de [Chat GPT](https://chatgpt.com/)
-		- Una cuenta de [Leonardo.ai](https://leonardo.ai/)
-		- Una carpeta de Google Drive llamada [EOI-IA-1 Carpeta de trabajo]("https://drive.google.com/drive/folders/1Yf1SwV3SgoEuY0yDKaa9s27yMXcVh_R8)
-		- Una idea de negocio o producto
-			- Beerbrella Patente: [https://patents.google.com/patent/US2...](https://patents.google.com/patent/US6637447B2/en)
+- la generación de imagen
 - ## Generación de imágenes desde texto (Text-to-Image)
   collapsed:: true
 	- **Descripción**: Crear imágenes originales a partir de descripciones en lenguaje natural.
