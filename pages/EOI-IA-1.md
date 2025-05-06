@@ -51,18 +51,6 @@ public:: false
 	- **13:11** [[quick capture]]:  Crea vídeos con una foto y un texto con vidu.estudio #innovación #inteligenciaartificial #vídeo - YouTube {{video https://www.youtube.com/watch?v=vw13hKt1xPU&t=9s}}
 	- **13:12** [[quick capture]]:  Imagen a texto con Inteligencia Artificial #innovacion #IA - YouTube {{video https://www.youtube.com/watch?v=Es65cvCrw6k}}
 - ## Funcionalidades de la inteligencia artificial para la generación de imagen
-  collapsed:: true
-	- Creación de imágenes a partir de promts de texto
-	- Creación de imágenes a partir de imágenes
-	- Edición de imágenes con out paint e in painting.
-	- Creación de personajes consistentes
-	- Quitar el fondo a una imagen
-	- Crear una imagen de producto a partir de una foto de mala calidad.
-	- Aumentar la resolución de una imagen
-	- Generar un modelo 3D a partir de una descripción de texto
-	- Generación de texto dentro de una imagen
-	- Creación de logos
-	- ...
 	- ## 🎨 Creación de imágenes a partir de prompts de texto
 	  collapsed:: true
 		- Permite generar ilustraciones o fotografías sintéticas a partir de descripciones en lenguaje natural.
@@ -112,7 +100,6 @@ public:: false
 		- Outputs: Imagen con texto integrado
 		- Herramientas: [Stable Diffusion (Replicate)](https://replicate.com/stability-ai/stable-diffusion), [Canva Text-to-Image](https://www.canva.com/features/text-to-image/)
 	- ## 📸 Crear una imagen de producto a partir de una foto de mala calidad
-	  collapsed:: true
 		- Mejora color, nitidez y elimina artefactos para obtener una imagen de catálogo.
 		- Inputs: Foto de baja resolución o mal iluminada
 		- Outputs: Imagen optimizada de alta calidad
