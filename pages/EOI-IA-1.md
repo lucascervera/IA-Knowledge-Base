@@ -262,6 +262,8 @@ public:: false
 			- **14:38** [[quick capture]]:  [wolverinn/realistic-background – Run with an API on Replicate](https://replicate.com/wolverinn/realistic-background?prediction=65r4bxkgenrma0cpmp98erw4wg)
 			  ![f86fb2ee-2a75-11f0-b7bd-967147130beb.png](../assets/f86fb2ee-2a75-11f0-b7bd-967147130beb_1746535101434_0.png)
 				- https://replicate.delivery/xezq/UHCl3UGbh1qFIhMDT56GQzfRoeCSeFWLMdCZfOPIi3cXwsnSB/f86fb2ee-2a75-11f0-b7bd-967147130beb.png
+		- ## Ampliar una imagen
+			-
 - ## Preparación del entorno de trabajo
   collapsed:: true
 	- Necesitas
