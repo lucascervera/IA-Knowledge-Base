@@ -279,6 +279,7 @@ public:: false
 	- ## Texto a voz
 	  collapsed:: true
 	- [minimax/speech-02-hd – Run with an API on Replicate](https://replicate.com/minimax/speech-02-hd?prediction=s113dards9rm80cpmnztd4xxzr)
+		- https://replicate.com/minimax/speech-02-hd?prediction=s113dards9rm80cpmnztd4xxzr
 	- ## Clonación de voz
 	  collapsed:: true
 		- ![Voz Lucas.wav](../assets/Voz_Lucas_1746533625745_0.wav)
