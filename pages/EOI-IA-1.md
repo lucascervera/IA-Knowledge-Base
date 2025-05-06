@@ -87,12 +87,12 @@ public:: true
 		- Inputs: Descripción de marca, colores y estilo preferido
 		- Outputs: Archivo de logo (.svg, .png)
 		- Herramientas: [Stable Diffusion (Replicate)](https://replicate.com/stability-ai/stable-diffusion), [Looka](https://looka.com/)
-	- 🖌️ Conversión de una foto a un estilo artístico (style transfer)
+	- 🖌️ Conversión de una foto a un estilo artístico (style transfer)  
+	  collapsed:: true
 		- Aplica la apariencia de un pintor famoso o estilo gráfico a una imagen.
 		- Inputs: Imagen original + imagen de estilo
 		- Outputs: Imagen con nuevo estilo aplicado
 		- Herramientas: [Fast Neural Style Transfer (Replicate)](https://replicate.com/jcjohnson/neural-style), [DeepArt](https://deepart.io/)
-			- https://replicate.com/jcjohnson/neural-style
 		- Pasos:  
 		  1. Subir imagen de contenido y de estilo.  
 		  2. Ejecutar transferencia de estilo.  
@@ -109,8 +109,7 @@ public:: true
 		- Inputs: Foto de grupo o descripción textual
 		- Outputs: Coordenadas de rostros / retrato generado
 		- Herramientas: [Face Recognition (Replicate)](https://replicate.com/ageitgey/face_recognition), [Generated Photos](https://generated.photos/)
-	- 👤 Creación de personajes consistentes  
-	  collapsed:: true
+	- 👤 Creación de personajes consistentes
 		- Genera múltiples ilustraciones del mismo personaje manteniendo rasgos y estilo uniforme.
 		- Inputs: Descripción del personaje y ejemplos de referencia
 		- Outputs: Serie de imágenes del mismo personaje
