@@ -254,6 +254,7 @@ public:: false
 	  collapsed:: true
 		- **14:10** [[quick capture]]:  [minimax/speech-02-hd – Run with an API on Replicate](https://replicate.com/minimax/speech-02-hd?prediction=s113dards9rm80cpmnztd4xxzr)
 	- ## Clonación de voz
+	  collapsed:: true
 		- ![Voz Lucas.wav](../assets/Voz_Lucas_1746533625745_0.wav)
 		- **14:17** [[quick capture]]:  [minimax/voice-cloning – Run with an API on Replicate](https://replicate.com/minimax/voice-cloning)
 		- voice_id: R8_XZHESM8J
@@ -303,7 +304,7 @@ public:: false
 		- **15:55** [[quick capture]]:  [Replicate playground - Compare models, rapidly prototype, and tweak and refine results.](https://replicate.com/playground/)
 	- ## Crear música de fondo
 		- Música medieval alegre española con mandolina
-		- **16:19** [[quick capture]]:  [Prediction meta/musicgen – Replicate](https://replicate.com/p/tan6h32kfxrj40cpmqv8xebdew)
+		-
 	- ## Crear canción a partir de música.
 		-
 - ## Preparación del entorno de trabajo
