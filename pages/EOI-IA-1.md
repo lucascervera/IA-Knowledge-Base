@@ -282,6 +282,7 @@ public:: false
 		- ![replicate-prediction-qw9brgga75rma0cpmq88ge2x9m.png](../assets/replicate-prediction-qw9brgga75rma0cpmq88ge2x9m_1746538682994_0.png)
 		- **15:38** [[quick capture]]:  [Prediction roblester/editorial-cartoon – Replicate](https://replicate.com/p/qw9brgga75rma0cpmq88ge2x9m)
 	- ## Crear un objeto 3D a partir de una imagen.
+		- ![image.png](../assets/image_1746538928879_0.png)
 		-
 - ## Preparación del entorno de trabajo
 	- Necesitas
