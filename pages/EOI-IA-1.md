@@ -109,7 +109,8 @@ public:: true
 		- Inputs: Foto de grupo o descripción textual
 		- Outputs: Coordenadas de rostros / retrato generado
 		- Herramientas: [Face Recognition (Replicate)](https://replicate.com/ageitgey/face_recognition), [Generated Photos](https://generated.photos/)
-	- 👤 Creación de personajes consistentes
+	- 👤 Creación de personajes consistentes  
+	  collapsed:: true
 		- Genera múltiples ilustraciones del mismo personaje manteniendo rasgos y estilo uniforme.
 		- Inputs: Descripción del personaje y ejemplos de referencia
 		- Outputs: Serie de imágenes del mismo personaje
