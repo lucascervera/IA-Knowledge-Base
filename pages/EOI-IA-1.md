@@ -307,7 +307,7 @@ public:: false
 		- **16:29** [[quick capture]]:  [Prediction meta/musicgen – Replicate](https://replicate.com/p/n36ar9b1asrj20cpmqyvps4tx0)
 	- ## Crear canción a partir de música.
 		- **16:30** [[quick capture]]:  [Prediction minimax/music-01 – Replicate](https://replicate.com/p/v3vgpgmz3srme0cpmr09kyc6bc)
-	- ##
+	- ## Crear video de avatar parlante
 - ## Preparación del entorno de trabajo
 	- Necesitas
 		- Una cuenta de Google
