@@ -257,7 +257,11 @@ public:: false
 		- voice_id: R8_XZHESM8J
 		- **14:20** [[quick capture]]:  [minimax/speech-02-turbo – Run with an API on Replicate](https://replicate.com/minimax/speech-02-turbo?prediction=b22xgy0jqhrme0cpmp5940crkm)
 	- ## Cambiar el fondo de una imagen
-		-
+		- ![replicate-prediction-y4sda3ehexrj60cpmp7b9rxfng.webp](../assets/replicate-prediction-y4sda3ehexrj60cpmp7b9rxfng_1746535054243_0.webp)
+			- https://replicate.delivery/pbxt/MxfDCQmfpdpyKzmX1ueHbomnly3ELFN2H0t7hFjEL94Z3Nr5/replicate-prediction-y4sda3ehexrj60cpmp7b9rxfng.webp
+			- **14:38** [[quick capture]]:  [wolverinn/realistic-background – Run with an API on Replicate](https://replicate.com/wolverinn/realistic-background?prediction=65r4bxkgenrma0cpmp98erw4wg)
+			  ![f86fb2ee-2a75-11f0-b7bd-967147130beb.png](../assets/f86fb2ee-2a75-11f0-b7bd-967147130beb_1746535101434_0.png)
+				- https://replicate.delivery/xezq/UHCl3UGbh1qFIhMDT56GQzfRoeCSeFWLMdCZfOPIi3cXwsnSB/f86fb2ee-2a75-11f0-b7bd-967147130beb.png
 - ## Preparación del entorno de trabajo
   collapsed:: true
 	- Necesitas
