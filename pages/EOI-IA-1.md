@@ -292,7 +292,7 @@ public:: false
 		- **15:55** [[quick capture]]:  [Replicate playground - Compare models, rapidly prototype, and tweak and refine results.](https://replicate.com/playground/)
 	- ## Crear música de fondo
 		- Música medieval alegre española con mandolina
-		-
+		- **16:19** [[quick capture]]:  [Prediction meta/musicgen – Replicate](https://replicate.com/p/tan6h32kfxrj40cpmqv8xebdew)
 	- ## Crear canción a partir de música.
 		-
 - ## Preparación del entorno de trabajo
