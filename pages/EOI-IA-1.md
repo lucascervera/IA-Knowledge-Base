@@ -48,6 +48,7 @@ public:: false
 		  2. Definir parámetros de transformación (fuerza, estilo).  
 		  3. Ejecutar y revisar; iterar ajustes.
 	- ## ✂️ Quitar el fondo a una imagen
+	  collapsed:: true
 		- Elimina automáticamente el fondo dejando el sujeto principal en primer plano.
 		- Inputs: Imagen con sujeto y fondo
 		- Outputs: PNG con fondo transparente
