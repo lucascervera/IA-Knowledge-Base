@@ -287,6 +287,9 @@ public:: false
 	- ##  Generar un vídeo a partir de una imagen.
 		- ![image.png](../assets/image_1746539556121_0.png)
 		- **15:52** [[quick capture]]:  [Prediction kwaivgi/kling-v2.0 – Replicate](https://replicate.com/p/grvgemnyv5rm80cpmqc87ph2sc)
+	- ## Modificar una imagen con inpainting
+		- ![image.png](../assets/image_1746539661009_0.png)
+		-
 - ## Preparación del entorno de trabajo
 	- Necesitas
 		- Una cuenta de Google
