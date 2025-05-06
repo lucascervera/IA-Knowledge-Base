@@ -16,6 +16,7 @@ public:: false
 			- Leonardo
 			- Pinokio
 - ## Funcionalidades de la inteligencia artificial para la generación de imagen
+  collapsed:: true
 	- Creación de imágenes a partir de promts de texto
 	- Creación de imágenes a partir de imágenes
 	- Edición de imágenes con out paint e in painting.
@@ -250,13 +251,16 @@ public:: false
 		- ![lucas.png](../assets/lucas_1746534173278_0.png)
 		- **14:26** [[quick capture]]:  [Prediction zsxkib/step1x-edit – Replicate](https://replicate.com/p/y4sda3ehexrj60cpmp7b9rxfng)
 	- ## Texto a voz
+	  collapsed:: true
 		- **14:10** [[quick capture]]:  [minimax/speech-02-hd – Run with an API on Replicate](https://replicate.com/minimax/speech-02-hd?prediction=s113dards9rm80cpmnztd4xxzr)
 	- ## Clonación de voz
+	  collapsed:: true
 		- ![Voz Lucas.wav](../assets/Voz_Lucas_1746533625745_0.wav)
 		- **14:17** [[quick capture]]:  [minimax/voice-cloning – Run with an API on Replicate](https://replicate.com/minimax/voice-cloning)
 		- voice_id: R8_XZHESM8J
 		- **14:20** [[quick capture]]:  [minimax/speech-02-turbo – Run with an API on Replicate](https://replicate.com/minimax/speech-02-turbo?prediction=b22xgy0jqhrme0cpmp5940crkm)
 	- ## Cambiar el fondo de una imagen
+	  collapsed:: true
 		- ![replicate-prediction-y4sda3ehexrj60cpmp7b9rxfng.webp](../assets/replicate-prediction-y4sda3ehexrj60cpmp7b9rxfng_1746535054243_0.webp)
 			- https://replicate.delivery/pbxt/MxfDCQmfpdpyKzmX1ueHbomnly3ELFN2H0t7hFjEL94Z3Nr5/replicate-prediction-y4sda3ehexrj60cpmp7b9rxfng.webp
 			- **14:38** [[quick capture]]:  [wolverinn/realistic-background – Run with an API on Replicate](https://replicate.com/wolverinn/realistic-background?prediction=65r4bxkgenrma0cpmp98erw4wg)
@@ -268,29 +272,38 @@ public:: false
 			- Elimina el borde negro que hay alrededor del personaje para que el personaje quede integrado con el fondo. Ponle un casco medieval.
 			- ![ChatGPT Image 6 may 2025, 14_57_08.png](../assets/ChatGPT_Image_6_may_2025,_14_57_08_1746536276518_0.png)
 	- ## Describir una imagen contexto
+	  collapsed:: true
 		- The image features a man wearing a medieval helmet and a brown shirt, standing in a hallway. He is smiling and appears to be posing for the picture. The setting suggests that the man is dressed in a historical costume, possibly representing a knight or a character from a medieval period.
 		- **15:01** [[quick capture]]:  [Prediction lucataco/moondream2 – Replicate](https://replicate.com/p/m62wnc78xdrme0cpmppt01xtww)
 	- ## Añade partes a una imagen (outpainting)
+	  collapsed:: true
 		- **15:06** [[quick capture]]:  [Prediction emaph/outpaint-controlnet-union – Replicate](https://replicate.com/p/hv2wjb1mf5rmc0cpmpsaq2rxhr)
 	- ## Identifica objetos en una imagen
+	  collapsed:: true
 		- ![replicate-prediction-k4qt3g86j9rmc0cpmptb4y2dtm.png](../assets/replicate-prediction-k4qt3g86j9rmc0cpmptb4y2dtm_1746536858417_0.png)
 		- **15:07** [[quick capture]]:  [adirik/grounding-dino – Run with an API on Replicate](https://replicate.com/adirik/grounding-dino?prediction=k4qt3g86j9rmc0cpmptb4y2dtm)
 	- ## Generación de ilustraciones
+	  collapsed:: true
 		- Un escudo medieval con una cabra dentro y con el texto "Don Mendo Salazar y Bernáldez de Montiel" en letras medievales.
 		- **15:26** [[quick capture]]:  [Prediction recraft-ai/recraft-v3-svg – Replicate](https://replicate.com/p/a89abqkc55rm80cpmq2t1r1qpc)
 	- ## Crear una ilustración del personaje
+	  collapsed:: true
 		- ![replicate-prediction-qw9brgga75rma0cpmq88ge2x9m.png](../assets/replicate-prediction-qw9brgga75rma0cpmq88ge2x9m_1746538682994_0.png)
 		- **15:38** [[quick capture]]:  [Prediction roblester/editorial-cartoon – Replicate](https://replicate.com/p/qw9brgga75rma0cpmq88ge2x9m)
 	- ## Crear un objeto 3D a partir de una imagen.
+	  collapsed:: true
 		- ![image.png](../assets/image_1746538928879_0.png)
 		- **15:42** [[quick capture]]:  [Prediction firtoz/trellis – Replicate](https://replicate.com/p/vsp1ay5ckhrj00cpmq9a4xs178)
 	- ##  Generar un vídeo a partir de una imagen.
+	  collapsed:: true
 		- ![image.png](../assets/image_1746539556121_0.png)
 		- **15:52** [[quick capture]]:  [Prediction kwaivgi/kling-v2.0 – Replicate](https://replicate.com/p/grvgemnyv5rm80cpmqc87ph2sc)
 	- ## Modificar una imagen con inpainting
+	  collapsed:: true
 		- ![image.png](../assets/image_1746539661009_0.png)
 		- **15:55** [[quick capture]]:  [Replicate playground - Compare models, rapidly prototype, and tweak and refine results.](https://replicate.com/playground/)
 	- ## Crear música de fondo
+	  collapsed:: true
 		- Música medieval alegre española con mandolina
 		- **16:19** [[quick capture]]:  [Prediction meta/musicgen – Replicate](https://replicate.com/p/tan6h32kfxrj40cpmqv8xebdew)
 	- ## Crear canción a partir de música.
