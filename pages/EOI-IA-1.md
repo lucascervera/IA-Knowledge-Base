@@ -254,6 +254,7 @@ public:: false
 	- ## Clonación de voz
 		- ![Voz Lucas.wav](../assets/Voz_Lucas_1746533625745_0.wav)
 		- **14:17** [[quick capture]]:  [minimax/voice-cloning – Run with an API on Replicate](https://replicate.com/minimax/voice-cloning)
+		- voice_id: R8_XZHESM8J
 - ## Preparación del entorno de trabajo
   collapsed:: true
 	- Necesitas
