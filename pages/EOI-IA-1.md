@@ -269,7 +269,6 @@ public:: false
 		- Herramientas: [Vectorizer (Replicate)](https://replicate.com/blakeembrey/vectorizer), [Illustrator Image Trace](https://www.adobe.com/products/illustrator.html)
 		- enes
 - ## Ejemplos de funcionalidades
-  collapsed:: true
 	- ## Edición de imágenes con texto
 	  collapsed:: true
 		- ![lucas.png](../assets/lucas_1746534173278_0.png)
@@ -288,8 +287,8 @@ public:: false
 		- ![replicate-prediction-y4sda3ehexrj60cpmp7b9rxfng.webp](../assets/replicate-prediction-y4sda3ehexrj60cpmp7b9rxfng_1746535054243_0.webp)
 			- https://replicate.delivery/pbxt/MxfDCQmfpdpyKzmX1ueHbomnly3ELFN2H0t7hFjEL94Z3Nr5/replicate-prediction-y4sda3ehexrj60cpmp7b9rxfng.webp
 	- [wolverinn/realistic-background – Run with an API on Replicate](https://replicate.com/wolverinn/realistic-background?prediction=65r4bxkgenrma0cpmp98erw4wg)
-			  ![f86fb2ee-2a75-11f0-b7bd-967147130beb.png](../assets/f86fb2ee-2a75-11f0-b7bd-967147130beb_1746535101434_0.png)
-				- https://replicate.delivery/xezq/UHCl3UGbh1qFIhMDT56GQzfRoeCSeFWLMdCZfOPIi3cXwsnSB/f86fb2ee-2a75-11f0-b7bd-967147130beb.png
+	    ![f86fb2ee-2a75-11f0-b7bd-967147130beb.png](../assets/f86fb2ee-2a75-11f0-b7bd-967147130beb_1746535101434_0.png)
+		- https://replicate.delivery/xezq/UHCl3UGbh1qFIhMDT56GQzfRoeCSeFWLMdCZfOPIi3cXwsnSB/f86fb2ee-2a75-11f0-b7bd-967147130beb.png
 		- ## Ampliar una imagen
 	- [Prediction fermatresearch/magic-image-refiner – Replicate](https://replicate.com/p/czp02tmgx1rme0cpmpfawz56pr)
 		- ## Mejorar una imagen
