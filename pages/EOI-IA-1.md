@@ -246,8 +246,9 @@ public:: false
 		- enes
 - ## Ejemplos de funcionalidades
 	- ## Edición de imágenes con texto
+	  collapsed:: true
 		- ![lucas.png](../assets/lucas_1746534173278_0.png)
-		-
+		- **14:26** [[quick capture]]:  [Prediction zsxkib/step1x-edit – Replicate](https://replicate.com/p/y4sda3ehexrj60cpmp7b9rxfng)
 	- ## Texto a voz
 		- **14:10** [[quick capture]]:  [minimax/speech-02-hd – Run with an API on Replicate](https://replicate.com/minimax/speech-02-hd?prediction=s113dards9rm80cpmnztd4xxzr)
 	- ## Clonación de voz
