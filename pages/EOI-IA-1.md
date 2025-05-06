@@ -267,6 +267,8 @@ public:: false
 		- ## Mejorar una imagen
 			- Elimina el borde negro que hay alrededor del personaje para que el personaje quede integrado con el fondo. Ponle un casco medieval.
 			- ![ChatGPT Image 6 may 2025, 14_57_08.png](../assets/ChatGPT_Image_6_may_2025,_14_57_08_1746536276518_0.png)
+	- ## Describir una imagen contexto
+		-
 - ## Preparación del entorno de trabajo
 	- Necesitas
 		- Una cuenta de Google
