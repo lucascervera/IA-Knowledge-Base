@@ -289,7 +289,7 @@ public:: false
 		- **15:52** [[quick capture]]:  [Prediction kwaivgi/kling-v2.0 – Replicate](https://replicate.com/p/grvgemnyv5rm80cpmqc87ph2sc)
 	- ## Modificar una imagen con inpainting
 		- ![image.png](../assets/image_1746539661009_0.png)
-		-
+		- **15:55** [[quick capture]]:  [Replicate playground - Compare models, rapidly prototype, and tweak and refine results.](https://replicate.com/playground/)
 - ## Preparación del entorno de trabajo
 	- Necesitas
 		- Una cuenta de Google
