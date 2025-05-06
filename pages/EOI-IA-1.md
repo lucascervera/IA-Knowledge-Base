@@ -246,6 +246,7 @@ public:: false
 		- enes
 - ## Ejemplos de funcionalidades
 	- ## Edición de imágenes con texto
+		- https://replicate.com/zsxkib/step1x-edit?prediction=t93vck6ethrj60cpmnvsszeb6r
 		-
 - ## Preparación del entorno de trabajo
   collapsed:: true
