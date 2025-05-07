@@ -3,6 +3,7 @@ public:: false
 - # Inteligencia artificial imagen y vídeo.
 - ## Evolución de la inteligencia artificial aplicada a la generación de  imágenes
 - ## Preparación del entorno de trabajo
+  collapsed:: true
 	- Necesitas
 		- Una cuenta de Google
 		- Una cuenta de [Chat GPT](https://chatgpt.com/)
