@@ -7,7 +7,7 @@
   <title>Markdown to Slides Presentation</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/dist/reset.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/dist/reveal.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/dist/theme/night.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/dist/theme/white.css">
   <style>
     .reveal {
       font-size: 28px;
@@ -83,26 +83,63 @@
       text-align: center;
       font-style: italic;
     }
+    /* Header and Footer styles */
+    .slide-header {
+      position: absolute;
+      top: 10px;
+      left: 0;
+      right: 0;
+      padding: 10px;
+      font-size: 18px;
+      z-index: 10;
+    }
+    .slide-footer {
+      position: absolute;
+      bottom: 10px;
+      left: 0;
+      right: 0;
+      padding: 10px;
+      font-size: 16px;
+      z-index: 10;
+    }
+    .header-image, .footer-image {
+      max-height: 80px;
+      object-fit: contain;
+    }
   </style>
 </head>
 <body>
   <div class="reveal">
     <div class="slides">
       <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## Inteligencia artificial imagen y vídeo.
 
 
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## Evolución de la inteligencia artificial aplicada a la generación de  imágenes
 
 
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## Preparación del entorno de trabajo
 
@@ -114,8 +151,13 @@ Una carpeta de Google Drive llamada [EOI-IA-1 Carpeta de trabajo]("https://drive
 Una idea de negocio o producto
 Beerbrella Patente: [https://patents.google.com/patent/US2...](https://patents.google.com/patent/US6637447B2/en)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## Herramientas de IA imagen + vídeo
 
@@ -130,8 +172,13 @@ Leonardo AI: [https://www.leonardo.ai/](https://www.leonardo.ai/)
 Replicate: [https://www.replicate.com/](https://www.replicate.com/)
 Pinokio: [https://pinokio.computer/](https://pinokio.computer/)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## Casos de uso inteligencia artificial para imagen y vídeo
 
@@ -161,17 +208,26 @@ App para generar tu avatar super realista - YouTube {{video(https://www.youtube.
 Avatar creado con inteligencia artificial - YouTube {{video(https://www.youtube.com/watch?v=vOPX3UYZJEQ)}}
 Crea vídeos con una foto y un texto con vidu.estudio #innovación #inteligenciaartificial #vídeo - YouTube {{video(https://www.youtube.com/watch?v=vw13hKt1xPU&t=9s)}}
 Imagen a texto con Inteligencia Artificial #innovacion #IA - YouTube {{video(https://www.youtube.com/watch?v=Es65cvCrw6k)}}
-Casos de uso inteligencia artificial para imagen y vídeo
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## Funcionalidades de la inteligencia artificial para la generación de imagen
 
 
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## 🎨 Creación de imágenes a partir de prompts de texto
 
@@ -184,8 +240,13 @@ Pasos:
 	2. Enviar a la API o interfaz.
 	3. Revisar resultados y ajustar prompt si es necesario.
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## 🖼️ Creación de imágenes a partir de imágenes
 
@@ -198,8 +259,13 @@ Pasos:
 	2. Definir parámetros de transformación (fuerza, estilo).
 	3. Ejecutar y revisar; iterar ajustes.
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## ✂️ Quitar el fondo a una imagen
 
@@ -208,8 +274,13 @@ Inputs: Imagen con sujeto y fondo
 Outputs: PNG con fondo transparente
 Herramientas: [Remove bg (Replicate)](https://replicate.com/rmccue/automatically-remove-background), [remove.bg](https://www.remove.bg/)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## 🧩 Edición de imágenes con outpainting e inpainting
 
@@ -222,8 +293,13 @@ Pasos:
 	2. Ejecutar algoritmo de in/outpainting.
 	3. Ajustar máscara y repetir si es necesario.
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## 🔍 Aumentar la resolución de una imagen
 
@@ -232,8 +308,13 @@ Inputs: Imagen de baja resolución
 Outputs: Imagen de resolución superior
 Herramientas: [ESRGAN (Replicate)](https://replicate.com/xinntao/esrgan), [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## ✒️ Generación de texto dentro de una imagen
 
@@ -242,8 +323,13 @@ Inputs: Imagen base + texto a insertar
 Outputs: Imagen con texto integrado
 Herramientas: [Stable Diffusion (Replicate)](https://replicate.com/stability-ai/stable-diffusion), [Canva Text-to-Image](https://www.canva.com/features/text-to-image/)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## 📸 Crear una imagen de producto a partir de una foto de mala calidad
 
@@ -252,8 +338,13 @@ Inputs: Foto de baja resolución o mal iluminada
 Outputs: Imagen optimizada de alta calidad
 Herramientas: [Real-ESRGAN (Replicate)](https://replicate.com/xinntao/real-esrgan), [Topaz Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## 🏷️ Creación de logos
 
@@ -262,8 +353,13 @@ Inputs: Descripción de marca, colores y estilo preferido
 Outputs: Archivo de logo (.svg, .png)
 Herramientas: [Stable Diffusion (Replicate)](https://replicate.com/stability-ai/stable-diffusion), [Looka](https://looka.com/)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## 🖌️ Conversión de una foto a un estilo artístico (style transfer)
 
@@ -276,8 +372,13 @@ Pasos:
 	2. Ejecutar transferencia de estilo.
 	3. Ajustar intensidad del efecto.
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## 🤖 Generación de imágenes hiperrealistas de personas que no existen
 
@@ -286,8 +387,13 @@ Inputs: Parámetros demográficos (edad, sexo, etnia)
 Outputs: Imagen de rostro (PNG/JPEG)
 Herramientas: [StyleGAN2 (Replicate)](https://replicate.com/NVlabs/stylegan2), [ThisPersonDoesNotExist](https://thispersondoesnotexist.com/)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## 🕵️ Reconocimiento facial y generación de rostros a partir de descripciones
 
@@ -296,8 +402,13 @@ Inputs: Foto de grupo o descripción textual
 Outputs: Coordenadas de rostros / retrato generado
 Herramientas: [Face Recognition (Replicate)](https://replicate.com/ageitgey/face_recognition), [Generated Photos](https://generated.photos/)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## 👤 Creación de personajes consistentes
 
@@ -306,8 +417,13 @@ Inputs: Descripción del personaje y ejemplos de referencia
 Outputs: Serie de imágenes del mismo personaje
 Herramientas: [Stable Diffusion (Replicate)](https://replicate.com/stability-ai/stable-diffusion), [Character.ai](https://beta.character.ai/)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## 🎞️ Animación de retratos (p.ej. hacer que una foto hable o sonría)
 
@@ -320,8 +436,13 @@ Pasos:
 	2. Ajustar parámetros de sincronización labial.
 	3. Descargar vídeo generado.
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## 📚 Creación de cómics o novelas gráficas a partir de guiones
 
@@ -330,8 +451,13 @@ Inputs: Guión por escenas (texto)
 Outputs: Páginas de cómic (PNG/PDF)
 Herramientas: [ComicGen (Replicate)](https://replicate.com/rodrigoberriel/comicgen), [ComicGen](https://www.comicgen.io/)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## 🔄 Interpolación entre imágenes para crear transiciones fluidas (morphing)
 
@@ -344,8 +470,13 @@ Pasos:
 	2. Ajustar número de fotogramas intermedios.
 	3. Generar y exportar vídeo.
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## 🌈 Colorización automática de fotos en blanco y negro
 
@@ -358,8 +489,13 @@ Pasos:
 	2. Ejecutar modelo de colorización.
 	3. Retocar tonos si es necesario.
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## 🛠️ Restauración de imágenes dañadas o antiguas
 
@@ -372,8 +508,13 @@ Pasos:
 	2. Ejecutar algoritmo de restauración.
 	3. Pulir detalles manualmente.
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## 🌟 Simulación de efectos fotográficos (profundidad de campo, desenfoque, etc.)
 
@@ -382,8 +523,13 @@ Inputs: Imagen original + parámetros de efecto
 Outputs: Imagen con efecto fotográfico aplicado
 Herramientas: [Bokeh (Replicate)](https://replicate.com/l0tbucket/bokeh), [Luminar AI](https://skylum.com/luminar-ai)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## 🔎 Detección de objetos dentro de imágenes
 
@@ -396,8 +542,13 @@ Pasos:
 	2. Evaluar resultados y revisar etiquetas.
 	3. Exportar datos en JSON o CSV.
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## ✏️ Conversión de bocetos o dibujos en imágenes realistas
 
@@ -406,8 +557,13 @@ Inputs: Boceto escaneado o digital
 Outputs: Imagen coloreada y sombreada
 Herramientas: [Sketch Transformer (Replicate)](https://replicate.com/foamliu/sketch-transformer), [Adobe Fresco](https://www.adobe.com/products/fresco.html)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## 👗 Diseño de ropa o moda virtual sobre modelos
 
@@ -416,8 +572,13 @@ Inputs: Fotografía de modelo + diseño de prenda
 Outputs: Imagen de modelo vistiendo la prenda
 Herramientas: [Virtual Try-On (Replicate)](https://replicate.com/akai-org/virtual-try-on), [Clo3D](https://www.clo3d.com/)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## 🏷️ Clasificación de imágenes por contenido (etiquetado automático)
 
@@ -426,8 +587,13 @@ Inputs: Lote de imágenes
 Outputs: Lista de etiquetas por imagen
 Herramientas: [Image Classification (Replicate)](https://replicate.com/google/vit-base-patch16-224), [Google Vision](https://cloud.google.com/vision)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## 🖼️ Segmentación semántica (identificación de cada píxel por categoría)
 
@@ -436,8 +602,13 @@ Inputs: Imagen
 Outputs: Mapas de segmentación
 Herramientas: [U^2-Net (Replicate)](https://replicate.com/xuebinqin/U-2-Net), [DeepLab](https://github.com/tensorflow/models/tree/master/research/deeplab)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## 🏥 Generación de imágenes a partir de datos médicos (radiografías, resonancias, etc.)
 
@@ -446,8 +617,13 @@ Inputs: Parámetros clínicos o imágenes de baja calidad
 Outputs: Imágenes médicas generadas o mejoradas
 Herramientas: [MedGaAN (Replicate)](https://replicate.com/jsyoon0823/medgan), [NVIDIA Clara](https://developer.nvidia.com/clara-medical-imaging)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## 🌄 Creación de fondos generativos para uso en videojuegos o diseño
 
@@ -456,8 +632,13 @@ Inputs: Parámetros de estilo y paleta de colores
 Outputs: Texturas o tilesets
 Herramientas: [GauGAN (Replicate)](https://replicate.com/nvjr/gaugan2), [Artbreeder](https://www.artbreeder.com/)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## 🏗️ Generar un modelo 3D a partir de una descripción de texto
 
@@ -466,8 +647,13 @@ Inputs: Prompt de texto con detalles de forma y medidas
 Outputs: Archivo 3D (.obj, .fbx)
 Herramientas: [Point-E (Replicate)](https://replicate.com/openai/point-e), [OpenAI Point-E](https://github.com/openai/point-e)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## 🎨 Creación de texturas y patrones para diseño gráfico o 3D
 
@@ -476,8 +662,13 @@ Inputs: Ejemplos de patrón o prompt textual
 Outputs: Textura seamless (PNG)
 Herramientas: [Deep Texture (Replicate)](https://replicate.com/fcakyon/deep-texture), [Substance 3D Alchemist](https://www.adobe.com/products/substance3d-alchemist.html)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## 🏞️ Reconstrucción de escenas en 3D a partir de fotos 2D
 
@@ -486,8 +677,13 @@ Inputs: Serie de fotografías desde distintos ángulos
 Outputs: Modelo 3D texturizado
 Herramientas: [COLMAP (Replicate)](https://replicate.com/colmap/colmap), [Agisoft Metashape](https://www.agisoft.com/)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## 🖥️ Composición automática de imágenes con múltiples elementos coherentes
 
@@ -496,8 +692,13 @@ Inputs: Lista de elementos y prompt de composición
 Outputs: Imagen compuesta final
 Herramientas: [Gen-2 (Replicate)](https://replicate.com/runwayml/stable-diffusion-v1-5), [RunwayML Gen-2](https://runwayml.com/)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## 📐 Vectorización automática de imágenes
 
@@ -507,30 +708,50 @@ Outputs: Archivo .svg o .ai
 Herramientas: [Vectorizer (Replicate)](https://replicate.com/blakeembrey/vectorizer), [Illustrator Image Trace](https://www.adobe.com/products/illustrator.html)
 enes
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## Ejemplos de funcionalidades
 
 
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## Edición de imágenes con texto
 
 ![lucas.png](../assets/lucas_1746534173278_0.png)
 [Prediction zsxkib/step1x-edit – Replicate](https://replicate.com/p/y4sda3ehexrj60cpmp7b9rxfng)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## Texto a voz
 
 [minimax/speech-02-hd – Run with an API on Replicate](https://replicate.com/minimax/speech-02-hd?prediction=s113dards9rm80cpmnztd4xxzr)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## Clonación de voz
 
@@ -539,8 +760,13 @@ enes
 voice_id: R8_XZHESM8J
 [minimax/speech-02-turbo – Run with an API on Replicate](https://replicate.com/minimax/speech-02-turbo?prediction=b22xgy0jqhrme0cpmp5940crkm)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## Cambiar el fondo de una imagen
 
@@ -550,46 +776,76 @@ https://replicate.delivery/pbxt/MxfDCQmfpdpyKzmX1ueHbomnly3ELFN2H0t7hFjEL94Z3Nr5
 ![f86fb2ee-2a75-11f0-b7bd-967147130beb.png](../assets/f86fb2ee-2a75-11f0-b7bd-967147130beb_1746535101434_0.png)
 https://replicate.delivery/xezq/UHCl3UGbh1qFIhMDT56GQzfRoeCSeFWLMdCZfOPIi3cXwsnSB/f86fb2ee-2a75-11f0-b7bd-967147130beb.png
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## Ampliar una imagen
 
 [Prediction fermatresearch/magic-image-refiner – Replicate](https://replicate.com/p/czp02tmgx1rme0cpmpfawz56pr)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## Mejorar una imagen
 
 Elimina el borde negro que hay alrededor del personaje para que el personaje quede integrado con el fondo. Ponle un casco medieval.
 ![ChatGPT Image 6 may 2025, 14_57_08.png](../assets/ChatGPT_Image_6_may_2025,_14_57_08_1746536276518_0.png)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## Describir una imagen contexto
 
 The image features a man wearing a medieval helmet and a brown shirt, standing in a hallway. He is smiling and appears to be posing for the picture. The setting suggests that the man is dressed in a historical costume, possibly representing a knight or a character from a medieval period.
 [Prediction lucataco/moondream2 – Replicate](https://replicate.com/p/m62wnc78xdrme0cpmppt01xtww)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## Añade partes a una imagen (outpainting)
 
 [Prediction emaph/outpaint-controlnet-union – Replicate](https://replicate.com/p/hv2wjb1mf5rmc0cpmpsaq2rxhr)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## Identifica objetos en una imagen
 
 ![replicate-prediction-k4qt3g86j9rmc0cpmptb4y2dtm.png](../assets/replicate-prediction-k4qt3g86j9rmc0cpmptb4y2dtm_1746536858417_0.png)
 [adirik/grounding-dino – Run with an API on Replicate](https://replicate.com/adirik/grounding-dino?prediction=k4qt3g86j9rmc0cpmptb4y2dtm)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## Generación de ilustraciones
 
@@ -597,61 +853,97 @@ Un escudo medieval con una cabra dentro y con el texto "Don Mendo Salazar y Bern
 [Prediction recraft-ai/recraft-v3-svg – Replicate](https://replicate.com/p/a89abqkc55rm80cpmq2t1r1qpc)
 https://replicate.com/p/a89abqkc55rm80cpmq2t1r1qpc
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## Crear una ilustración del personaje
 
 ![replicate-prediction-qw9brgga75rma0cpmq88ge2x9m.png](../assets/replicate-prediction-qw9brgga75rma0cpmq88ge2x9m_1746538682994_0.png)
 [Prediction roblester/editorial-cartoon – Replicate](https://replicate.com/p/qw9brgga75rma0cpmq88ge2x9m)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## Crear un objeto 3D a partir de una imagen
 
 ![image.png](../assets/image_1746538928879_0.png)
 [Prediction firtoz/trellis – Replicate](https://replicate.com/p/vsp1ay5ckhrj00cpmq9a4xs178)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## Generar un vídeo a partir de una imagen
 
 ![image.png](../assets/image_1746539556121_0.png)
 [Prediction kwaivgi/kling-v2.0 – Replicate](https://replicate.com/p/grvgemnyv5rm80cpmqc87ph2sc)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## Modificar una imagen con inpainting
 
 ![image.png](../assets/image_1746539661009_0.png)
 [Replicate playground - Compare models, rapidly prototype, and tweak and refine results.](https://replicate.com/playground/)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## Crear música de fondo
 
 Música medieval alegre española con mandolina
 [Prediction meta/musicgen – Replicate](https://replicate.com/p/n36ar9b1asrj20cpmqyvps4tx0)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## Crear canción a partir de música.
 
 [Prediction minimax/music-01 – Replicate](https://replicate.com/p/v3vgpgmz3srme0cpmr09kyc6bc)
   </textarea>
+  
 </section>
 <section data-markdown data-separator-notes="^Note:">
+  
+    <div class="slide-header" style="width: 100%;">
+      <img src="header.png" alt="Header" class="header-image" />
+    </div>
   <textarea data-template>
 ## Automatización de creación de imágenes
 
 Consideraciones éticas ilegales de la generación de imágenes con IA.
 Sesgos en la generación de imágenes con IA.
   </textarea>
+  
 </section>
     </div>
   </div>
@@ -677,7 +969,7 @@ Sesgos en la generación de imágenes con IA.
       margin: 0.1,
       minScale: 0.2,
       maxScale: 2,
-      transition: 'zoom',
+      transition: 'slide',
       transitionSpeed: 'default',
       backgroundTransition: 'fade',
       viewDistance: 3,

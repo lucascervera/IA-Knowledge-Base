@@ -24,7 +24,6 @@ public:: false
 			- **Replicate**: [https://www.replicate.com/](https://www.replicate.com/)
 			- **Pinokio**: [https://pinokio.computer/](https://pinokio.computer/)
 - ## Casos de uso inteligencia artificial para imagen y vídeo
-  collapsed:: true
 	- Actualización de películas con IA #innovación #inteligenciaartificial #video - YouTube {{video https://www.youtube.com/watch?v=wVH1GcpcNFg}}
 		- @misc{ai_2024, title={Luma Dream Machine}, url={[https://lumalabs.ai/dream-machine](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdQN2JwbTlYcllaY2tlU0hlVHY2TjI3LWlxQXxBQ3Jtc0traERQcmRZVl9fWDJyampYcThaYWNsM1VabE5NY2p6RUVjZFVkZVRYN1F2SnlpclEySkhyT2ZKWEJWYnJFM1VjcWpuRUhWeC1UaTJhUTM1Y1RQd0hSX2htWVVobGNyU1VKWHN5cjdpT25KdHg0bXZjYw&q=https%3A%2F%2Flumalabs.ai%2Fdream-machine&v=wVH1GcpcNFg)}, journal={Luma Dream Machine}, author={AI, Luma}, year={2024} }
 		- En un escenario hipotético de rodaje en 2024, escenas icónicas del cine como la de "Casablanca" serían capturadas en selfies para Instagram. La tecnología actual podría recrear videos de alta calidad a partir de una simple foto y un texto con instrucciones. Otras películas como "Con la muerte en los talones" y "Cantando bajo la lluvia" se adaptarían al uso de drones y al cambio climático, respectivamente.
@@ -271,7 +270,6 @@ public:: false
 		- Herramientas: [Vectorizer (Replicate)](https://replicate.com/blakeembrey/vectorizer), [Illustrator Image Trace](https://www.adobe.com/products/illustrator.html)
 		- enes
 - ## Ejemplos de funcionalidades
-  collapsed:: true
 	- ## Edición de imágenes con texto
 	  collapsed:: true
 		- ![lucas.png](../assets/lucas_1746534173278_0.png)
@@ -296,9 +294,9 @@ public:: false
 		- https://replicate.delivery/xezq/UHCl3UGbh1qFIhMDT56GQzfRoeCSeFWLMdCZfOPIi3cXwsnSB/f86fb2ee-2a75-11f0-b7bd-967147130beb.png
 		- ## Ampliar una imagen
 	- [Prediction fermatresearch/magic-image-refiner – Replicate](https://replicate.com/p/czp02tmgx1rme0cpmpfawz56pr)
-		- ## Mejorar una imagen
-			- Elimina el borde negro que hay alrededor del personaje para que el personaje quede integrado con el fondo. Ponle un casco medieval.
-			- ![ChatGPT Image 6 may 2025, 14_57_08.png](../assets/ChatGPT_Image_6_may_2025,_14_57_08_1746536276518_0.png)
+	- ## Mejorar una imagen
+		- Elimina el borde negro que hay alrededor del personaje para que el personaje quede integrado con el fondo. Ponle un casco medieval.
+		- ![ChatGPT Image 6 may 2025, 14_57_08.png](../assets/ChatGPT_Image_6_may_2025,_14_57_08_1746536276518_0.png)
 	- ## Describir una imagen contexto
 	  collapsed:: true
 		- The image features a man wearing a medieval helmet and a brown shirt, standing in a hallway. He is smiling and appears to be posing for the picture. The setting suggests that the man is dressed in a historical costume, possibly representing a knight or a character from a medieval period.
