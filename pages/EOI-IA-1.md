@@ -51,7 +51,6 @@ public:: false
 	- Avatar creado con inteligencia artificial - YouTube {{video https://www.youtube.com/watch?v=vOPX3UYZJEQ}}
 	- Crea vídeos con una foto y un texto con vidu.estudio #innovación #inteligenciaartificial #vídeo - YouTube {{video https://www.youtube.com/watch?v=vw13hKt1xPU&t=9s}}
 	- Imagen a texto con Inteligencia Artificial #innovacion #IA - YouTube {{video https://www.youtube.com/watch?v=Es65cvCrw6k}}
-- Casos de uso inteligencia artificial para imagen y vídeo
 - ## Funcionalidades de la inteligencia artificial para la generación de imagen
   collapsed:: true
 	- ## 🎨 Creación de imágenes a partir de prompts de texto
@@ -283,6 +282,7 @@ public:: false
 	  collapsed:: true
 		- ![Voz Lucas.wav](../assets/Voz_Lucas_1746533625745_0.wav)
 	- [minimax/voice-cloning – Run with an API on Replicate](https://replicate.com/minimax/voice-cloning)
+	  collapsed:: true
 		- voice_id: R8_XZHESM8J
 	- [minimax/speech-02-turbo – Run with an API on Replicate](https://replicate.com/minimax/speech-02-turbo?prediction=b22xgy0jqhrme0cpmp5940crkm)
 	- ## Cambiar el fondo de una imagen
