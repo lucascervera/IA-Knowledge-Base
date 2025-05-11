@@ -1,1 +1,2 @@
 - A video generation tool that, from video clips, generates a list of video clips and allows you to customize the style of each video clip and cut it, and it puts video effects.
+	-
