@@ -58,14 +58,14 @@
 			- Purpose Continuous improvement through lean cycles to refine prototypes, optimize features, and prepare for pilot launch
 			- Deliverable Refined Prototype & Next Steps Plan outlining final mock-ups and a roadmap for scaling
 	- # Integration with Best-Practice Methodologies
+		- 24 Steps of Disciplined Entrepreneurship
+			- End-to-end framework for building a scalable venture from idea to launch
 		- Lean Startup
 			- Build–Measure–Learn cycles emphasizing quick experiments and data-driven decisions
+		- Running Lean
+			- Rapid hypothesis validation to align teams on assumptions, risks, and metrics
 		- Design Thinking
 			- Empathize → Define → Ideate → Prototype → Test for human-centered solutions
-		- Jobs to Be Done
-			- Focus on the underlying “job” customers hire your solution to do
-		- Running Lean Rapid hypothesis validation to align teams on assumptions, risks, and metrics
-		- 24 Steps of Disciplined Entrepreneurship End-to-end framework for building a scalable venture from idea to launch
 	- # Client Acquisition Channels
 		- LinkedIn Thought leadership posts and short-form videos with weekly deep-dives on innovation topics
 		- YouTube Educational tutorial series (5–10 minute episodes) breaking down each methodological phase
