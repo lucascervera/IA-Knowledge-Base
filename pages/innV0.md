@@ -2,13 +2,16 @@
 	- # Hero Section
 		- #headline “A Clear Path to Innovation”
 		- #subheadline Structured methodology to guide you from zero to validated prototype
-		- #call_to_action “Schedule a Free Consultation” Prominent button prompting users to book a no-cost kickoff session and learn how the methodology fits their needs
+		- #call_to_action “Schedule a Free Consultation”
 	- # Value Proposition
 		- #offer “A step-by-step innovation framework” We provide a repeatable, proven sequence of phases so you never wonder what to tackle next
 		- #phases
-			- Identification Systematically uncover unmet needs, market gaps, and strategic opportunities
-			- Evaluation & Ranking Score ideas against real-world criteria (feasibility, impact, effort) to prioritize the most promising
-			- Prototyping Build low-fidelity mock-ups that allow fast learning without heavy investment
+			- Identification
+				- Systematically uncover unmet needs, market gaps, and strategic opportunities
+			- Evaluation & Ranking
+				- Score ideas against real-world criteria (feasibility, impact, effort) to prioritize the most promising
+			- Prototyping
+				- Build low-fidelity mock-ups that allow fast learning without heavy investment
 			- Validation Test prototypes with actual users or stakeholders and collect actionable feedback
 			- Iteration & Refinement Apply insights to enhance the solution, reduce risk, and prepare for scaling
 		- #problem_solved Eliminates “Where do we start?” by providing a proven roadmap that addresses the common paralysis in early innovation
