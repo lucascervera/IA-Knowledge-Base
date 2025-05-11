@@ -31,12 +31,14 @@
 			- Guided workshops Live or virtual sessions led by our innovation coaches to deepen learning and collaboration
 		- Outputs Tangible deliverables like opportunity maps, idea scorecards, prototype schematics, and user-test summaries
 	- # Content Delivery
+	  collapsed:: true
 		- Educational Content
 			- Pre-session short clips (3–5 minutes) explaining core concepts, best practices, and case studies
 			- One-page briefs summarizing definitions, frameworks, and activity instructions
 		- Purpose
 			- Ensure clients grasp concepts before activities to maximize workshop efficiency with a shared vocabulary
 	- # Process Flow
+	  collapsed:: true
 		- Self-Diagnostic (AI-Guided)
 			- Method Online chatbot questionnaire that assesses current innovation capabilities and mindset
 			- Focus Measures risk tolerance, leadership buy-in, resource allocation, failure mindset, etc., and generates a personalized report highlighting strengths and gaps
@@ -56,9 +58,12 @@
 			- Purpose Continuous improvement through lean cycles to refine prototypes, optimize features, and prepare for pilot launch
 			- Deliverable Refined Prototype & Next Steps Plan outlining final mock-ups and a roadmap for scaling
 	- # Integration with Best-Practice Methodologies
-		- Lean Startup Build–Measure–Learn cycles emphasizing quick experiments and data-driven decisions
-		- Design Thinking Empathize → Define → Ideate → Prototype → Test for human-centered solutions
-		- Jobs to Be Done Focus on the underlying “job” customers hire your solution to do
+		- Lean Startup
+			- Build–Measure–Learn cycles emphasizing quick experiments and data-driven decisions
+		- Design Thinking
+			- Empathize → Define → Ideate → Prototype → Test for human-centered solutions
+		- Jobs to Be Done
+			- Focus on the underlying “job” customers hire your solution to do
 		- Running Lean Rapid hypothesis validation to align teams on assumptions, risks, and metrics
 		- 24 Steps of Disciplined Entrepreneurship End-to-end framework for building a scalable venture from idea to launch
 	- # Client Acquisition Channels
