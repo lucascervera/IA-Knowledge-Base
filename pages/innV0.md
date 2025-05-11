@@ -77,7 +77,8 @@
 			- Builds client capability through guided autonomy and learning
 	- # Case Example
 		- ### Mid-Sized Event Company (40 Employees)
-		- Profile Overwhelmed with manual processes yet eager to innovate without derailing operations
+		- Profile
+			- Overwhelmed with manual processes yet eager to innovate without derailing operations
 		- Application Steps
 			- AI Self-Diagnostic Chatbot identifies lack of formal process and moderate risk aversion
 			- Initial Diagnosis Workshop uncovers scheduling chaos and manual speaker coordination
@@ -87,9 +88,6 @@
 			- Iterations Refines UI elements and workflow logic; simplifies onboarding steps
 			- Outcome Pilot tool saves 30 % of planning time and increases on-time communications by 80 %
 		- Insights Leadership will fund full rollout after seeing pilot ROI and show openness to external tech partnerships, preferring small-scale pilots before enterprise-wide changes
-	- # Next Steps / Footer CTA
-		- “Get Your Free Innovation Self-Diagnostic” Link to AI chatbot for immediate assessment
-		- Embedded contact form & calendar widget for instant booking
 - ## innV0 metodología de innovación
   collapsed:: true
 	- **Propuesta de Valor:** La empresa ofrecerá una metodología estructurada para guiar a otras compañías en las fases iniciales de la innovación (identificación, evaluación, ranking, prototipado y validación), resolviendo su problema de no saber por dónde empezar a innovar y ofreciendo un camino claro para dar los primeros pasos.
