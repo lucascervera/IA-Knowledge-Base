@@ -75,7 +75,8 @@
 			- Mitigation Test assumptions early to reduce costly missteps
 		- Empowerment
 			- Builds client capability through guided autonomy and learning
-	- # Case Study: Mid-Sized Event Company (40 Employees)
+	- # Case Example
+		- ### Mid-Sized Event Company (40 Employees)
 		- Profile Overwhelmed with manual processes yet eager to innovate without derailing operations
 		- Application Steps
 			- AI Self-Diagnostic Chatbot identifies lack of formal process and moderate risk aversion
