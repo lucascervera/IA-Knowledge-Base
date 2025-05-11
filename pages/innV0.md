@@ -4,6 +4,7 @@
 		- #subheadline Structured methodology to guide you from zero to validated prototype
 		- #call_to_action “Schedule a Free Consultation”
 	- # Value Proposition
+		- #problem_solved Eliminates “Where do we start?” by providing a proven roadmap that addresses the common paralysis in early innovation
 		- #offer “A step-by-step innovation framework” We provide a repeatable, proven sequence of phases so you never wonder what to tackle next
 		- #phases
 			- Identification
@@ -16,12 +17,13 @@
 				- Test prototypes with actual users or stakeholders and collect actionable feedback
 			- Iteration & Refinement
 				- Apply insights to enhance the solution, reduce risk, and prepare for deployment and scaling
-		- #problem_solved Eliminates “Where do we start?” by providing a proven roadmap that addresses the common paralysis in early innovation
 	- # Ideal Clients
+	  collapsed:: true
 		- Allocated innovation budget Companies that have dedicated funding for R&D or innovation initiatives
 		- Awareness of the need to innovate Teams that recognize stagnation risks and are motivated to adopt new approaches
 		- No established innovation process Organizations lacking internal frameworks, templates, or experience to systematically innovate
 	- # Solution Structure
+	  collapsed:: true
 		- Modular Work Units Self-contained building blocks you can plug into existing workflows or run as standalone sprints
 		- Inputs Key documents, concepts, and tools such as strategic plans, customer personas, and ideation templates
 		- Tasks
@@ -29,8 +31,10 @@
 			- Guided workshops Live or virtual sessions led by our innovation coaches to deepen learning and collaboration
 		- Outputs Tangible deliverables like opportunity maps, idea scorecards, prototype schematics, and user-test summaries
 	- # Content Delivery
-		- Educational Videos Pre-session short clips (3–5 minutes) explaining core concepts, best practices, and case studies
-		- Written Primers One-page briefs summarizing definitions, frameworks, and activity instructions
+		- Educational Videos
+			- Pre-session short clips (3–5 minutes) explaining core concepts, best practices, and case studies
+		- Written Primers
+			- One-page briefs summarizing definitions, frameworks, and activity instructions
 		- Purpose Ensure clients grasp concepts before activities to maximize workshop efficiency with a shared vocabulary
 	- # Process Flow
 		- Self-Diagnostic (AI-Guided)
