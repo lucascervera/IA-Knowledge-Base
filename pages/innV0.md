@@ -1,4 +1,5 @@
 ## Web
+collapsed:: true
 	- # Innovation starts with the right vision
 	  
 	  We help companies identify and implement high-impact innovation opportunities with minimal effort.
@@ -76,3 +77,25 @@
 	- ### Process Optimization in Manufacturing
 	  
 	  We helped a manufacturing company identify bottlenecks and implement digital tools that increased production efficiency by 32%.
+- metodología de innovación y su modelo de negocio:
+- **Propuesta de Valor:** La empresa ofrecerá una metodología estructurada para guiar a otras compañías en las fases iniciales de la innovación (identificación, evaluación, ranking, prototipado y validación), resolviendo su problema de no saber por dónde empezar a innovar y ofreciendo un camino claro para dar los primeros pasos.
+- **Clientes Ideales:** El servicio se dirige a empresas que ya han decidido invertir en innovación, tienen un presupuesto asignado, son conscientes de la necesidad de innovar para no quedarse atrás, pero carecen de un proceso o conocimiento para iniciar el camino.
+- **Estructura de la Solución:** La metodología se organiza en "unidades de trabajo" modulares. Cada unidad está definida por *inputs* necesarios (documentos, conceptos clave, herramientas), *tareas* o pasos a seguir por el cliente (a veces de forma autónoma, a veces guiada) y *outputs* concretos y tangibles.
+- **Entrega de Contenido:** Un componente clave de la metodología es la provisión de contenido educativo (principalmente videos, también texto) previo a las sesiones o actividades autónomas. Esto asegura que el cliente entienda los conceptos relevantes antes de aplicarlos, optimizando el tiempo y facilitando la comprensión.
+- **Secuencia de Unidades de Trabajo Propuesta:** Una posible secuencia lógica para la metodología incluye las siguientes unidades:
+	- **Diagnóstico Inicial:** Identificación de la situación actual y áreas de oportunidad.
+	- **Generación y Evaluación de Ideas:** Proceso para idear y seleccionar las oportunidades más prometedoras.
+	- **Conceptualización de Prototipos:** Diseño inicial de soluciones basadas en las ideas seleccionadas.
+	- **Validación y Feedback:** Prueba de los prototipos con usuarios para recopilar información.
+	- **Iteración y Refinamiento:** Ajuste de los prototipos basado en el feedback recibido.
+- **Integración con Metodologías Existentes:** La secuencia de unidades de trabajo incorpora principios y conceptos de metodologías de innovación reconocidas, tales como:
+	- **Lean Startup:** Ciclo Construir-Medir-Aprender, iteración rápida.
+	- **Design Thinking:** Etapas de empatizar, definir, idear, prototipar y testear.
+	- **Jobs to Be Done:** Enfoque en comprender las necesidades y motivaciones del cliente.
+	- **Running Lean:** Validación rápida de hipótesis.
+	- **Los 24 Pasos del Emprendimiento Disciplinado:** Marco para construir un negocio desde la idea.
+- **Canales de Adquisición de Clientes:** Se plantea el uso de canales digitales, principalmente generación de contenido relevante (videos, artículos) en plataformas como LinkedIn y YouTube, para educar a la audiencia y ganar visibilidad.
+- **Comercialización (Página Web):** Para vender la metodología online, se recomienda presentar la propuesta de valor de forma destacada, visualizar la secuencia de unidades de trabajo como un recorrido claro, incluir testimonios, ofrecer contenido educativo gratuito, definir modelos de pricing claros y usar llamadas a la acción concisas (ej. agendar consulta).
+- **Mensajes Clave para la Web:** La comunicación debe centrarse en la transformación que ofrece la metodología, su estructura clara y efectiva, la reducción de riesgos, la aceleración de resultados, la adaptabilidad, y el valor del contenido preparatorio.
+- **Punto de Inicio de la Metodología:** La metodología comenzará con una sesión de autodiagnóstico, guiada por un chat de Inteligencia Artificial, utilizando un cuestionario para evaluar la actitud de la empresa hacia la innovación. Las preguntas explorarán la reacción al fracaso, la disposición a invertir, la frecuencia de revisión de estrategias, la importancia de la experimentación, el compromiso del liderazgo, la asignación de recursos, las métricas de éxito, la apertura a colaboración externa/tecnologías, y la tolerancia al riesgo.
+- **Aplicación a un Caso Concreto (Empresa de Eventos):** Para una empresa mediana (40 empleados) de organización de eventos, desbordada pero consciente de la necesidad de innovar, la metodología se aplicaría secuencialmente: iniciando con el autodiagnóstico con IA, seguido del diagnóstico inicial, generando ideas enfocadas en mejorar eficiencia y servicio, evaluando y priorizando, prototipando soluciones piloto (ej. automatización, gestión de ponentes), validando con clientes, iterando y refinando, para luego implementar y fomentar una cultura de innovación continua. Sus respuestas típicas al diagnóstico mostrarían una conciencia de la necesidad, apertura a invertir/colaborar si se justifica, falta de procesos formales pero interés en implementarlos, y una preferencia por empezar con proyectos piloto.
