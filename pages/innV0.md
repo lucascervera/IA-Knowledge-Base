@@ -31,11 +31,11 @@
 			- Guided workshops Live or virtual sessions led by our innovation coaches to deepen learning and collaboration
 		- Outputs Tangible deliverables like opportunity maps, idea scorecards, prototype schematics, and user-test summaries
 	- # Content Delivery
-		- Educational Videos
+		- Educational Content
 			- Pre-session short clips (3–5 minutes) explaining core concepts, best practices, and case studies
-		- Written Primers
 			- One-page briefs summarizing definitions, frameworks, and activity instructions
-		- Purpose Ensure clients grasp concepts before activities to maximize workshop efficiency with a shared vocabulary
+		- Purpose
+			- Ensure clients grasp concepts before activities to maximize workshop efficiency with a shared vocabulary
 	- # Process Flow
 		- Self-Diagnostic (AI-Guided)
 			- Method Online chatbot questionnaire that assesses current innovation capabilities and mindset
