@@ -1,4 +1,6 @@
 - A video generation tool that, from video clips, generates a list of video clips and allows you to customize the style of each video clip and cut it, and it puts video effects.
 	- ## Video name
 		- ![2025-05-11_09-40-08.mp4](../assets/2025-05-11_09-40-08_1746949237958_0.mp4)
-		-
+-
+-
+-
