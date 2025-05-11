@@ -1,82 +1,92 @@
 ## Web
-collapsed:: true
-	- # Innovation starts with the right vision
-	  
-	  We help companies identify and implement high-impact innovation opportunities with minimal effort.
-	  
-	  [Learn More](https://bolt.new/~/sb1-fuxv2sgb#what-we-do) | [Contact Us](https://bolt.new/~/sb1-fuxv2sgb#contact)
-	- ## What We Do
-	  
-	  We specialize in the first step of the innovation process: generating and analyzing innovative ideas and evaluating their viability. Our approach focuses on identifying clear and concrete opportunities that can generate value quickly and efficiently.
-	- ### Our Services
-	- #### Innovation Assessment
-	  
-	  We help you identify if your innovation ideas have real potential for your business.
-	- #### Process Optimization
-	  
-	  We identify opportunities to improve your current processes using emerging technologies.
-	- #### AI Integration
-	  
-	  We help you implement artificial intelligence solutions that generate real value.
-	- #### Innovation Roadmap
-	  
-	  We create clear action plans to implement innovation initiatives efficiently.
-	- ### Our Approach
-	- #### Focus on "Low Hanging Fruit"
-	  
-	  We specialize in identifying opportunities that are easy to implement and can have a big impact. Often, these come from using existing and accessible technologies like artificial intelligence and other digital tools.
-	- #### The Pareto Principle in Innovation
-	  
-	  With 20% of the effort, you can achieve 80% of the potential value. Your company likely has several obvious improvement opportunities that can significantly enhance efficiency or better meet customer needs through new technologies and tools.
-	- ## How We Do It
-	  
-	  Our agile and simple methodology is based on three elements:
-	- Video conference sessions with the team responsible for the area to be improved.
-	- Structured work between sessions, where we apply customized analytical tools and frameworks.
-	- Final report with key insights, including current situation diagnosis, project viability, technology recommendations, necessary process changes, and an action plan proposal.
-	- ### Version 0 Program
-	  
-	  As a first step, we propose participating in our Version 0 Program. It's an agile intervention that requires only a few hours from the team involved. The goal is to analyze a specific improvement idea and provide:
-	- A quick validation of its viability
-	- Clear recommendations on what to do next
-	- Possible implementation paths: with your internal team, hiring external support, or a combination of both
-	- ## Common Use Cases
-	- Improve current processes and increase efficiency
-	- Detect new product or service lines
-	- Incorporate emerging technologies in an agile way
-	- Start doing things that were previously unfeasible
-	- ## Who We Are
-	  
-	  A team of innovation experts passionate about helping businesses transform ideas into informed decisions.
-	- ### Our Team
-	- #### Alex Martínez
-	  
-	  *Founder & Innovation Strategist*
-	  
-	  With over 15 years of experience in digital transformation, Alex has helped dozens of companies implement innovative solutions.
-	- #### Sofía Rodríguez
-	  
-	  *AI Implementation Specialist*
-	  
-	  Sofía specializes in making artificial intelligence accessible and practical for businesses of all sizes.
-	- #### Daniel Kim
-	  
-	  *Process Optimization Expert*
-	  
-	  Daniel has a background in industrial engineering and helps companies streamline their operations for maximum efficiency.
-	- ### Internal Lab: innv0 Lab
-	  
-	  In addition to working with clients, we have an internal area called innv0 Lab, where we test and validate our own methodology on our own ideas and products. This allows us to iterate, continuously improve, and ensure that what we offer is tested in practice.
-	- ## Our Projects
-	- ### AI-Enhanced Customer Service
-	  
-	  We helped a retail company improve their customer service by implementing an AI chatbot that handled 78% of routine inquiries.
-	- ### Data Analysis Automation
-	  
-	  We developed a solution that automated data analysis for a financial services firm, reducing report generation time by 85%.
-	- ### Process Optimization in Manufacturing
-	  
-	  We helped a manufacturing company identify bottlenecks and implement digital tools that increased production efficiency by 32%.
+	- # Hero Section
+		- #headline “A Clear Path to Innovation” A bold, benefit-driven statement that immediately tells visitors they’ll gain a structured roadmap to go from idea to validated prototype
+		- #subheadline Structured methodology to guide you from zero to validated prototype A concise phrase reinforcing the promise of guidance across all essential innovation stages
+		- #call_to_action “Schedule a Free Consultation” Prominent button prompting users to book a no-cost kickoff session and learn how the methodology fits their needs
+	- # Value Proposition
+		- #offer “A step-by-step innovation framework” We provide a repeatable, proven sequence of phases so you never wonder what to tackle next
+		- #phases
+			- Identification Systematically uncover unmet needs, market gaps, and strategic opportunities
+			- Evaluation & Ranking Score ideas against real-world criteria (feasibility, impact, effort) to prioritize the most promising
+			- Prototyping Build low-fidelity mock-ups that allow fast learning without heavy investment
+			- Validation Test prototypes with actual users or stakeholders and collect actionable feedback
+			- Iteration & Refinement Apply insights to enhance the solution, reduce risk, and prepare for scaling
+		- #problem_solved Eliminates “Where do we start?” by providing a proven roadmap that addresses the common paralysis in early innovation
+	- # Ideal Clients
+		- Allocated innovation budget Companies that have dedicated funding for R&D or innovation initiatives
+		- Awareness of the need to innovate Teams that recognize stagnation risks and are motivated to adopt new approaches
+		- No established innovation process Organizations lacking internal frameworks, templates, or experience to systematically innovate
+	- # Solution Structure
+		- Modular Work Units Self-contained building blocks you can plug into existing workflows or run as standalone sprints
+		- Inputs Key documents, concepts, and tools such as strategic plans, customer personas, and ideation templates
+		- Tasks
+			- Autonomous exercises Pre-recorded videos and guided worksheets for self-paced work
+			- Guided workshops Live or virtual sessions led by our innovation coaches to deepen learning and collaboration
+		- Outputs Tangible deliverables like opportunity maps, idea scorecards, prototype schematics, and user-test summaries
+	- # Content Delivery
+		- Educational Videos Pre-session short clips (3–5 minutes) explaining core concepts, best practices, and case studies
+		- Written Primers One-page briefs summarizing definitions, frameworks, and activity instructions
+		- Purpose Ensure clients grasp concepts before activities to maximize workshop efficiency with a shared vocabulary
+	- # Process Flow
+		- Self-Diagnostic (AI-Guided)
+			- Method Online chatbot questionnaire that assesses current innovation capabilities and mindset
+			- Focus Measures risk tolerance, leadership buy-in, resource allocation, failure mindset, etc., and generates a personalized report highlighting strengths and gaps
+		- Initial Diagnosis
+			- Method Facilitated discovery session where stakeholders map out existing processes, pain points, and potential quick wins
+			- Deliverable Current State & Opportunity Map – a visual chart showing high-impact areas to address first
+		- Idea Generation & Evaluation
+			- Activities Guided brainstorming (e.g., SCAMPER, How-Might-We) followed by weighted scoring of ideas
+			- Deliverable Ranked Idea Backlog with rationale and estimated benefits for each concept
+		- Prototype Conceptualization
+			- Method Rapid design sprint to sketch, decide, and storyboard key features
+			- Deliverables Low-fidelity mock-ups and user journey sketches to illustrate core experiences
+		- Validation & Feedback
+			- Activities User interviews and usability tests to capture quantitative and qualitative data
+			- Deliverable Feedback & Insights Report with actionable recommendations on improvements, pivots, or eliminations
+		- Iteration & Refinement
+			- Purpose Continuous improvement through lean cycles to refine prototypes, optimize features, and prepare for pilot launch
+			- Deliverable Refined Prototype & Next Steps Plan outlining final mock-ups and a roadmap for scaling
+	- # Integration with Best-Practice Methodologies
+		- Lean Startup Build–Measure–Learn cycles emphasizing quick experiments and data-driven decisions
+		- Design Thinking Empathize → Define → Ideate → Prototype → Test for human-centered solutions
+		- Jobs to Be Done Focus on the underlying “job” customers hire your solution to do
+		- Running Lean Rapid hypothesis validation to align teams on assumptions, risks, and metrics
+		- 24 Steps of Disciplined Entrepreneurship End-to-end framework for building a scalable venture from idea to launch
+	- # Client Acquisition Channels
+		- LinkedIn Thought leadership posts and short-form videos with weekly deep-dives on innovation topics
+		- YouTube Educational tutorial series (5–10 minute episodes) breaking down each methodological phase
+		- Webinars & Case Studies Live Q&A sessions and downloadable whitepapers showcasing client ROI
+	- # Single-Page Website Blueprint
+		- Hero & CTA Visual banner with headline, subheadline, and primary consultation button
+		- Value Proposition Brief copy plus icon set illustrating the five core phases
+		- How It Works Interactive flowchart of modular units where hover reveals inputs, tasks, and outputs
+		- Methodology Foundations Logos and one-sentence blurbs on Lean Startup, Design Thinking, etc.
+		- Educational Content Preview Embedded video thumbnails and “Download Primer” links
+		- Pricing Models Three clear tiers (Lite / Pro / Enterprise) with feature comparisons
+		- Testimonials & Success Stories Rotating quotes, star ratings, and client logos
+		- Case Study Spotlight Highlight of the Event Company project with achieved metrics and learnings
+		- FAQ Accordion UI answering the top ten most common questions
+		- Final CTA Restated benefit and “Start Your Innovation Journey” button anchored to form
+	- # Key Messages & Benefits
+		- Clarity Defined path eradicates confusion and aligns teams
+		- Speed Jump from zero to prototype in weeks, not months
+		- Risk Mitigation Test assumptions early to reduce costly missteps
+		- Adaptability Modular units scale from small teams to large enterprises
+		- Empowerment Builds client capability through guided autonomy and learning
+	- # Case Study: Mid-Sized Event Company (40 Employees)
+		- Profile Overwhelmed with manual processes yet eager to innovate without derailing operations
+		- Application Steps
+			- AI Self-Diagnostic Chatbot identifies lack of formal process and moderate risk aversion
+			- Initial Diagnosis Workshop uncovers scheduling chaos and manual speaker coordination
+			- Idea Workshop Generates concepts like speaker-management dashboard and email automation
+			- Prototype Sprint Designs wireframes for dashboard and automated flow in one day
+			- Validation Conducts usability tests with staff and a pilot cohort of attendees, gathering NPS and task-completion data
+			- Iterations Refines UI elements and workflow logic; simplifies onboarding steps
+			- Outcome Pilot tool saves 30 % of planning time and increases on-time communications by 80 %
+		- Insights Leadership will fund full rollout after seeing pilot ROI and show openness to external tech partnerships, preferring small-scale pilots before enterprise-wide changes
+	- # Next Steps / Footer CTA
+		- “Get Your Free Innovation Self-Diagnostic” Link to AI chatbot for immediate assessment
+		- Embedded contact form & calendar widget for instant booking
 - ## innV0 metodología de innovación
   collapsed:: true
 	- **Propuesta de Valor:** La empresa ofrecerá una metodología estructurada para guiar a otras compañías en las fases iniciales de la innovación (identificación, evaluación, ranking, prototipado y validación), resolviendo su problema de no saber por dónde empezar a innovar y ofreciendo un camino claro para dar los primeros pasos.
