@@ -73,8 +73,8 @@
 			- Jump from zero to prototype in weeks, not months
 		- Risk
 			- Mitigation Test assumptions early to reduce costly missteps
-		- Adaptability Modular units scale from small teams to large enterprises
-		- Empowerment Builds client capability through guided autonomy and learning
+		- Empowerment
+			- Builds client capability through guided autonomy and learning
 	- # Case Study: Mid-Sized Event Company (40 Employees)
 		- Profile Overwhelmed with manual processes yet eager to innovate without derailing operations
 		- Application Steps
