@@ -3,4 +3,5 @@
 		- ![2025-05-11_09-40-08.mp4](../assets/2025-05-11_09-40-08_1746949237958_0.mp4)
 -
 -
--
+- [Ruedas que giran en direccióin contraria con magnetismo #innovacion #impresión3D #ciencia](../assets/Ruedas_que_giran_en_direccióin_contraria_con_magnetismo_#innovacion_#impresión3D_#ciencia_1746950567697_0)
+	- file:///D%3A/Users/lucas/Documents/GitHub/IA-Knowledge-Base/assets/Ruedas_que_giran_en_direcci%C3%B3in_contraria_con_magnetismo_%23innovacion_%23impresi%C3%B3n3D_%23ciencia_1746950567697_0
