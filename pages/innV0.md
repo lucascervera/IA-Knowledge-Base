@@ -1,7 +1,7 @@
 ## Web
 	- # Hero Section
-		- #headline “A Clear Path to Innovation” A bold, benefit-driven statement that immediately tells visitors they’ll gain a structured roadmap to go from idea to validated prototype
-		- #subheadline Structured methodology to guide you from zero to validated prototype A concise phrase reinforcing the promise of guidance across all essential innovation stages
+		- #headline “A Clear Path to Innovation”
+		- #subheadline Structured methodology to guide you from zero to validated prototype
 		- #call_to_action “Schedule a Free Consultation” Prominent button prompting users to book a no-cost kickoff session and learn how the methodology fits their needs
 	- # Value Proposition
 		- #offer “A step-by-step innovation framework” We provide a repeatable, proven sequence of phases so you never wonder what to tackle next
