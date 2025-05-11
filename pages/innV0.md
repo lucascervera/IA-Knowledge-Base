@@ -66,25 +66,13 @@
 			- Rapid hypothesis validation to align teams on assumptions, risks, and metrics
 		- Design Thinking
 			- Empathize → Define → Ideate → Prototype → Test for human-centered solutions
-	- # Client Acquisition Channels
-		- LinkedIn Thought leadership posts and short-form videos with weekly deep-dives on innovation topics
-		- YouTube Educational tutorial series (5–10 minute episodes) breaking down each methodological phase
-		- Webinars & Case Studies Live Q&A sessions and downloadable whitepapers showcasing client ROI
-	- # Single-Page Website Blueprint
-		- Hero & CTA Visual banner with headline, subheadline, and primary consultation button
-		- Value Proposition Brief copy plus icon set illustrating the five core phases
-		- How It Works Interactive flowchart of modular units where hover reveals inputs, tasks, and outputs
-		- Methodology Foundations Logos and one-sentence blurbs on Lean Startup, Design Thinking, etc.
-		- Educational Content Preview Embedded video thumbnails and “Download Primer” links
-		- Pricing Models Three clear tiers (Lite / Pro / Enterprise) with feature comparisons
-		- Testimonials & Success Stories Rotating quotes, star ratings, and client logos
-		- Case Study Spotlight Highlight of the Event Company project with achieved metrics and learnings
-		- FAQ Accordion UI answering the top ten most common questions
-		- Final CTA Restated benefit and “Start Your Innovation Journey” button anchored to form
-	- # Key Messages & Benefits
-		- Clarity Defined path eradicates confusion and aligns teams
-		- Speed Jump from zero to prototype in weeks, not months
-		- Risk Mitigation Test assumptions early to reduce costly missteps
+	- # Key Benefits
+		- Clarity
+			- Defined path eradicates confusion and aligns teams
+		- Speed
+			- Jump from zero to prototype in weeks, not months
+		- Risk
+			- Mitigation Test assumptions early to reduce costly missteps
 		- Adaptability Modular units scale from small teams to large enterprises
 		- Empowerment Builds client capability through guided autonomy and learning
 	- # Case Study: Mid-Sized Event Company (40 Employees)
