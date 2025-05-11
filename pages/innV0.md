@@ -12,8 +12,10 @@
 				- Score ideas against real-world criteria (feasibility, impact, effort) to prioritize the most promising
 			- Prototyping
 				- Build low-fidelity mock-ups that allow fast learning without heavy investment
-			- Validation Test prototypes with actual users or stakeholders and collect actionable feedback
-			- Iteration & Refinement Apply insights to enhance the solution, reduce risk, and prepare for scaling
+			- Validation
+				- Test prototypes with actual users or stakeholders and collect actionable feedback
+			- Iteration & Refinement
+				- Apply insights to enhance the solution, reduce risk, and prepare for deployment and scaling
 		- #problem_solved Eliminates “Where do we start?” by providing a proven roadmap that addresses the common paralysis in early innovation
 	- # Ideal Clients
 		- Allocated innovation budget Companies that have dedicated funding for R&D or innovation initiatives
