@@ -93,7 +93,6 @@ public:: true
 			- Outcome Pilot tool saves 30 % of planning time and increases on-time communications by 80 %
 		- Insights Leadership will fund full rollout after seeing pilot ROI and show openness to external tech partnerships, preferring small-scale pilots before enterprise-wide changes
 - ## Marketing
-  collapsed:: true
 	- ### Logo
 		- ![ChatGPT Image 12 may 2025, 12_00_49.png](../assets/ChatGPT_Image_12_may_2025,_12_00_49_1747044057185_0.png)
 		- ![innV0_logo_web.png](../assets/innV0_logo_web_1747044912401_0.png)
