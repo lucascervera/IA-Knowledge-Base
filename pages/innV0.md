@@ -1,8 +1,9 @@
 ## innV0 labs
 	- ### md2slides
-	  platform::V
+	  platform::V0.dev
+		-
 	- ### Sent
-	-
+	- ### Slicing  th
 -
 - ## Web
   collapsed:: true
