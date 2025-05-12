@@ -91,7 +91,7 @@ collapsed:: true
 		- Insights Leadership will fund full rollout after seeing pilot ROI and show openness to external tech partnerships, preferring small-scale pilots before enterprise-wide changes
 - ## Marketing
 	- ### Logo
-		-
+		- ![ChatGPT Image 12 may 2025, 12_00_49.png](../assets/ChatGPT_Image_12_may_2025,_12_00_49_1747044057185_0.png)
 - ## innV0 metodología de innovación
   collapsed:: true
 	- **Propuesta de Valor:** La empresa ofrecerá una metodología estructurada para guiar a otras compañías en las fases iniciales de la innovación (identificación, evaluación, ranking, prototipado y validación), resolviendo su problema de no saber por dónde empezar a innovar y ofreciendo un camino claro para dar los primeros pasos.
