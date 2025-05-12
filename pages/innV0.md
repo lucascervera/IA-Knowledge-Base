@@ -1,9 +1,9 @@
 ## innV0 labs
 	- ### md2slides
 	  platform::V0.dev
-		-
+		- Una aplicación que transforma presentaciones en formato markdown en presentaciones con Reveal JS.
 	- ### Sent
-	- ### Slicing  th
+	- ### Slicing The Pie
 -
 - ## Web
   collapsed:: true
