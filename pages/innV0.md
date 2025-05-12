@@ -1,4 +1,5 @@
 ## Web
+collapsed:: true
 	- # Hero Section
 		- #headline “A Clear Path to Innovation”
 		- #subheadline Structured methodology to guide you from zero to validated prototype
@@ -93,6 +94,8 @@
 		- ![ChatGPT Image 12 may 2025, 12_00_49.png](../assets/ChatGPT_Image_12_may_2025,_12_00_49_1747044057185_0.png)
 		- ![innV0_logo_web.png](../assets/innV0_logo_web_1747044912401_0.png)
 		- ![innV0_logo_square.png](../assets/innV0_logo_square_1747044925008_0.png)
+	- ### Image style
+		- #prompt Imagen vectorial isométrica con tres tonos: blanco, gris y negro, sencilla, con el estilo moderno de ilustración moderno estilo notion que represente Personas profesionales que están trabajando sobre documentos, teniendo ideas representadas por bombillas, pinceles de diseño, elementos de un laboratorio moderno, como matraces y tubos de ensayo, y están en un laboratorio; algunos ya otros tienen traje, las personas, etcétera. Deben ser personajes más pequeños y trabajar con checks boxes pendientes y completados. Aparecen algunos personajes. Al menos 10 de cuerpo entero y estar cada uno haciendo una tarea y algunos trabajando de forma coordinada o trabajando en conjunto en diseño y laboratorio y experimentación.
 -
 - ## innV0 metodología de innovación
   collapsed:: true
