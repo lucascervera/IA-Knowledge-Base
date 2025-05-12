@@ -1,4 +1,5 @@
 ## Web
+collapsed:: true
 	- # Hero Section
 		- #headline “A Clear Path to Innovation”
 		- #subheadline Structured methodology to guide you from zero to validated prototype
@@ -88,6 +89,9 @@
 			- Iterations Refines UI elements and workflow logic; simplifies onboarding steps
 			- Outcome Pilot tool saves 30 % of planning time and increases on-time communications by 80 %
 		- Insights Leadership will fund full rollout after seeing pilot ROI and show openness to external tech partnerships, preferring small-scale pilots before enterprise-wide changes
+- ## Marketing
+	- ### Logo
+		-
 - ## innV0 metodología de innovación
   collapsed:: true
 	- **Propuesta de Valor:** La empresa ofrecerá una metodología estructurada para guiar a otras compañías en las fases iniciales de la innovación (identificación, evaluación, ranking, prototipado y validación), resolviendo su problema de no saber por dónde empezar a innovar y ofreciendo un camino claro para dar los primeros pasos.
