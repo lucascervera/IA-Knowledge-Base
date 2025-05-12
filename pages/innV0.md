@@ -1,4 +1,6 @@
-## innV0 labs
+public:: true
+
+- ## innV0 labs
 	- ### md2slides
 	  platform:: V0.dev
 	  link:: https://md2slides.innv0.com/
