@@ -92,7 +92,8 @@ collapsed:: true
 - ## Marketing
 	- ### Logo
 		- ![ChatGPT Image 12 may 2025, 12_00_49.png](../assets/ChatGPT_Image_12_may_2025,_12_00_49_1747044057185_0.png)
-		-
+		- ![innV0_logo_web.png](../assets/innV0_logo_web_1747044912401_0.png)
+		- ![innV0_logo_square.png](../assets/innV0_logo_square_1747044925008_0.png)
 -
 - ## innV0 metodología de innovación
   collapsed:: true
