@@ -1,7 +1,7 @@
 ## innV0 labs
 	- ### md2slides
 	  platform:: V0.dev
-	  link::
+	  link:: https://md2slides.innv0.com/
 		- Una aplicación que transforma documentos en formato markdown en presentaciones con diapositivas suficientemente decentes utilizando Reveal JS.
 	- ### Sent
 	- ### Slicing The Pie
