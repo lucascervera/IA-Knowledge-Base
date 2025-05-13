@@ -1,287 +1,162 @@
 ## Outline template
-	- [[AI Application Company Landing Page]] # Root Block
-	  title:: AI Application Company # From original <title>
-	  lang:: en # From original <html> tag
-		- ## Site Header # Section: Header
+	- [[Logseq Site Demo V2]]
+	  title:: My Enhanced Logseq Site
+	  lang:: en
+		- ## Main Navigation
 		  section_type:: header
-		  id:: site-header
-		  
-		  logo_text:: innV0 # From <h1>innV0</h1>
-			- Lab # Navigation link
-			  element_type:: link
-			  link_url:: ./innV0_logseq/published/#/page/innv0_labs # From <a> href
-			  link_target:: _blank # From <a> target
-		- ## Innovation Kick-off Program # Section: Hero
+		  logo_text:: MySiteLogo
+	- # Nav links are children of the header block
+		- Home
+		  element_type:: link
+		  link_url:: #hero-section
+		- Features
+		  element_type:: link
+		  link_url:: #features
+		- Projects
+		  element_type:: link
+		  link_url:: #our-projects
+		- About
+		  element_type:: link
+		  link_url:: #about-us
+		- Contact
+		  element_type:: link
+		  link_url:: #contact
+		- ## Welcome to Our Dynamic Site!
+		  id:: hero-section
 		  section_type:: hero
-	- # ID will be "innovation-kick-off-program" (inferred and sanitized from heading)
-	    image_src:: img/main.webp # From <img> src
-	    image_alt:: Innovation Kick-off Program illustration # Added descriptive alt text
-		- Innovation Kick-off Program # This text is the main title in the HTML Hero (H2).
-		  element_type:: title # Property indicates it's a title element.
-		- Structured methodology to guide you from zero to validated prototype # Paragraph in HTML Hero
+		  image_src:: /placeholder-hero-abstract.jpg 
+		  image_alt:: Colorful abstract waves background
+	- # Hero content elements are children of the hero section block
+		- #hero_title Next-Gen Web Experiences
+		  element_type:: title
+		- Transform your Logseq notes into stunning, interactive websites. Explore the future of content.
 		  element_type:: paragraph
-		- Contact # Button text
+		- Explore Features
 		  element_type:: button
-		  link_url:: mailto:lucas@lucascervera.com # From <a> href inside button
-		  link_target:: _blank # From <a> target
-		- ## Value Proposition # Section: Content Block (Image Left)
-		  section_type:: content_block
-	- # ID will be "value-proposition"
-	    layout:: image_left # From original HTML layout (image first)
-		- Image Column # Container for the image
-		  column:: image
-			- element_type:: image # Image element
-			  image_src:: img/1.webp # From <img> src
-			  image_alt:: Value Proposition Illustration # Added alt text
-		- Content Column # Container for text content
-		  column:: content
-			- ### Value Proposition # HTML H3
-			  element_type:: title # Inferred H3 from ###
-			- A step-by-step innovation framework: We provide a repeatable, proven sequence of phases so you never wonder what to tackle next # Paragraph with bolded span
-			  element_type:: paragraph
-			  highlight_first_sentence:: true # To make the first part bold
-		- ## Our Phases # Section: Timeline
-		  section_type:: timeline
-	- # ID will be "our-phases"
-	    section_title:: Our Phases # Central title based on the main ## heading
-	- # Introductory paragraph before timeline items in HTML
-	- # The original HTML didn't have introductory text here, it was in Process Flow. Let's keep the Process Flow structure for Process Flow.
-	- # This section is just the list of phases.
-	- # Each phase item in HTML is a timeline item in Logseq
-		- Identification # Title of Phase 1
-		  timeline_item:: true
-		  element_type:: item_title # Use item_title as defined in template
-			- Systematically uncover unmet needs, market gaps, and strategic opportunities. # Description of Phase 1
-			  element_type:: paragraph
-		- Evaluation & Ranking # Title of Phase 2
-		  timeline_item:: true
-		  element_type:: item_title
-			- Score ideas against real-world criteria (feasibility, impact, effort) to prioritize the most promising. # Description of Phase 2
-			  element_type:: paragraph
-		- Prototyping # Title of Phase 3
-		  timeline_item:: true
-		  element_type:: item_title
-			- Build low-fidelity mock-ups that allow fast learning without heavy investment. # Description of Phase 3
-			  element_type:: paragraph
-		- Validation # Title of Phase 4
-		  timeline_item:: true
-		  element_type:: item_title
-			- Test prototypes with actual users or stakeholders and collect actionable feedback. # Description of Phase 4
-			  element_type:: paragraph
-		- Deployment Plan # Title of Phase 5
-		  timeline_item:: true
-		  element_type:: item_title
-			- Apply insights to enhance the solution, reduce risk, and prepare for deployment and scaling. # Description of Phase 5
-			  element_type:: paragraph
-		- ## Solution Structure # Section: Content Block (Image Right)
-		  section_type:: content_block
-	- # ID will be "solution-structure"
-	    layout:: image_right # From original HTML layout (text first, then image)
-		- Content Column # Container for text content (lists)
-		  column:: content
-			- ### Solution Structure # HTML H3
-			  element_type:: title # Inferred H3 from ###
-			- Modular Work Units: Self-contained building blocks you can plug into existing workflows or run as standalone sprints # List item with bolded span
-			  element_type:: list_item
-			  highlight_first_sentence:: true
-			- Inputs: Key documents, concepts, and tools such as strategic plans, customer personas, and ideation templates # List item with bolded span
-			  element_type:: list_item
-			  highlight_first_sentence:: true
-			- Tasks: # List item with bolded span, contains a nested list
-			  element_type:: list_item
-			  highlight_first_sentence:: true
-	- # Nested list items
-		- Autonomous exercises: Pre-recorded videos and guided worksheets for self-paced work # Nested list item with bolded span
-		  element_type:: list_item # Or nested_list_item if needed by generator
-		  highlight_first_sentence:: true
-		- Guided workshops: Live or virtual sessions led by our innovation coaches to deepen learning and collaboration # Nested list item with bolded span
-		  element_type:: list_item # Or nested_list_item
-		  highlight_first_sentence:: true
-		- Outputs: Tangible deliverables like opportunity maps, idea scorecards, prototype schematics, and user-test summaries # List item with bolded span
-		  element_type:: list_item
-		  highlight_first_sentence:: true
-		- Image Column # Container for the image
-		  column:: image
-		- element_type:: image # Image element
-		  image_src:: img/2.webp # From <img> src
-		  image_alt:: Solution Structure Diagram # Added alt text
-		- ## Our Process Flow # Section: Timeline (Modified)
-		  section_type:: timeline # Using timeline type as it's sequential steps
-	- # ID will be "our-process-flow"
-	    section_title:: Our Process Flow # Central title from main ## heading
-		- We provide minimalist educational content to ensure clients grasp concepts before activities... # Introductory paragraph before timeline items
-		  element_type:: paragraph # This paragraph is a direct child of the section, before items
-	- # Each step in HTML is a timeline item in Logseq
-		- Self-Diagnostic (AI-Guided) # Title of Step 1
-		  timeline_item:: true
-		  element_type:: item_title
-			- Method: Online chatbot questionnaire that assesses current innovation capabilities and mindset # Description 1 (Method) with bolded span
-			  element_type:: paragraph
-			  highlight_first_sentence:: true
-			- Focus: Measures risk tolerance, leadership buy-in, resource allocation, failure mindset, etc., and generates a personalized report highlighting strengths and gaps # Description 2 (Focus) with bolded span
-			  element_type:: paragraph
-			  highlight_first_sentence:: true
-		- Initial Diagnosis # Title of Step 2 (Note: HTML reverses layout for this item)
-		  timeline_item:: true
-		  element_type:: item_title
-	- # Optional: Maybe add a property like item_layout:: reversed if the generator supports item-level layout variations in timeline
-	- # item_layout:: reversed # e.g., text on right
-		- Method: Facilitated discovery session where stakeholders map out existing processes, pain points, and potential quick wins # Description 1 (Method) with bolded span
-		  element_type:: paragraph
-		  highlight_first_sentence:: true
-		- Deliverable: Current State & Opportunity Map – a visual chart showing high-impact areas to address first # Description 2 (Deliverable) with bolded span
-		  element_type:: paragraph
-		  highlight_first_sentence:: true
-		- Idea Generation & Evaluation # Title of Step 3
-		  timeline_item:: true
-		  element_type:: item_title
-		- Activities: Guided brainstorming (e.g., SCAMPER, How-Might-We) followed by weighted scoring of ideas # Description 1 (Activities) with bolded span
-		  element_type:: paragraph
-		  highlight_first_sentence:: true
-		- Deliverable: Ranked Idea Backlog with rationale and estimated benefits for each concept # Description 2 (Deliverable) with bolded span
-		  element_type:: paragraph
-		  highlight_first_sentence:: true
-		- Prototype Conceptualization # Title of Step 4 (Note: HTML reverses layout)
-		  timeline_item:: true
-		  element_type:: item_title
-	- # item_layout:: reversed # e.g., text on right
-		- Method: Rapid design sprint to sketch, decide, and storyboard key features # Description 1 (Method) with bolded span
-		  element_type:: paragraph
-		  highlight_first_sentence:: true
-		- Deliverables: Low-fidelity mock-ups and user journey sketches to illustrate core experiences # Description 2 (Deliverable) with bolded span
-		  element_type:: paragraph
-		  highlight_first_sentence:: true
-		- Validation & Feedback # Title of Step 5
-		  timeline_item:: true
-		  element_type:: item_title
-		- Activities: User interviews and usability tests to capture quantitative and qualitative data # Description 1 (Activities) with bolded span
-		  element_type:: paragraph
-		  highlight_first_sentence:: true
-		- Deliverable: Feedback & Insights Report with actionable recommendations on improvements, pivots, or eliminations # Description 2 (Deliverable) with bolded span
-		  element_type:: paragraph
-		  highlight_first_sentence:: true
-		- Iteration & Refinement # Title of Step 6 (Note: HTML reverses layout)
-		  timeline_item:: true
-		  element_type:: item_title
-	- # item_layout:: reversed # e.g., text on right
-		- Purpose: Continuous improvement through lean cycles to refine prototypes, optimize features, and prepare for pilot launch # Description 1 (Purpose) with bolded span
-		  element_type:: paragraph
-		  highlight_first_sentence:: true
-		- Deliverable: Refined Prototype & Next Steps Plan outlining final mock-ups and a roadmap for scaling # Description 2 (Deliverable) with bolded span
-		  element_type:: paragraph
-		  highlight_first_sentence:: true
-		- ## Integration with Best-Practice Methodologies # Section: Content Block (Image Left)
-		  section_type:: content_block
-	- # ID will be "integration-with-best-practice-methodologies"
-	    layout:: image_left
-		- Image Column # Container for the image
-		  column:: image
-			- element_type:: image
-			  image_src:: img/3.webp # From <img> src
-			  image_alt:: Integration Diagram # Added alt text
-		- Content Column # Container for text content (list)
-		  column:: content
-			- ### Integration with Best-Practice Methodologies # HTML H3
-			  element_type:: title # Inferred H3
-			- 24 Steps of Disciplined Entrepreneurship: End-to-end framework for building a scalable venture from idea to launch # List item with bolded span
-			  element_type:: list_item
-			  highlight_first_sentence:: true
-			- Lean Startup: Build–Measure–Learn cycles emphasizing quick experiments and data-driven decisions # List item with bolded span
-			  element_type:: list_item
-			  highlight_first_sentence:: true
-			- Running Lean: Rapid hypothesis validation to align teams on assumptions, risks, and metrics # List item with bolded span
-			  element_type:: list_item
-			  highlight_first_sentence:: true
-			- Design Thinking: Empathize → Define → Ideate → Prototype → Test for human-centered solutions # List item with bolded span
-			  element_type:: list_item
-			  highlight_first_sentence:: true
-		- ## Key Benefits # Section: Content Block (Single Column)
-		  section_type:: content_block
-	- # ID will be "key-benefits"
-	- # No 'layout' property implies single column, centered text styling is typical for content_block without layout.
-	- # Original HTML had md:flex-row-reverse but no image, so interpreting as single column content block.
-		- ### Key Benefits # HTML H3
-		  element_type:: title # Inferred H3
-		- Clarity: Defined path eradicates confusion and aligns teams # List item with bolded span
-		  element_type:: list_item
-		  highlight_first_sentence:: true
-		- Speed: Jump from zero to prototype in weeks, not months # List item with bolded span
-		  element_type:: list_item
-		  highlight_first_sentence:: true
-		- Risk Mitigation: Test assumptions early to reduce costly missteps # List item with bolded span
-		  element_type:: list_item
-		  highlight_first_sentence:: true
-		- Empowerment: Builds client capability through guided autonomy and learning # List item with bolded span
-		  element_type:: list_item
-		  highlight_first_sentence:: true
-		- ## Clients # Section: List Block
+		  link_url:: #features
+		- ## Core Features
+		  id:: features
 		  section_type:: list_block
-	- # ID will be "clients"
-	    section_title:: Clients # Central title based on main ## heading
-		- Allocated innovation budget: Companies that have dedicated funding for R&D or innovation initiatives # List item with bolded span
+		  section_title:: What We Offer
+	- # List items are children
+		- **Intuitive Logseq Parsing:** Seamlessly convert outlines to structured HTML.
 		  element_type:: list_item
 		  highlight_first_sentence:: true
-		- Desire for structured innovation: Organizations looking for a clear process to manage their innovation efforts effectively. # List item with bolded span
+		- **Tailwind CSS Styling:** Modern, responsive designs built-in.
 		  element_type:: list_item
 		  highlight_first_sentence:: true
-		- Awareness of the need to innovate: Teams that recognize stagnation risks and are motivated to adopt new approaches # List item with bolded span
+		- **Flexible Section Types:** Headers, heroes, content, lists, projects, and footers.
 		  element_type:: list_item
 		  highlight_first_sentence:: true
-		- No established innovation process: Organizations lacking internal frameworks, templates, or experience to systematically innovate # List item with bolded span
+		- **Customizable Layouts:** Content blocks with image-left, image-right, or single-column.
 		  element_type:: list_item
 		  highlight_first_sentence:: true
-		- ## Case Example # Section: Content Block (Image Left)
+		- ## Our Projects
+		  id:: our-projects
+		  section_type:: projects
+		  section_title:: Discover Our Work
+	- # Project items are children of this block
+		- Project Innovate
+		  element_type:: project_item # Optional, can be inferred if direct child of 'projects'
+		  project_title:: Project Innovate # Overrides main content if present
+		  project_thumbnail_src:: /placeholder-project-tech.jpg
+		  project_thumbnail_alt:: Tech project abstract visual
+		  project_description:: A groundbreaking platform using AI to enhance productivity and streamline workflows for creative teams.
+		  project_link_url:: #
+		  project_link_text:: View Case Study
+		- EcoScapes Initiative
+		  element_type:: project_item
+		  project_title:: EcoScapes Initiative
+		  project_thumbnail_src:: /placeholder-project-nature.jpg
+		  project_thumbnail_alt:: Nature-inspired project visual
+		  project_description:: Developing sustainable solutions for urban green spaces, promoting biodiversity and community well-being.
+		  project_link_url:: #
+		  project_link_text:: Explore EcoScapes
+		- Artfolio Connect
+		  element_type:: project_item
+		  project_title:: Artfolio Connect
+		  project_thumbnail_src:: /placeholder-project-art.jpg
+		  project_thumbnail_alt:: Artistic project visual
+		  project_description:: A digital gallery and networking hub for emerging artists to showcase their work and connect with collectors.
+		  project_link_url:: #
+	- # project_link_text defaults to "View Project"
+		- QuantumLeap Analytics
+		  element_type:: project_item
+		  project_title:: QuantumLeap Analytics
+		  project_thumbnail_src:: /placeholder-project-data.jpg
+		  project_thumbnail_alt:: Data analytics project visual
+		  project_description:: Advanced data analytics tool providing deep insights for businesses to make informed decisions.
+		  project_link_url:: #
+		- Culinary Adventures App
+		  element_type:: project_item
+		  project_title:: Culinary Adventures App
+		  project_thumbnail_src:: /placeholder-project-food.jpg
+		  project_thumbnail_alt:: Food related project visual
+		  project_description:: An interactive mobile app for food lovers to discover new recipes, restaurants, and culinary events.
+		  project_link_url:: #
+		- SpaceVoyager VR
+		  element_type:: project_item
+		  project_title:: SpaceVoyager VR
+		  project_thumbnail_src:: /placeholder-project-space.jpg
+		  project_thumbnail_alt:: Space exploration project visual
+		  project_description:: A virtual reality experience that takes users on an immersive journey through our solar system and beyond.
+		  project_link_url:: #
+		- ## About Our Journey
+		  id:: about-us
 		  section_type:: content_block
-	- # ID will be "case-example"
-	    layout:: image_left
-		- Image Column # Container for the image
+		  layout:: image_left
+		  section_title:: The Story Behind Our Innovation
+	- # Columns are children
+		- Image Column
 		  column:: image
-			- element_type:: image
-			  image_src:: img/4.webp # From <img> src
-			  image_alt:: Case Example Illustration # Added alt text
-		- Content Column # Container for text content (headings, lists)
+			- ![Team discussing ideas](/placeholder-team-dynamic.jpg)
+			  element_type:: image 
+			  image_alt:: Diverse team brainstorming with enthusiasm
+		- Text Column
 		  column:: content
-			- ### Case Example # HTML H3
-			  element_type:: title # Inferred H3
-			- #### Mid-Sized Event Company (40 Employees) # HTML H4
-			  element_type:: title # Inferred H4
-			- Profile: Overwhelmed with manual processes yet eager to innovate without derailing operations # List item with bolded span
-			  element_type:: list_item
-			  highlight_first_sentence:: true
-			- Application Steps: # List item with bolded span, contains nested list
-			  element_type:: list_item
-			  highlight_first_sentence:: true
-	- # Nested list items
-		- AI Self-Diagnostic Chatbot identifies lack of formal process and moderate risk aversion # Nested list item with bolded span
-		  element_type:: list_item # Or nested_list_item
-		  highlight_first_sentence:: true
-		- Initial Diagnosis Workshop uncovers scheduling chaos and manual speaker coordination # Nested list item with bolded span
-		  element_type:: list_item # Or nested_list_item
-		  highlight_first_sentence:: true
-		- Idea Workshop Generates concepts like speaker-management dashboard and email automation # Nested list item with bolded span
-		  element_type:: list_item # Or nested_list_item
-		  highlight_first_sentence:: true
-		- Prototype Sprint Designs wireframes for dashboard and automated flow in one day # Nested list item with bolded span
-		  element_type:: list_item # Or nested_list_item
-		  highlight_first_sentence:: true
-		- Validation Conducts usability tests with staff and a pilot cohort of attendees, gathering NPS and task-completion data # Nested list item with bolded span
-		  element_type:: list_item # Or nested_list_item
-		  highlight_first_sentence:: true
-		- Iterations Refines UI elements and workflow logic; simplifies onboarding steps # Nested list item with bolded span
-		  element_type:: list_item # Or nested_list_item
-		  highlight_first_sentence:: true
-		- Outcome: Pilot tool saves 30 % of planning time and increases on-time communications by 80 % # List item with bolded span
-		  element_type:: list_item
-		  highlight_first_sentence:: true
-		- Insights: Leadership will fund full rollout after seeing pilot ROI and show openness to external tech partnerships, preferring small-scale pilots before enterprise-wide changes # List item with bolded span
-		  element_type:: list_item
-		  highlight_first_sentence:: true
-		- ## Site Footer # Section: Footer (Manually added, wasn't a specific section in original HTML)
+			- ### From Notes to Narratives
+			  element_type:: title
+			- We started with a simple idea: empower Logseq users to share their knowledge beautifully. Our journey is about bridging thought organization with compelling web presentation.
+			  element_type:: paragraph
+			- We support [[Open Source]] principles and believe in [[Community Collaboration]]. This tool is for [[Content Creators]] and [[Knowledge Workers]].
+			  element_type:: paragraph
+		- ## Why Partner With Us?
+		  section_type:: content_block
+	- # No layout property implies default single column, centered text.
+	    section_title:: The Advantages
+	- # Content elements are direct children
+		- ### Effortless Creation
+		  element_type:: title
+		- Transform complex Logseq outlines into structured HTML with minimal effort.
+		  element_type:: paragraph
+		- ### Blazing Speed
+		  element_type:: title
+		- Generate previews instantly and download your complete static site in seconds.
+		  element_type:: paragraph
+		  class:: italic text-center # Custom class example
+		- ### Cutting-Edge Design
+		  element_type:: title
+		- Utilizes Tailwind CSS for a professional, responsive, and modern aesthetic.
+		  element_type:: paragraph
+		- ## Get In Touch
+		  id:: contact
+		  section_type:: content_block
+		  section_title:: We're Here to Help
+	- # Content elements are direct children
+		- ### Reach Out
+		  element_type:: title
+		- For inquiries, support, or feedback, connect with us.
+		  element_type:: paragraph
+		- Email Our Team
+		  element_type:: button
+		  link_url:: mailto:support@example.com
+		  class:: mt-4
+		- ## Site Footer
 		  section_type:: footer
-		  id:: site-footer # Explicit ID
-	- # Add some placeholder footer content if needed, or leave empty if the generator template adds default footer HTML.
-	- # - [Copyright Text or Links]
-	- #   element_type:: paragraph
+		  id:: page-footer
+	- # Footer content items are children
+		- © ((CURRENT_YEAR)) MySiteName. All rights reserved. | [[Privacy Policy]] | [[Terms of Service]]
+		  element_type:: paragraph
 - ## Sample outline
 	- [[Alma Flamenca - Web Oficial]] # Este es el bloque raíz de la página (Nivel 0)
 	  title:: Alma Flamenca - La Fusión del Duende
