@@ -2,7 +2,6 @@ public:: true
 
 -
 - ## Web
-  collapsed:: true
 	- # Hero Section
 		- #headline “A Clear Path to Innovation”
 		- #subheadline Structured methodology to guide you from zero to validated prototype
