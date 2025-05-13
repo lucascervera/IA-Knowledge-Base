@@ -3,7 +3,7 @@ public:: true
 -
 - ## Web
 	- # Hero Section
-		- #headline “A Clear Path to Innovation”
+		- #headline “Innovation Kick-off Program”
 		- #subheadline Structured methodology to guide you from zero to validated prototype
 		- #call_to_action “Schedule a Free Consultation”
 	- # Value Proposition
