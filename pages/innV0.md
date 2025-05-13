@@ -6,7 +6,7 @@ public:: true
 	- ## Welcome to Our Dynamic Site!
 	  id:: hero-section
 	  section_type:: hero
-	  image_src:: /placeholder-hero-abstract.jpg 
+	  image_src:: https://innv0.com/img/main.webp
 	  image_alt:: Colorful abstract waves background
 		- #headline “Innovation Kick-off Program”
 		- #subheadline Structured methodology to guide you from zero to validated prototype
