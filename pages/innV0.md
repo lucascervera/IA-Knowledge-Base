@@ -6,6 +6,7 @@ public:: true
 		- #headline “Innovation Kick-off Program”
 		- #subheadline Structured methodology to guide you from zero to validated prototype
 		- #call_to_action “Schedule a Free Consultation”
+	-
 	- # Value Proposition
 	  collapsed:: true
 		- #problem_solved Eliminates “Where do we start?” by providing a proven roadmap that addresses the common paralysis in early innovation
