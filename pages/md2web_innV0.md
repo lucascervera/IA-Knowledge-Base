@@ -1,141 +1,287 @@
 ## Outline template
-	- [[Your Website Name]] # Root Block: The page title in Logseq and the base name for the generator.
-	  title:: [Title that will appear in the browser tab] # Property for the HTML <title>.
-	  lang:: en # Property for the HTML <html> lang attribute. Use 'es', 'fr', etc., depending on your content.
-	- # This Level 0 block does NOT directly generate an HTML section; it is the logical container.
-	- # --- MAIN SECTIONS (Level 1 Blocks) ---
-	- # Each Level 1 block (direct child of the root block) generates a <section> in the HTML.
-	- # Each section will have an ID automatically generated from the heading or the 'id::' property.
-		- ## Site Header # Level 1 Block: Section for the page header/navigation bar.
-		  section_type:: header # REQUIRED property to define the section type.
-	- # Sanitized ID: "site-header" (inferred from the ## heading)
-	- # You can use id:: [manual-name] if you don't want the ID generated from the heading.
-	  
-	    logo_text:: [Your Brand or Name] # Text that will appear as the logo/title in the header.
-	- # Navigation links usually go as children of this section.
-		- Home # A navigation link
-		  element_type:: link # Property to generate an <a> tag.
-		  link_url:: #main-section # Link to a section by its ID (e.g., the sanitized ID of the Hero section).
-		- [Section Name 1] # Another navigation link
-		  element_type:: link
-		  link_url:: #[sanitized-id-section1] # Make sure #[...] matches the ID of the target section.
-		- [Section Name 2] # Another link
-		  element_type:: link
-		  link_url:: #[sanitized-id-section2]
-	- # For external links that open in a new tab:
-	- # - Blog or News
-	- #   element_type:: link
-	- #   link_url:: https://your-blog.com # Full URL
-	- #   link_target:: _blank # Property to open in a new tab.
-		- ## Main Section (Hero) # Level 1 Block: The prominent section (right after the header).
-		  section_type:: hero # REQUIRED property.
-	- # Sanitized ID: "main-section-hero" (inferred from the ## heading)
-	  
-	    image_src:: img/[your-hero-image-name].webp # Property for the main Hero image.
-	    image_alt:: [Short description of the image for accessibility] # Property for the image alt attribute.
-	- # Hero content (main title, subtitle, call-to-action button) goes as child blocks.
-		- [Large, Catchy Hero Title] # This block will be the main title of the Hero.
-	- # You do NOT need a ## here if you use element_type:: title and section_type:: hero.
-	- # The generator already knows it's the main title and will apply the correct H2/styling.
-	      element_type:: title # Property to indicate this block is a content title.
-		- [Catchy subtitle or slogan describing your offer.]
-		  element_type:: paragraph # Property to indicate this block is a paragraph.
-	- # The generator will apply Hero subtitle classes to paragraphs under a Hero section.
-		- [Call to Action Button Text] # Block for the main button.
-		  element_type:: button # Property to generate a button.
-		  link_url:: [Button destination URL] # E.g., mailto:your.email@example.com or https://wa.me/... or #[contact-section-id]
-		  link_target:: _blank # Optional: opens the link in a new tab.
-		- ## Content Block with Image # Level 1 Block: Section to display content (text/lists) next to an image.
-		  section_type:: content_block # REQUIRED property.
-	- # Sanitized ID: "content-block-with-image"
-	  
-	    layout:: image_left # REQUIRED property for this section type: 'image_left' or 'image_right'.
-	- # This tells the generator to split this section into two visual columns on medium+ screens.
-	- # Direct children of this section WITH THE 'column::' property will define the content of each column.
-		- Content Column # Container block for the text column.
-		  column:: content # REQUIRED property if the parent has layout:: image_...
-	- # Child blocks nested here will go inside the text column.
-		- ### [Title within the Content Block] # Markdown Heading: Will generate an <h3> (due to ###).
-		  element_type:: title # Property to indicate it's a title. DO NOT use level::; it's inferred from Markdown.
-		- [Introductory or main paragraph for this section. Describe your service, product, story, etc.]
-		  element_type:: paragraph # Property to indicate it's a paragraph.
-		- [Another paragraph if needed.]
+	- [[AI Application Company Landing Page]] # Root Block
+	  title:: AI Application Company # From original <title>
+	  lang:: en # From original <html> tag
+		- ## Site Header # Section: Header
+		  section_type:: header
+		  id:: site-header
+		  
+		  logo_text:: innV0 # From <h1>innV0</h1>
+			- Lab # Navigation link
+			  element_type:: link
+			  link_url:: ./innV0_logseq/published/#/page/innv0_labs # From <a> href
+			  link_target:: _blank # From <a> target
+		- ## Innovation Kick-off Program # Section: Hero
+		  section_type:: hero
+	- # ID will be "innovation-kick-off-program" (inferred and sanitized from heading)
+	    image_src:: img/main.webp # From <img> src
+	    image_alt:: Innovation Kick-off Program illustration # Added descriptive alt text
+		- Innovation Kick-off Program # This text is the main title in the HTML Hero (H2).
+		  element_type:: title # Property indicates it's a title element.
+		- Structured methodology to guide you from zero to validated prototype # Paragraph in HTML Hero
 		  element_type:: paragraph
-	- # You can add lists here
-	- # - List Item 1: Description of the first point.
-	- #   element_type:: list_item # Property for a list item (<li>).
-	- #   highlight_first_sentence:: true # Optional: Bolds the part before the ':' or the beginning.
-	- # - List Item 2.
-	- #   element_type:: list_item
-		- Image Content Column # Container block for the image column.
-		  column:: image # REQUIRED property if the parent has layout:: image_...
-	- # The child block nested here SHOULD be the image.
-		- element_type:: image # Property to generate an <img> tag.
-		  image_src:: img/[your-content-image-name].webp # URL of the image for this column.
-		  image_alt:: [Description of the content image for accessibility]
-	- # Alternatively, if your Logseq parser allows, you could use Markdown image syntax directly under 'column:: image':
-	- # - ![Description of the image](img/[your-content-image-name].webp)
-	- #   # element_type:: image (May not be needed if using Markdown syntax and parser is smart)
-	- #   # image_src:: img/[your-content-image-name].webp (May not be needed if using Markdown syntax)
-	- #   # image_alt:: [Description of the image] (May not be needed if using Markdown syntax)
-		- ## Simple List Section # Level 1 Block: To present a list of items (e.g., features, services, agenda).
-		  section_type:: list_block # REQUIRED property.
-	- # Sanitized ID: "simple-list-section".
-	  
-	    section_title:: [Central Title for the List] # Optional property for a centered title above the list.
-	- # Direct children of this section will be the main list items (<li>).
-		- First item in your list: Description of the item.
-		  element_type:: list_item # REQUIRED property for each item.
-		  highlight_first_sentence:: true # Optional: Bolds the part before ':' or the beginning.
-		- Second item in your list: Another relevant description.
-		  element_type:: list_item
-		  highlight_first_sentence:: true
-		- Third simple item.
-		  element_type:: list_item # This one doesn't have highlight:: to show the difference.
-	- # You can nest content under a list item if you need details or sub-points.
-	- # - Item with Sub-points:
-	- #   element_type:: list_item
-	- #   - Sub-point A. # This will be nested as another list (<ul>) inside the parent item.
-	- #     element_type:: nested_list_item # Or simply list_item if the parser handles it.
-	- #   - Sub-point B.
-	- #     element_type:: nested_list_item
-		- ## Timeline Section # Level 1 Block: For sequential steps or events (e.g., process, history).
-		  section_type:: timeline # REQUIRED property.
-	- # Sanitized ID: "timeline-section"
-	  
-	    section_title:: [Main Title for the Timeline] # Optional central title.
-	- # Each direct child of this section is a step or event in the timeline.
-		- [Title of Step 1] # This block is the title of a timeline item.
-		  timeline_item:: true # REQUIRED property to mark a block as a timeline item.
-		  element_type:: item_title # Property to indicate this block is the item's title.
-			- [Detailed description of Step 1.] # Child block with the step's description.
-			  element_type:: paragraph # Property to indicate it's a paragraph.
-		- [Title of Step 2]
+		- Contact # Button text
+		  element_type:: button
+		  link_url:: mailto:lucas@lucascervera.com # From <a> href inside button
+		  link_target:: _blank # From <a> target
+		- ## Value Proposition # Section: Content Block (Image Left)
+		  section_type:: content_block
+	- # ID will be "value-proposition"
+	    layout:: image_left # From original HTML layout (image first)
+		- Image Column # Container for the image
+		  column:: image
+			- element_type:: image # Image element
+			  image_src:: img/1.webp # From <img> src
+			  image_alt:: Value Proposition Illustration # Added alt text
+		- Content Column # Container for text content
+		  column:: content
+			- ### Value Proposition # HTML H3
+			  element_type:: title # Inferred H3 from ###
+			- A step-by-step innovation framework: We provide a repeatable, proven sequence of phases so you never wonder what to tackle next # Paragraph with bolded span
+			  element_type:: paragraph
+			  highlight_first_sentence:: true # To make the first part bold
+		- ## Our Phases # Section: Timeline
+		  section_type:: timeline
+	- # ID will be "our-phases"
+	    section_title:: Our Phases # Central title based on the main ## heading
+	- # Introductory paragraph before timeline items in HTML
+	- # The original HTML didn't have introductory text here, it was in Process Flow. Let's keep the Process Flow structure for Process Flow.
+	- # This section is just the list of phases.
+	- # Each phase item in HTML is a timeline item in Logseq
+		- Identification # Title of Phase 1
+		  timeline_item:: true
+		  element_type:: item_title # Use item_title as defined in template
+			- Systematically uncover unmet needs, market gaps, and strategic opportunities. # Description of Phase 1
+			  element_type:: paragraph
+		- Evaluation & Ranking # Title of Phase 2
 		  timeline_item:: true
 		  element_type:: item_title
-			- [Detailed description of Step 2.]
+			- Score ideas against real-world criteria (feasibility, impact, effort) to prioritize the most promising. # Description of Phase 2
 			  element_type:: paragraph
-	- # ... Repeat the structure (Step Title -> timeline_item + item_title, with Description -> paragraph as child) for each step.
-		- ## Footer Section # Level 1 Block: Section for the footer.
-		  section_type:: footer # REQUIRED property.
-		  id:: site-footer # Explicit 'id::' property recommended for the footer for a fixed ID.
-			- [Copyright text, basic contact info, legal links, etc.]
-			  element_type:: paragraph # Property to indicate it's a paragraph.
-	- # You can add legal or social media links as children:
-	- # - Legal Notice
-	- #   element_type:: link
-	- #   link_url:: /legal-notice.html
-	- # - Instagram Link
-	- #   element_type:: link
-	- #   link_url:: https://instagram.com/yourprofile
-	- #   link_target:: _blank
-	- # --- GENERAL INSTRUCTIONS ---
-	- # - Fill in the "[...]" placeholders with your actual content.
-	- # - Properties are written as property:: value.
-	- # - The generator will infer the HTML heading level (H1, H2, etc.) ONLY from the # symbols at the start of the block (## -> H2, ### -> H3). DO NOT use the level:: property.
-	- # - Section IDs are automatically generated from the heading or the id:: property, sanitized (lowercase, spaces to -, removes special chars) and made unique by adding a suffix (-2, -3) if duplicates occur.
-	- # - Styling (colors, fonts, spacing) is handled by the generator applying predefined Tailwind classes based on the section_type, element_type, etc. You do NOT need (or want) to add Tailwind classes in this file.
-	- # - Export this outline as a Markdown (.md) file from Logseq and use it as input for your generator script.
+		- Prototyping # Title of Phase 3
+		  timeline_item:: true
+		  element_type:: item_title
+			- Build low-fidelity mock-ups that allow fast learning without heavy investment. # Description of Phase 3
+			  element_type:: paragraph
+		- Validation # Title of Phase 4
+		  timeline_item:: true
+		  element_type:: item_title
+			- Test prototypes with actual users or stakeholders and collect actionable feedback. # Description of Phase 4
+			  element_type:: paragraph
+		- Deployment Plan # Title of Phase 5
+		  timeline_item:: true
+		  element_type:: item_title
+			- Apply insights to enhance the solution, reduce risk, and prepare for deployment and scaling. # Description of Phase 5
+			  element_type:: paragraph
+		- ## Solution Structure # Section: Content Block (Image Right)
+		  section_type:: content_block
+	- # ID will be "solution-structure"
+	    layout:: image_right # From original HTML layout (text first, then image)
+		- Content Column # Container for text content (lists)
+		  column:: content
+			- ### Solution Structure # HTML H3
+			  element_type:: title # Inferred H3 from ###
+			- Modular Work Units: Self-contained building blocks you can plug into existing workflows or run as standalone sprints # List item with bolded span
+			  element_type:: list_item
+			  highlight_first_sentence:: true
+			- Inputs: Key documents, concepts, and tools such as strategic plans, customer personas, and ideation templates # List item with bolded span
+			  element_type:: list_item
+			  highlight_first_sentence:: true
+			- Tasks: # List item with bolded span, contains a nested list
+			  element_type:: list_item
+			  highlight_first_sentence:: true
+	- # Nested list items
+		- Autonomous exercises: Pre-recorded videos and guided worksheets for self-paced work # Nested list item with bolded span
+		  element_type:: list_item # Or nested_list_item if needed by generator
+		  highlight_first_sentence:: true
+		- Guided workshops: Live or virtual sessions led by our innovation coaches to deepen learning and collaboration # Nested list item with bolded span
+		  element_type:: list_item # Or nested_list_item
+		  highlight_first_sentence:: true
+		- Outputs: Tangible deliverables like opportunity maps, idea scorecards, prototype schematics, and user-test summaries # List item with bolded span
+		  element_type:: list_item
+		  highlight_first_sentence:: true
+		- Image Column # Container for the image
+		  column:: image
+		- element_type:: image # Image element
+		  image_src:: img/2.webp # From <img> src
+		  image_alt:: Solution Structure Diagram # Added alt text
+		- ## Our Process Flow # Section: Timeline (Modified)
+		  section_type:: timeline # Using timeline type as it's sequential steps
+	- # ID will be "our-process-flow"
+	    section_title:: Our Process Flow # Central title from main ## heading
+		- We provide minimalist educational content to ensure clients grasp concepts before activities... # Introductory paragraph before timeline items
+		  element_type:: paragraph # This paragraph is a direct child of the section, before items
+	- # Each step in HTML is a timeline item in Logseq
+		- Self-Diagnostic (AI-Guided) # Title of Step 1
+		  timeline_item:: true
+		  element_type:: item_title
+			- Method: Online chatbot questionnaire that assesses current innovation capabilities and mindset # Description 1 (Method) with bolded span
+			  element_type:: paragraph
+			  highlight_first_sentence:: true
+			- Focus: Measures risk tolerance, leadership buy-in, resource allocation, failure mindset, etc., and generates a personalized report highlighting strengths and gaps # Description 2 (Focus) with bolded span
+			  element_type:: paragraph
+			  highlight_first_sentence:: true
+		- Initial Diagnosis # Title of Step 2 (Note: HTML reverses layout for this item)
+		  timeline_item:: true
+		  element_type:: item_title
+	- # Optional: Maybe add a property like item_layout:: reversed if the generator supports item-level layout variations in timeline
+	- # item_layout:: reversed # e.g., text on right
+		- Method: Facilitated discovery session where stakeholders map out existing processes, pain points, and potential quick wins # Description 1 (Method) with bolded span
+		  element_type:: paragraph
+		  highlight_first_sentence:: true
+		- Deliverable: Current State & Opportunity Map – a visual chart showing high-impact areas to address first # Description 2 (Deliverable) with bolded span
+		  element_type:: paragraph
+		  highlight_first_sentence:: true
+		- Idea Generation & Evaluation # Title of Step 3
+		  timeline_item:: true
+		  element_type:: item_title
+		- Activities: Guided brainstorming (e.g., SCAMPER, How-Might-We) followed by weighted scoring of ideas # Description 1 (Activities) with bolded span
+		  element_type:: paragraph
+		  highlight_first_sentence:: true
+		- Deliverable: Ranked Idea Backlog with rationale and estimated benefits for each concept # Description 2 (Deliverable) with bolded span
+		  element_type:: paragraph
+		  highlight_first_sentence:: true
+		- Prototype Conceptualization # Title of Step 4 (Note: HTML reverses layout)
+		  timeline_item:: true
+		  element_type:: item_title
+	- # item_layout:: reversed # e.g., text on right
+		- Method: Rapid design sprint to sketch, decide, and storyboard key features # Description 1 (Method) with bolded span
+		  element_type:: paragraph
+		  highlight_first_sentence:: true
+		- Deliverables: Low-fidelity mock-ups and user journey sketches to illustrate core experiences # Description 2 (Deliverable) with bolded span
+		  element_type:: paragraph
+		  highlight_first_sentence:: true
+		- Validation & Feedback # Title of Step 5
+		  timeline_item:: true
+		  element_type:: item_title
+		- Activities: User interviews and usability tests to capture quantitative and qualitative data # Description 1 (Activities) with bolded span
+		  element_type:: paragraph
+		  highlight_first_sentence:: true
+		- Deliverable: Feedback & Insights Report with actionable recommendations on improvements, pivots, or eliminations # Description 2 (Deliverable) with bolded span
+		  element_type:: paragraph
+		  highlight_first_sentence:: true
+		- Iteration & Refinement # Title of Step 6 (Note: HTML reverses layout)
+		  timeline_item:: true
+		  element_type:: item_title
+	- # item_layout:: reversed # e.g., text on right
+		- Purpose: Continuous improvement through lean cycles to refine prototypes, optimize features, and prepare for pilot launch # Description 1 (Purpose) with bolded span
+		  element_type:: paragraph
+		  highlight_first_sentence:: true
+		- Deliverable: Refined Prototype & Next Steps Plan outlining final mock-ups and a roadmap for scaling # Description 2 (Deliverable) with bolded span
+		  element_type:: paragraph
+		  highlight_first_sentence:: true
+		- ## Integration with Best-Practice Methodologies # Section: Content Block (Image Left)
+		  section_type:: content_block
+	- # ID will be "integration-with-best-practice-methodologies"
+	    layout:: image_left
+		- Image Column # Container for the image
+		  column:: image
+			- element_type:: image
+			  image_src:: img/3.webp # From <img> src
+			  image_alt:: Integration Diagram # Added alt text
+		- Content Column # Container for text content (list)
+		  column:: content
+			- ### Integration with Best-Practice Methodologies # HTML H3
+			  element_type:: title # Inferred H3
+			- 24 Steps of Disciplined Entrepreneurship: End-to-end framework for building a scalable venture from idea to launch # List item with bolded span
+			  element_type:: list_item
+			  highlight_first_sentence:: true
+			- Lean Startup: Build–Measure–Learn cycles emphasizing quick experiments and data-driven decisions # List item with bolded span
+			  element_type:: list_item
+			  highlight_first_sentence:: true
+			- Running Lean: Rapid hypothesis validation to align teams on assumptions, risks, and metrics # List item with bolded span
+			  element_type:: list_item
+			  highlight_first_sentence:: true
+			- Design Thinking: Empathize → Define → Ideate → Prototype → Test for human-centered solutions # List item with bolded span
+			  element_type:: list_item
+			  highlight_first_sentence:: true
+		- ## Key Benefits # Section: Content Block (Single Column)
+		  section_type:: content_block
+	- # ID will be "key-benefits"
+	- # No 'layout' property implies single column, centered text styling is typical for content_block without layout.
+	- # Original HTML had md:flex-row-reverse but no image, so interpreting as single column content block.
+		- ### Key Benefits # HTML H3
+		  element_type:: title # Inferred H3
+		- Clarity: Defined path eradicates confusion and aligns teams # List item with bolded span
+		  element_type:: list_item
+		  highlight_first_sentence:: true
+		- Speed: Jump from zero to prototype in weeks, not months # List item with bolded span
+		  element_type:: list_item
+		  highlight_first_sentence:: true
+		- Risk Mitigation: Test assumptions early to reduce costly missteps # List item with bolded span
+		  element_type:: list_item
+		  highlight_first_sentence:: true
+		- Empowerment: Builds client capability through guided autonomy and learning # List item with bolded span
+		  element_type:: list_item
+		  highlight_first_sentence:: true
+		- ## Clients # Section: List Block
+		  section_type:: list_block
+	- # ID will be "clients"
+	    section_title:: Clients # Central title based on main ## heading
+		- Allocated innovation budget: Companies that have dedicated funding for R&D or innovation initiatives # List item with bolded span
+		  element_type:: list_item
+		  highlight_first_sentence:: true
+		- Desire for structured innovation: Organizations looking for a clear process to manage their innovation efforts effectively. # List item with bolded span
+		  element_type:: list_item
+		  highlight_first_sentence:: true
+		- Awareness of the need to innovate: Teams that recognize stagnation risks and are motivated to adopt new approaches # List item with bolded span
+		  element_type:: list_item
+		  highlight_first_sentence:: true
+		- No established innovation process: Organizations lacking internal frameworks, templates, or experience to systematically innovate # List item with bolded span
+		  element_type:: list_item
+		  highlight_first_sentence:: true
+		- ## Case Example # Section: Content Block (Image Left)
+		  section_type:: content_block
+	- # ID will be "case-example"
+	    layout:: image_left
+		- Image Column # Container for the image
+		  column:: image
+			- element_type:: image
+			  image_src:: img/4.webp # From <img> src
+			  image_alt:: Case Example Illustration # Added alt text
+		- Content Column # Container for text content (headings, lists)
+		  column:: content
+			- ### Case Example # HTML H3
+			  element_type:: title # Inferred H3
+			- #### Mid-Sized Event Company (40 Employees) # HTML H4
+			  element_type:: title # Inferred H4
+			- Profile: Overwhelmed with manual processes yet eager to innovate without derailing operations # List item with bolded span
+			  element_type:: list_item
+			  highlight_first_sentence:: true
+			- Application Steps: # List item with bolded span, contains nested list
+			  element_type:: list_item
+			  highlight_first_sentence:: true
+	- # Nested list items
+		- AI Self-Diagnostic Chatbot identifies lack of formal process and moderate risk aversion # Nested list item with bolded span
+		  element_type:: list_item # Or nested_list_item
+		  highlight_first_sentence:: true
+		- Initial Diagnosis Workshop uncovers scheduling chaos and manual speaker coordination # Nested list item with bolded span
+		  element_type:: list_item # Or nested_list_item
+		  highlight_first_sentence:: true
+		- Idea Workshop Generates concepts like speaker-management dashboard and email automation # Nested list item with bolded span
+		  element_type:: list_item # Or nested_list_item
+		  highlight_first_sentence:: true
+		- Prototype Sprint Designs wireframes for dashboard and automated flow in one day # Nested list item with bolded span
+		  element_type:: list_item # Or nested_list_item
+		  highlight_first_sentence:: true
+		- Validation Conducts usability tests with staff and a pilot cohort of attendees, gathering NPS and task-completion data # Nested list item with bolded span
+		  element_type:: list_item # Or nested_list_item
+		  highlight_first_sentence:: true
+		- Iterations Refines UI elements and workflow logic; simplifies onboarding steps # Nested list item with bolded span
+		  element_type:: list_item # Or nested_list_item
+		  highlight_first_sentence:: true
+		- Outcome: Pilot tool saves 30 % of planning time and increases on-time communications by 80 % # List item with bolded span
+		  element_type:: list_item
+		  highlight_first_sentence:: true
+		- Insights: Leadership will fund full rollout after seeing pilot ROI and show openness to external tech partnerships, preferring small-scale pilots before enterprise-wide changes # List item with bolded span
+		  element_type:: list_item
+		  highlight_first_sentence:: true
+		- ## Site Footer # Section: Footer (Manually added, wasn't a specific section in original HTML)
+		  section_type:: footer
+		  id:: site-footer # Explicit ID
+	- # Add some placeholder footer content if needed, or leave empty if the generator template adds default footer HTML.
+	- # - [Copyright Text or Links]
+	- #   element_type:: paragraph
 - ## Sample outline
 	- [[Alma Flamenca - Web Oficial]] # Este es el bloque raíz de la página (Nivel 0)
 	  title:: Alma Flamenca - La Fusión del Duende
