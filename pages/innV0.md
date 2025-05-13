@@ -3,14 +3,14 @@ public:: true
 -
 - ## Web
 	- # Hero Section
-		- #headline “Innovation Kick-off Program”
-		- #subheadline Structured methodology to guide you from zero to validated prototype
-		- #call_to_action “Schedule a Free Consultation”
 	- ## Welcome to Our Dynamic Site!
 	  id:: hero-section
 	  section_type:: hero
 	  image_src:: /placeholder-hero-abstract.jpg 
 	  image_alt:: Colorful abstract waves background
+		- #headline “Innovation Kick-off Program”
+		- #subheadline Structured methodology to guide you from zero to validated prototype
+		- #call_to_action “Schedule a Free Consultation”
 	- # Hero content elements are children of the hero section block
 		- #hero_title Next-Gen Web Experiences
 		  element_type:: title
