@@ -6,7 +6,19 @@ public:: true
 		- #headline “Innovation Kick-off Program”
 		- #subheadline Structured methodology to guide you from zero to validated prototype
 		- #call_to_action “Schedule a Free Consultation”
-	-
+	- ## Welcome to Our Dynamic Site!
+	  id:: hero-section
+	  section_type:: hero
+	  image_src:: /placeholder-hero-abstract.jpg 
+	  image_alt:: Colorful abstract waves background
+	- # Hero content elements are children of the hero section block
+		- #hero_title Next-Gen Web Experiences
+		  element_type:: title
+		- Transform your Logseq notes into stunning, interactive websites. Explore the future of content.
+		  element_type:: paragraph
+		- Explore Features
+		  element_type:: button
+		  link_url:: #features
 	- # Value Proposition
 	  collapsed:: true
 		- #problem_solved Eliminates “Where do we start?” by providing a proven roadmap that addresses the common paralysis in early innovation
